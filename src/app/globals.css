@@ -1,0 +1,10 @@
+/* Minimal baseline only; add design system when ready. */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
