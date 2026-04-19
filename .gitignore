@@ -1,26 +1,234 @@
-# dependencies
-node_modules
-.pnp
-.pnp.js
+# ─────────────────────────────────────────────────────────────────────────────
+# SECRETS & CREDENTIALS
+# Never commit these. If you ever commit one by accident, rotate it immediately
+# and use `git filter-repo` or BFG to scrub it from history.
+# ─────────────────────────────────────────────────────────────────────────────
 
-# build
-.next
-out
-build
-dist
-
-# env
+# Environment variables (every flavor)
 .env
-.env*.local
+.env.*
+!.env.example
+!.env.sample
+!.env.template
 
-# debug / os
-npm-debug.log*
-.DS_Store
+# API keys, tokens, certificates, service account files
+*.key
 *.pem
+*.cert
+*.crt
+*.p12
+*.pfx
+secrets.json
+credentials.json
+service-account*.json
+gcp-key*.json
+firebase-adminsdk-*.json
 
-# ide
-.idea
-.vscode
+# Cloud provider credentials
+.aws/
+.azure/
+.gcloud/
 
-# vercel
+# SSH
+id_rsa
+id_rsa.pub
+id_ed25519
+id_ed25519.pub
+known_hosts
+
+# Generic "don't ship" patterns — review matches before relying on these in
+# a shared repo, they're intentionally broad.
+*.secret
+*.secrets
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# DEPENDENCIES
+# ─────────────────────────────────────────────────────────────────────────────
+
+node_modules/
+/.pnp
+.pnp.js
+.pnp.cjs
+.pnp.loader.mjs
+
+# Package manager caches
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+.pnpm-store/
+.npm/
+
+# Lockfiles from managers you DON'T use — uncomment the ones that apply.
+# Keeping multiple lockfiles in a repo causes nondeterministic installs.
+# yarn.lock
+# pnpm-lock.yaml
+# bun.lockb
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# NEXT.JS BUILD OUTPUT
+# ─────────────────────────────────────────────────────────────────────────────
+
+.next/
+out/
+build/
+dist/
+
+# Next.js auto-generates this on every `next dev` / `next build`
+next-env.d.ts
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# TYPESCRIPT / BUILD ARTIFACTS
+# ─────────────────────────────────────────────────────────────────────────────
+
+*.tsbuildinfo
+.tsbuildinfo
+.turbo/
+.swc/
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# TESTING
+# ─────────────────────────────────────────────────────────────────────────────
+
+coverage/
+.nyc_output/
+*.lcov
+.jest-cache/
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# LOGS & DEBUG
+# ─────────────────────────────────────────────────────────────────────────────
+
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# RUNTIME
+# ─────────────────────────────────────────────────────────────────────────────
+
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# DEPLOYMENT PLATFORMS
+# ─────────────────────────────────────────────────────────────────────────────
+
 .vercel
+.netlify
+.serverless/
+.firebase/
+.wrangler/
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# IDE & EDITOR
+# ─────────────────────────────────────────────────────────────────────────────
+
+# VS Code — keep shared workspace settings, ignore personal ones
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# JetBrains (WebStorm, IntelliJ)
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Sublime
+*.sublime-project
+*.sublime-workspace
+
+# Vim / Neovim
+*.swp
+*.swo
+*~
+.*.swp
+.*.swo
+
+# Emacs
+\#*\#
+.\#*
+
+# Zed
+.zed/
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# OS / FILESYSTEM
+# ─────────────────────────────────────────────────────────────────────────────
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Linux
+.directory
+.Trash-*
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# MISC
+# ─────────────────────────────────────────────────────────────────────────────
+
+# Local developer scratch files
+/scratch/
+/tmp/
+TODO.local.md
+NOTES.local.md
+*.local.md
+
+# Compressed archives (usually shouldn't live in a source repo)
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.rar
+*.7z
+
+# Local SQLite / dev databases
+*.sqlite
+*.sqlite3
+*.db
+
+# Caches
+.eslintcache
+.stylelintcache
+
+# Node REPL history
+.node_repl_history
+
+# Dotenv Vault
+.env.vault
+.env.keys
