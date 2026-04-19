@@ -4,11 +4,11 @@
 
 @layer base {
   :root {
-    --color-bg: 250 245 236; /* cream-100 */
-    --color-surface: 254 251 246; /* cream-50 */
-    --color-ink: 43 41 38;
-    --color-clay: 216 115 85;
-    --color-sage: 107 128 87;
+    --color-bg: 245 240 232; /* warm cream */
+    --color-surface: 255 255 255; /* white */
+    --color-ink: 26 26 26; /* charcoal */
+    --color-clay: 44 107 90; /* medical teal */
+    --color-sage: 232 243 239; /* teal mist */
   }
 
   html {
@@ -58,8 +58,8 @@
   /* A subtle background "noise" feeling via layered gradients — no image needed */
   .bg-paper {
     background-image:
-      radial-gradient(circle at 20% 10%, rgba(224, 152, 121, 0.08) 0, transparent 45%),
-      radial-gradient(circle at 80% 60%, rgba(160, 181, 133, 0.08) 0, transparent 40%);
+      radial-gradient(circle at 20% 10%, rgba(44, 107, 90, 0.08) 0, transparent 45%),
+      radial-gradient(circle at 80% 60%, rgba(232, 243, 239, 0.5) 0, transparent 40%);
   }
 }
 
