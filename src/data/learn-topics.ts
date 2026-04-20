@@ -19,7 +19,7 @@ export const learnTopics: LearnTopic[] = [
     content: [
       'Good questions turn an appointment from a rushed check-in into a useful conversation. Before you go, jot down what concerns you most.',
       'A few prompts that work in almost any visit: What is the most likely cause of my symptoms? What tests do I need, and why? What are the treatment options and their trade-offs? When should I come back, and what should I watch for in the meantime?',
-      'Bring your list on paper or on your phone. You do not have to remember everything — you just have to bring the list.',
+      'Bring your list on paper or on your phone. You do not have to remember everything, you just have to bring the list.',
     ],
   },
   {
@@ -52,14 +52,14 @@ export const learnTopics: LearnTopic[] = [
     content: [
       'A symptom is something you feel or notice, like pain, fatigue, or dizziness. A sign is something measurable, like a temperature or a rash.',
       'When describing a symptom, cover five things: where it is, what it feels like, how severe it is, when it happens, and what makes it change.',
-      'Tracking symptoms over a few days — even in a simple note on your phone — gives clinicians a much fuller picture than memory alone.',
+      'Tracking symptoms over a few days gives clinicians a much fuller picture than memory alone.',
     ],
   },
   {
     id: 'reliable-information',
     title: 'Reliable Health Information',
     summary:
-      'Where to look — and who to trust — when searching for health information online.',
+      'Where to look and who to trust when searching for health information online.',
     content: [
       'Not every health site is equal. Prioritize sources written or reviewed by clinicians: national health services, major medical centers, and peer-reviewed organizations.',
       'Good starting points include government health agencies, academic medical centers like Mayo Clinic and Cleveland Clinic, and nonprofit specialty organizations.',
@@ -74,7 +74,7 @@ export const learnTopics: LearnTopic[] = [
     content: [
       'Emergency rooms are for life-threatening problems: chest pain, trouble breathing, sudden weakness or numbness, severe bleeding, signs of stroke, or serious injury.',
       'Urgent care handles things that cannot wait days but are not emergencies: moderate infections, minor fractures, high but stable fevers.',
-      'Primary care covers everything that can wait a few days to a couple of weeks. When in doubt, call your provider or a nurse helpline — they can help you decide.',
+      'Primary care covers everything that can wait a few days to a couple of weeks. When in doubt, call your provider or a nurse helpline, they can help you decide.',
     ],
   },
   {
@@ -94,7 +94,7 @@ export const learnTopics: LearnTopic[] = [
     summary:
       'Why "increases your risk" is not the same thing as "will give you."',
     content: [
-      'A cause directly produces a condition. Risk factors only increase the likelihood — they do not guarantee it.',
+      'A cause directly produces a condition. Risk factors only increase the likelihood, they do not guarantee it.',
       'Smoking is a risk factor for lung cancer, not a cause in the strict sense. Plenty of smokers never develop it, and some non-smokers do.',
       'Understanding this difference helps you weigh lifestyle changes realistically, without fatalism or false reassurance.',
     ],
@@ -106,7 +106,7 @@ export const learnTopics: LearnTopic[] = [
       'Quick checks to separate trustworthy articles from misleading ones.',
     content: [
       'Check the author. Is there a named person with medical or scientific credentials?',
-      'Check the date. Medicine changes — an article from ten years ago may be out of date.',
+      'Check the date. Medicine changes, an article from ten years ago may be out of date.',
       'Check the citations. Reputable sources link to primary research or established guidelines, not just other blogs.',
       'Check the tone. Balanced language, acknowledged uncertainty, and a clear distinction between opinion and evidence are all good signs.',
     ],
@@ -119,7 +119,7 @@ export const learnTopics: LearnTopic[] = [
     content: [
       'Health literacy is the ability to find, understand, and use health information to make decisions.',
       'Higher health literacy is linked to better management of chronic conditions, more effective conversations with providers, and fewer hospital readmissions.',
-      'Educational initiatives like Aware in Medicine exist to make this skill accessible to anyone — not just people with medical backgrounds.',
+      'Educational initiatives like Aware in Medicine exist to make this skill accessible to anyone, not just people with medical backgrounds.',
     ],
   },
 ];
