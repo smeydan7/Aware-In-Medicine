@@ -2,7 +2,7 @@
   "name": "aware-in-medicine",
   "version": "0.2.0",
   "private": true,
-  "description": "Aware in Medicine — a nonprofit medical education platform making health knowledge accessible for all.",
+  "description": "Aware in Medicine: a nonprofit medical education platform making health knowledge accessible for all.",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
