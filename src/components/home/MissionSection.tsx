@@ -35,7 +35,7 @@ export function MissionSection() {
           <div className="lg:col-span-5">
             <div className="relative aspect-[4/5] w-full overflow-hidden rounded-2xl border border-cream-200 bg-cream-50">
               <Image
-                src="/doctor-explaining-diagnosis-to-his-patient-young-male-senior-33253911.webp"
+                src="/doctor.png" 
                 alt="Doctor explaining diagnosis to a patient."
                 fill
                 className="object-cover"
