@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { Mail, Heart } from 'lucide-react';
+import { Mail, Heart, Stethoscope } from 'lucide-react';
 import { siteConfig } from '@/config/site';
 import { primaryNav } from '@/config/navigation';
 import { Container } from '@/components/ui/Container';
@@ -14,9 +14,9 @@ export function Footer() {
           {/* Brand & mission */}
           <div className="md:col-span-5">
             <Link href="/" className="inline-flex items-center gap-2.5">
-              <span className="w-9 h-9 rounded-full bg-clay-400 text-cream-50 flex items-center justify-center text-sm font-serif">
-                A
-              </span>
+            <span className="w-9 h-9 rounded-full bg-clay-400 text-cream-50 flex items-center justify-center shadow-soft group-hover:bg-clay-500 transition-colors">
+              <Stethoscope className="w-[18px] h-[18px]" strokeWidth={2} aria-hidden />
+            </span>
               <span className="font-serif text-xl text-ink">{siteConfig.name}</span>
             </Link>
             <p className="mt-4 text-ink-soft max-w-sm leading-relaxed">
