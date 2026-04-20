@@ -1,5 +1,5 @@
 import { Container } from '@/components/ui/Container';
-import { ImagePlaceholder } from '@/components/ui/ImagePlaceholder';
+import Image from 'next/image';
 
 export function MissionSection() {
   return (
@@ -31,13 +31,18 @@ export function MissionSection() {
             </div>
           </div>
 
-          {/* Image slot */}
+          {/* Mission image */}
           <div className="lg:col-span-5">
-            <ImagePlaceholder
-              label="Founder / team photo"
-              hint="A warm, human image — the team, a hand holding a stethoscope, or a clean flat-lay of notebooks and reference materials."
-              aspect="aspect-[4/5]"
-            />
+            <div className="relative aspect-[4/5] w-full overflow-hidden rounded-2xl border border-cream-200 bg-cream-50">
+              <Image
+                src="/doctor-explaining-diagnosis-to-his-patient-young-male-senior-33253911.webp"
+                alt="Doctor explaining diagnosis to a patient."
+                fill
+                className="object-cover"
+                sizes="(min-width: 1024px) 32vw, 92vw"
+                priority={false}
+              />
+            </div>
           </div>
         </div>
       </Container>

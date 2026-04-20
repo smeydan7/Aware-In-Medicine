@@ -1,7 +1,5 @@
 # ─────────────────────────────────────────────────────────────────────────────
 # SECRETS & CREDENTIALS
-# Never commit these. If you ever commit one by accident, rotate it immediately
-# and use `git filter-repo` or BFG to scrub it from history.
 # ─────────────────────────────────────────────────────────────────────────────
 
 # Environment variables (every flavor)
@@ -36,8 +34,6 @@ id_ed25519
 id_ed25519.pub
 known_hosts
 
-# Generic "don't ship" patterns — review matches before relying on these in
-# a shared repo, they're intentionally broad.
 *.secret
 *.secrets
 
@@ -59,13 +55,6 @@ node_modules/
 .yarn/install-state.gz
 .pnpm-store/
 .npm/
-
-# Lockfiles from managers you DON'T use — uncomment the ones that apply.
-# Keeping multiple lockfiles in a repo causes nondeterministic installs.
-# yarn.lock
-# pnpm-lock.yaml
-# bun.lockb
-
 
 # ─────────────────────────────────────────────────────────────────────────────
 # NEXT.JS BUILD OUTPUT
@@ -138,7 +127,7 @@ pids/
 # IDE & EDITOR
 # ─────────────────────────────────────────────────────────────────────────────
 
-# VS Code — keep shared workspace settings, ignore personal ones
+# VS Code
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
@@ -209,7 +198,7 @@ TODO.local.md
 NOTES.local.md
 *.local.md
 
-# Compressed archives (usually shouldn't live in a source repo)
+# Compressed archives
 *.zip
 *.tar
 *.tar.gz

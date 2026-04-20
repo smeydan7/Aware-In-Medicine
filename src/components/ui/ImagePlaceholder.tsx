@@ -2,23 +2,14 @@ import { cn } from '@/lib/utils';
 import { Image as ImageIcon } from 'lucide-react';
 
 type ImagePlaceholderProps = {
-  /** Human-readable label, e.g. "Hero photo" or "Team portrait". */
   label: string;
-  /** Optional note explaining what the final asset should be. */
   hint?: string;
-  /** Aspect ratio class, e.g. "aspect-video" or "aspect-square". */
   aspect?: string;
   className?: string;
 };
 
 /**
  * A clearly-labelled placeholder where imagery will live.
- *
- * Keep these in the code until real assets are ready — they're
- * intentionally obvious so nobody ships them to production by accident.
- *
- * To swap in a real image: replace the <ImagePlaceholder /> with a
- * <next/image> (or <Image />) using the same aspect wrapper.
  */
 export function ImagePlaceholder({
   label,

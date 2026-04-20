@@ -1,27 +1,9 @@
 import type { Metadata } from 'next';
-import { Fraunces, Inter } from 'next/font/google';
 import { Header } from '@/components/layout/Header';
 import { Footer } from '@/components/layout/Footer';
 import { ChatbotWidget } from '@/components/chatbot/ChatbotWidget';
 import { siteConfig } from '@/config/site';
 import './globals.css';
-
-/**
- * Typography: friendly serif (Fraunces) for headings + clean sans (Inter) for body.
- * next/font self-hosts these with zero layout shift.
- */
-const fraunces = Fraunces({
-  subsets: ['latin'],
-  variable: '--font-fraunces',
-  display: 'swap',
-  axes: ['SOFT', 'opsz'],
-});
-
-const inter = Inter({
-  subsets: ['latin'],
-  variable: '--font-inter',
-  display: 'swap',
-});
 
 export const metadata: Metadata = {
   title: {
@@ -50,7 +32,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en" className={`${fraunces.variable} ${inter.variable}`}>
+    <html lang="en">
       <body className="min-h-screen flex flex-col bg-paper">
         {/* Skip link for keyboard users */}
         <a

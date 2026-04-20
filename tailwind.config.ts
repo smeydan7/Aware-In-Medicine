@@ -45,8 +45,8 @@ const config: Config = {
         },
       },
       fontFamily: {
-        serif: ['var(--font-fraunces)', 'ui-serif', 'Georgia', 'serif'],
-        sans: ['var(--font-inter)', 'ui-sans-serif', 'system-ui', 'sans-serif'],
+        sans: ['"Trebuchet MS"', 'sans-serif'],
+        serif: ['"Trebuchet MS"', 'sans-serif'],
       },
       fontSize: {
         'display-xl': ['clamp(3rem, 6vw, 5.5rem)', { lineHeight: '1.05', letterSpacing: '-0.02em' }],
