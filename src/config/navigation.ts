@@ -1,5 +1,5 @@
 /**
- * Primary navigation — edit here to change nav across header + footer + mobile menu.
+ * Primary navigation
  */
 
 export type NavItem = {

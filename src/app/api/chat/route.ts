@@ -55,7 +55,7 @@ export async function POST(req: Request) {
     const lastUserMsg =
       messages.filter((m) => m.role === 'user').at(-1)?.content ?? '';
     return NextResponse.json({
-      reply: `(Demo mode — Anthropic API key not configured.) You asked: "${lastUserMsg.slice(
+      reply: `(Demo mode: AI API key not configured.) You asked: "${lastUserMsg.slice(
         0,
         120
       )}". Once wired up, I'll answer using the Aware in Medicine content library.`,
@@ -85,6 +85,6 @@ export async function POST(req: Request) {
   // While the live path is commented out, fall through to the stub:
   return NextResponse.json({
     reply:
-      'Live path is commented out in /api/chat/route.ts — uncomment it to enable real responses. The system prompt is already wired to the site content via buildChatbotSystemPrompt().',
+      'Live path is commented out in /api/chat/route.ts - uncomment it to enable real responses. The system prompt is already wired to the site content via buildChatbotSystemPrompt().',
   });
 }

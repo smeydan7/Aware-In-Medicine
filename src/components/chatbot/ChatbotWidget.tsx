@@ -15,7 +15,7 @@ import type { ChatMessage } from '@/types';
  *   - All bot "knowledge" (conditions list, learn topics, disclaimer) is
  *     assembled server-side in /api/chat via buildChatbotSystemPrompt().
  *     The client component is purely presentational.
- *   - State is local — no context provider or global store needed.
+ *   - State is local: no context provider or global store needed.
  */
 export function ChatbotWidget() {
   if (!features.chatbot.enabled) return null;
@@ -143,7 +143,7 @@ function ChatbotWidgetInner() {
               Aware assistant
             </p>
             <p className="text-xs text-ink-muted mt-0.5">
-              Educational info only — never medical advice.
+              Educational info only. This is not medical advice.
             </p>
           </div>
 

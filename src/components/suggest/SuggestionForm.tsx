@@ -83,7 +83,7 @@ export function SuggestionForm() {
           <CheckCircle2 className="w-7 h-7" aria-hidden />
         </div>
         <h3 className="font-serif text-2xl md:text-3xl text-ink">
-          Thank you — got it.
+          Thank you, we got it.
         </h3>
         <p className="mt-3 text-ink-soft max-w-md mx-auto leading-relaxed">
           Your suggestion has been received. We read every submission and use
@@ -190,7 +190,7 @@ export function SuggestionForm() {
           )}
         </Button>
         <p className="mt-3 text-xs text-ink-muted">
-          We won't share your submission. Educational content only — never
+          We won't share your submission. Educational content only, never
           medical advice.
         </p>
       </div>

@@ -1,6 +1,5 @@
 /**
  * Site-wide configuration and metadata.
- * Single source of truth for org info — consumed by layout, SEO, footer, chatbot context.
  */
 
 export const siteConfig = {

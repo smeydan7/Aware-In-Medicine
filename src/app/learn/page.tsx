@@ -8,7 +8,7 @@ import { learnTopics } from '@/data/learn-topics';
 export const metadata: Metadata = {
   title: 'Learn the Basics',
   description:
-    'Practical healthcare literacy — how to prepare for appointments, understand terminology, evaluate health information, and more.',
+    'Practical healthcare literacy: how to prepare for appointments, understand terminology, evaluate health information, and more.',
 };
 
 export default function LearnPage() {

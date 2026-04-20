@@ -25,7 +25,7 @@ export function CTASection() {
               Is there a condition you'd like us to cover next?
             </h2>
             <p className="mt-5 text-cream-100/90 max-w-xl mx-auto leading-relaxed">
-              Your suggestions directly shape what we cover. Send us a topic —
+              Your suggestions directly shape what we cover. Send us a topic,
               we read every submission.
             </p>
             <div className="mt-8">

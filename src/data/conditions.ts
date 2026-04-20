@@ -6,10 +6,10 @@ import type { Condition } from '@/types';
  * Sourced from the Weekly Updates log and Conditions Library.
  * Each entry is categorized by body system to power the filter UI.
  *
- * To add a new condition:
+ * New condition process:
  *   1. Append an entry here with the next week number.
  *   2. Add the category if it's new to the `ConditionCategory` union in types.
- *   3. That's it — the Weekly Updates page and Conditions Library pick it up.
+ *   3. Weekly Updates page and Conditions Library pick it up.
  */
 
 export const conditions: Condition[] = [

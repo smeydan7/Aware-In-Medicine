@@ -50,12 +50,12 @@
     @apply mx-auto w-full max-w-6xl px-5 sm:px-8 lg:px-12;
   }
 
-  /* Small label — used for section eyebrows */
+  /* Small label */
   .eyebrow {
     @apply inline-flex items-center gap-2 text-xs font-medium uppercase tracking-[0.14em] text-clay-500;
   }
 
-  /* A subtle background "noise" feeling via layered gradients — no image needed */
+  /* A subtle background "noise" feeling via layered gradients */
   .bg-paper {
     background-image:
       radial-gradient(circle at 20% 10%, rgba(44, 107, 90, 0.08) 0, transparent 45%),

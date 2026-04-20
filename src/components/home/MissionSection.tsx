@@ -15,8 +15,8 @@ export function MissionSection() {
             <div className="mt-8 space-y-5 text-ink-soft text-lg leading-relaxed max-w-prose">
               <p>
                 Aware in Medicine is a nonprofit educational platform that turns
-                complex medical conditions into clear, engaging explanations —
-                the kind you'd actually share with a friend or family member.
+                complex medical conditions into clear, engaging explanations.
+                The kind you'd actually share with a friend or family member.
               </p>
               <p>
                 So many of us encounter health information online but struggle

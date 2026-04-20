@@ -5,7 +5,7 @@ const pillars = [
   {
     icon: Video,
     title: 'Weekly condition explainers',
-    body: 'Short, research-backed videos on TikTok breaking down a new condition every week — symptoms, causes, and treatments in plain language.',
+    body: 'Short, research-backed videos on TikTok breaking down a new condition every week! Symptoms, causes, and treatments in plain language.',
   },
   {
     icon: BookOpen,
@@ -20,7 +20,7 @@ const pillars = [
   {
     icon: Lightbulb,
     title: 'Curiosity, encouraged',
-    body: "Medicine is fascinating when it's explained well. We aim to make you want to learn more — not less.",
+    body: "Medicine is fascinating when it's explained well. We aim to make you want to learn more, not less.",
   },
 ];
 

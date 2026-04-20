@@ -25,7 +25,7 @@ export default function WeeklyUpdatesPage() {
             Every week, a new condition. {conditions.length} and counting.
           </h1>
           <p className="mt-6 text-lg text-ink-soft max-w-2xl leading-relaxed">
-            A timeline of every condition we've featured — from the first
+            A timeline of every condition we've featured: from the first
             video through the most recent. Documenting each topic builds a
             growing archive of accessible medical education.
           </p>

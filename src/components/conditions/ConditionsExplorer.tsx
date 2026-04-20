@@ -17,7 +17,7 @@ type SortMode = 'newest' | 'oldest' | 'alphabetical';
  * Client-side interactive explorer for the Conditions Library.
  *
  * Filters by search term (name or full name match) and by category.
- * State is purely local — no URL sync yet, but the shape of the
+ * State is purely local.  No URL sync yet, but the shape of the
  * filter state is kept flat so it'd be trivial to wire to query params later.
  */
 export function ConditionsExplorer({

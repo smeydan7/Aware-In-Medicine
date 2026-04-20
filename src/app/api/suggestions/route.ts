@@ -7,7 +7,7 @@ import { suggestionSchema } from '@/lib/validation';
  * Receives a condition suggestion from the /suggest page.
  *
  * CURRENT BEHAVIOR: validates input and logs it to the server console.
- * This is intentionally a stub — to ship real submissions, wire one of
+ * This is intentionally a stub, to ship real submissions, wire in one of
  * these in:
  *   - Resend / SendGrid → email the submission to awareinmedicine@gmail.com
  *   - Supabase / Postgres → write to a `suggestions` table

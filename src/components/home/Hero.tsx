@@ -12,7 +12,6 @@ export function Hero() {
 
   return (
     <section className="relative pt-10 md:pt-20 pb-16 md:pb-24 overflow-hidden">
-      {/* Decorative dots — subtle nod to the existing site's pattern */}
       <div className="absolute inset-0 pointer-events-none" aria-hidden>
         <div className="absolute top-24 left-[8%] w-2 h-2 rounded-full bg-clay-200" />
         <div className="absolute top-48 right-[12%] w-3 h-3 rounded-full bg-sage-200" />
@@ -46,7 +45,7 @@ export function Hero() {
 
               <p className="mt-7 text-lg md:text-xl text-ink-soft max-w-2xl leading-relaxed text-pretty">
                 Each week, we break down a different condition into clear,
-                research-backed explanations — so patients, students, and families
+                research-backed explanations. So patients, students, and families
                 can navigate healthcare with more confidence.
               </p>
 
