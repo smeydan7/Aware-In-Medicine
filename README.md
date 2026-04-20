@@ -1,4 +1,4 @@
-# Aware in Medicine🩺 
+# Aware in Medicine 🩺 
 
 Aware in Medicine is a nonprofit educational platform dedicated to making medical knowledge accessible, understandable, and engaging for everyone. By breaking down complex terminology and research, the organization empowers students, patients, and families to navigate healthcare with more confidence.
 
