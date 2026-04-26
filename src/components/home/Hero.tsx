@@ -61,7 +61,7 @@ export function Hero() {
             </div>
 
             {/* Image Container: 3px white border and portrait aspect ratio */}
-            <div className="relative hidden md:block h-[440px] w-[320px] overflow-hidden rounded-2xl border-[3px] border-white bg-cream-50 shadow-soft">
+            <div className="relative hidden md:block h-[440px] w-[320px] overflow-hidden rounded-2xl border-[0px] border-white bg-cream-50 shadow-soft">
               <Image
                 src="/profile%20picture%20(2).png"
                 alt="Aware in Medicine logo"

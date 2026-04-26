@@ -17,9 +17,13 @@ export const learnTopics: LearnTopic[] = [
     summary:
       'Come prepared with the right questions so you leave your appointment with clarity.',
     content: [
-      'Good questions turn an appointment from a rushed check-in into a useful conversation. Before you go, jot down what concerns you most.',
-      'A few prompts that work in almost any visit: What is the most likely cause of my symptoms? What tests do I need, and why? What are the treatment options and their trade-offs? When should I come back, and what should I watch for in the meantime?',
-      'Bring your list on paper or on your phone. You do not have to remember everything, you just have to bring the list.',
+      `When visiting a doctor, asking questions can help you better understand your condition and treatment, 
+      and it is always appropriate to request clarification if something is unclear. You may want to ask 
+      about your condition, including its name, causes, and whether it is temporary or long-term; about 
+      tests and diagnosis, such as why a test is needed, what it will show, and any associated risks or 
+      preparations; about treatment options, including available approaches, their benefits and possible 
+      side effects, and how long they may take to work; and about next steps, such as which symptoms to monitor, 
+      when to return for a follow-up, and when to seek urgent care.`,
     ],
   },
   {
@@ -28,9 +32,12 @@ export const learnTopics: LearnTopic[] = [
     summary:
       'A short glossary to help you decode charts, test results, and conversations with clinicians.',
     content: [
-      'Medical vocabulary can feel like a second language. Learning a handful of common terms makes everything else easier to parse.',
-      'Acute means short-term and sudden. Chronic means long-lasting. Benign means not cancerous. Malignant means cancerous. A diagnosis is the name of a condition; a prognosis is the likely outcome.',
-      'When you hear a word you do not know, it is always okay to ask your provider to define it. Most are happy to.',
+      `Doctors often use medical terminology that may be unfamiliar, but learning a few common terms 
+      can make conversations easier to understand. A diagnosis is the identification of a disease or 
+      condition based on symptoms, tests, and medical evaluation; symptoms are changes in the body that 
+      indicate a possible health issue, such as pain, fatigue, or fever; a chronic condition is a long-term 
+      health issue that often requires ongoing management; an acute condition develops suddenly and typically 
+      lasts a short time; and treatment refers to the medical care provided to manage or cure a condition.`
     ],
   },
   {
@@ -39,9 +46,12 @@ export const learnTopics: LearnTopic[] = [
     summary:
       'Ten minutes of prep can make a fifteen-minute visit far more productive.',
     content: [
-      'Write down your symptoms with timing details: when they started, how often they happen, what makes them better or worse.',
-      'Bring a current list of medications and supplements, including doses. If you have recent test results from another provider, bring those too.',
-      'If the appointment is complex, consider bringing a trusted person. Two sets of ears catch more.',
+      `Preparing for a medical visit can help you get the most out of your appointment.
+      Before your visit, write down your symptoms and when they began, make a list of medications 
+      you are taking, note any important medical history, and prepare questions you want to ask. During 
+      your appointment, be honest about your symptoms, ask for clarification if anything is confusing, 
+      and take notes if needed. After your appointment, follow treatment instructions carefully, schedule 
+      any recommended follow-ups, and monitor your symptoms.`
     ],
   },
   {
@@ -50,9 +60,10 @@ export const learnTopics: LearnTopic[] = [
     summary:
       'Symptoms are signals. Knowing how to describe them helps providers help you.',
     content: [
-      'A symptom is something you feel or notice, like pain, fatigue, or dizziness. A sign is something measurable, like a temperature or a rash.',
-      'When describing a symptom, cover five things: where it is, what it feels like, how severe it is, when it happens, and what makes it change.',
-      'Tracking symptoms over a few days gives clinicians a much fuller picture than memory alone.',
+      `Symptoms are signals that the body may not be functioning normally, and paying close 
+      attention to them can support more accurate diagnosis. It is helpful to note when symptoms started, 
+      how often they occur, what makes them better or worse, and how severe they are, as tracking these 
+      details can help doctors make more informed assessments.`
     ],
   },
   {
@@ -61,9 +72,10 @@ export const learnTopics: LearnTopic[] = [
     summary:
       'Where to look and who to trust when searching for health information online.',
     content: [
-      'Not every health site is equal. Prioritize sources written or reviewed by clinicians: national health services, major medical centers, and peer-reviewed organizations.',
-      'Good starting points include government health agencies, academic medical centers like Mayo Clinic and Cleveland Clinic, and nonprofit specialty organizations.',
-      'Be cautious with personal blogs, wellness influencers, and sites that sell products alongside their advice. If a claim feels too absolute, look for a second source.',
+      `Not all health information online is accurate, so it is important to rely on trusted sources when 
+      researching medical topics. Reliable sources include major hospitals and medical institutions, government 
+      health agencies, peer-reviewed medical journals, and reputable health organizations, and it is always 
+      essential to consult healthcare professionals for medical advice or treatment decisions.`
     ],
   },
   {
@@ -72,9 +84,10 @@ export const learnTopics: LearnTopic[] = [
     summary:
       'Learn the difference between wait-and-see, primary care, urgent care, and the ER.',
     content: [
-      'Emergency rooms are for life-threatening problems: chest pain, trouble breathing, sudden weakness or numbness, severe bleeding, signs of stroke, or serious injury.',
-      'Urgent care handles things that cannot wait days but are not emergencies: moderate infections, minor fractures, high but stable fevers.',
-      'Primary care covers everything that can wait a few days to a couple of weeks. When in doubt, call your provider or a nurse helpline, they can help you decide.',
+      `Certain symptoms should always be evaluated by a healthcare professional. Seek medical care if you 
+      experience severe or persistent pain, difficulty breathing, sudden changes in vision or speech, a high 
+      fever that does not improve, or symptoms that worsen quickly; if you are unsure whether a symptom is 
+      serious, it is always safer to consult a medical professional.`
     ],
   },
   {
@@ -83,9 +96,14 @@ export const learnTopics: LearnTopic[] = [
     summary:
       'A look at what actually happens between "I have symptoms" and a named diagnosis.',
     content: [
-      'Diagnosis is a process, not a single moment. Clinicians gather a history, do a physical exam, and often order tests to narrow down possibilities.',
-      'Many conditions do not have a single definitive test. Instead, doctors use pattern recognition and a process of elimination, ruling out what it is not.',
-      'This is why a diagnosis sometimes takes more than one visit, and why second opinions can be valuable for complex cases.',
+      `Diagnosing a medical condition usually involves several steps, as doctors gather information from 
+      different sources to understand what may be causing a patient's symptoms. This process includes reviewing 
+      medical history—such as current symptoms, when they began, family medical history, past illnesses or 
+      conditions, and medications being taken—to help identify possible causes; conducting a physical examination, 
+      which may involve checking heart rate, breathing, blood pressure, temperature, and reflexes or areas of pain 
+      to assess how the body is functioning; and, when necessary, ordering medical tests such as blood tests, 
+      imaging (including X-rays, CT scans, or MRIs), urine tests, or biopsies to help confirm or rule out 
+      potential diagnoses.`
     ],
   },
   {
@@ -94,9 +112,11 @@ export const learnTopics: LearnTopic[] = [
     summary:
       'Why "increases your risk" is not the same thing as "will give you."',
     content: [
-      'A cause directly produces a condition. Risk factors only increase the likelihood, they do not guarantee it.',
-      'Smoking is a risk factor for lung cancer, not a cause in the strict sense. Plenty of smokers never develop it, and some non-smokers do.',
-      'Understanding this difference helps you weigh lifestyle changes realistically, without fatalism or false reassurance.',
+      `When learning about diseases, it is important to understand the difference between causes and risk factors.
+       A cause is something that directly leads to a disease, such as a virus causing an infection, while a risk 
+       factor increases the likelihood that someone may develop a condition without guaranteeing it; examples of 
+       risk factors include age, genetics, lifestyle habits, and environmental exposure. Understanding this 
+       distinction helps people interpret medical information more accurately.`
     ],
   },
   {
@@ -105,10 +125,13 @@ export const learnTopics: LearnTopic[] = [
     summary:
       'Quick checks to separate trustworthy articles from misleading ones.',
     content: [
-      'Check the author. Is there a named person with medical or scientific credentials?',
-      'Check the date. Medicine changes, an article from ten years ago may be out of date.',
-      'Check the citations. Reputable sources link to primary research or established guidelines, not just other blogs.',
-      'Check the tone. Balanced language, acknowledged uncertainty, and a clear distinction between opinion and evidence are all good signs.',
+      `Health information is widely available online, but not all sources are reliable, so it is important to 
+      evaluate credibility when reading about medical topics. Trusted information typically comes from government 
+      health organizations, major hospitals or universities, peer-reviewed medical journals, and recognized health 
+      organizations, and it should reference scientific research, explain where the information comes from, and 
+      avoid exaggerated claims. It is also important to be cautious of misinformation from sources that promise 
+      quick cures, use sensational language, or fail to cite credible evidence, and to always consult a healthcare 
+      professional for personal medical advice.`
     ],
   },
   {
@@ -117,9 +140,11 @@ export const learnTopics: LearnTopic[] = [
     summary:
       'The single skill that improves almost every interaction with the healthcare system.',
     content: [
-      'Health literacy is the ability to find, understand, and use health information to make decisions.',
-      'Higher health literacy is linked to better management of chronic conditions, more effective conversations with providers, and fewer hospital readmissions.',
-      'Educational initiatives like Aware in Medicine exist to make this skill accessible to anyone, not just people with medical backgrounds.',
+      `Health literacy refers to the ability to understand health information and make informed decisions about 
+      care, and improving it can help individuals better understand medical conditions, follow treatment plans 
+      correctly, communicate more effectively with healthcare providers, and recognize when to seek medical 
+      attention. Educational initiatives like Aware in Medicine aim to make health knowledge more accessible 
+      so that people feel more confident navigating medical information.`
     ],
   },
 ];
