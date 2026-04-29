@@ -39,7 +39,7 @@ export function Header() {
       className={cn(
         'sticky top-0 z-40 transition-all duration-300',
         scrolled
-          ? 'bg-cream-50/85 backdrop-blur-md border-b border-cream-300/60'
+          ? 'bg-cream-50/95 md:bg-cream-50/85 md:backdrop-blur-md border-b border-cream-300/60'
           : 'bg-transparent border-b border-transparent'
       )}
     >
