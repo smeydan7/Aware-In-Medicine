@@ -11,6 +11,9 @@ export const metadata: Metadata = {
     template: `%s · ${siteConfig.name}`,
   },
   description: siteConfig.description,
+  icons: {
+    icon: '/stethoscope-svgrepo-com.svg',
+  },
   metadataBase: new URL(siteConfig.url),
   openGraph: {
     title: siteConfig.name,
