@@ -76,7 +76,7 @@ export default function WeeklyUpdatesPage() {
               aria-hidden
             />
 
-            {timeline.map((c) => (
+            {timeline.slice(1).map((c) => (
               <li key={c.slug} className="relative pl-12 pb-8 last:pb-0">
                 {/* Dot */}
                 <span
