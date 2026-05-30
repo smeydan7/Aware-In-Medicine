@@ -22,7 +22,7 @@ export default function WeeklyUpdatesPage() {
         <Container>
           <p className="eyebrow mb-5">Weekly Updates</p>
           <h1 className="font-serif text-display-lg text-balance text-ink max-w-3xl">
-            Every week, a new condition. {conditions.length} and counting.
+            Every week, a new condition.
           </h1>
           <p className="mt-6 text-lg text-ink-soft max-w-2xl leading-relaxed">
             A timeline of every condition we've featured: from the first

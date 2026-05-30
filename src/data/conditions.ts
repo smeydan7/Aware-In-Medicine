@@ -80,6 +80,8 @@ export const conditions: Condition[] = [
   { slug: 'cushings', name: "Cushing's", fullName: "Cushing's Syndrome", category: 'Endocrine', week: 65, tiktokUrl: 'https://www.tiktok.com/@awareinmedicine/photo/7616064131078098196?is_from_webapp=1&web_id=7616071265966982676' },
   { slug: 'wilsons', name: "Wilson's", fullName: "Wilson's Disease", category: 'Genetic', week: 66, tiktokUrl: 'https://www.tiktok.com/@awareinmedicine/photo/7616064774610160916?is_from_webapp=1&sender_device=pc&web_id=7589736926786389522' },
   { slug: 'fnd', name: 'FND', fullName: 'Functional neurological disorder', category: 'Neurological', week: 67, tiktokUrl: 'https://www.tiktok.com/@awareinmedicine/photo/7626512457225342228?is_from_webapp=1&sender_device=pc&web_id=7589736926786389522' },
+  { slug: 'men', name: 'MEN', fullName: 'Multiple endocrine neoplasia syndromes', category: 'Genetic', week: 68, tiktokUrl: 'https://www.tiktok.com/@awareinmedicine/photo/7630635759233453332' },
+  { slug: 'acromegaly', name: 'Acromegaly', category: 'Endocrine', week: 69, tiktokUrl: 'https://www.tiktok.com/@awareinmedicine/photo/7636199417737006356' },
 ];
 
 /**
