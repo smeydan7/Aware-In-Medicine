@@ -1,0 +1,692 @@
+[
+    {
+      "slug": "adhd",
+      "summary": "ADHD is a neurodevelopmental condition that affects attention, impulse control, and activity levels. It often starts in childhood and frequently continues into adulthood, though symptoms can look different at different ages.",
+      "symptoms": ["trouble focusing or finishing tasks", "easily distracted", "restlessness or fidgeting", "acting or speaking before thinking", "forgetfulness and losing things", "difficulty staying organized"],
+      "causes": ["genetics and family history", "differences in brain development", "premature birth or low birth weight", "prenatal exposure to alcohol or nicotine"],
+      "treatments": ["stimulant medications (methylphenidate, amphetamines)", "non-stimulant medications (atomoxetine)", "behavioural therapy", "coaching and organizational strategies", "school or workplace accommodations"],
+      "affectedAreas": ["brain", "attention", "behaviour", "executive function"],
+      "relatedConditions": ["anxiety", "ocd", "dyslexia", "tourettes-syndrome"],
+      "commonlyConfusedWith": ["anxiety", "dyslexia", "depression", "bipolar disorder"]
+    },
+    {
+      "slug": "pcos",
+      "summary": "PCOS is a hormonal condition affecting people with ovaries, often involving irregular periods, higher levels of male-type hormones, and small cysts on the ovaries. It is a common cause of fertility difficulties and can affect metabolism and weight.",
+      "symptoms": ["irregular or missed periods", "excess facial or body hair", "acne", "weight gain or trouble losing weight", "thinning hair on the scalp", "difficulty getting pregnant"],
+      "causes": ["hormonal imbalance", "insulin resistance", "genetic predisposition", "low-grade inflammation"],
+      "treatments": ["birth control pills to regulate periods", "metformin for insulin resistance", "anti-androgen medications", "fertility medications like letrozole", "diet and exercise changes"],
+      "affectedAreas": ["ovaries", "hormones", "skin", "metabolism", "reproductive system"],
+      "relatedConditions": ["diabetes", "hypothyroidism", "endometriosis", "anxiety"],
+      "commonlyConfusedWith": ["hypothyroidism", "endometriosis", "cushings"]
+    },
+    {
+      "slug": "lupus",
+      "summary": "Lupus is a chronic autoimmune disease where the immune system mistakenly attacks healthy tissue throughout the body. It can affect the skin, joints, kidneys, brain, and other organs, and often comes and goes in flares.",
+      "symptoms": ["butterfly-shaped rash across cheeks and nose", "extreme fatigue", "joint pain and swelling", "sensitivity to sunlight", "hair loss", "chest pain when breathing deeply"],
+      "causes": ["immune system dysfunction", "genetic predisposition", "hormonal factors", "environmental triggers like UV light or infections"],
+      "treatments": ["hydroxychloroquine (Plaquenil)", "corticosteroids", "immunosuppressants", "NSAIDs for pain", "avoiding sun exposure"],
+      "affectedAreas": ["skin", "joints", "kidneys", "heart", "brain", "lungs"],
+      "relatedConditions": ["mctd", "uctd", "vasculitis", "ms"],
+      "commonlyConfusedWith": ["fibromyalgia", "mctd", "uctd", "rheumatoid arthritis"]
+    },
+    {
+      "slug": "ibs",
+      "summary": "IBS is a common disorder of the gut that affects how the bowel works, causing belly pain along with changes in bowel habits. It does not damage the bowel, but symptoms can be uncomfortable and disruptive to daily life.",
+      "symptoms": ["belly cramps and pain", "bloating and gas", "diarrhea, constipation, or both", "feeling of incomplete bowel movements", "mucus in the stool", "symptoms eased by passing a bowel movement"],
+      "causes": ["oversensitive gut nerves", "abnormal gut muscle contractions", "stress and gut-brain interaction", "changes in gut bacteria", "food intolerances"],
+      "treatments": ["dietary changes such as low-FODMAP", "fibre supplements", "antispasmodic medications", "laxatives or anti-diarrheal medications", "stress management and therapy"],
+      "affectedAreas": ["large intestine", "digestive system", "gut-brain axis"],
+      "relatedConditions": ["crohns-disease", "celiacs-disease", "anxiety", "fibromyalgia"],
+      "commonlyConfusedWith": ["crohns-disease", "celiacs-disease", "endometriosis"]
+    },
+    {
+      "slug": "fibromyalgia",
+      "summary": "Fibromyalgia is a long-term condition that causes widespread pain, fatigue, and tenderness throughout the body. It is thought to involve how the brain and nerves process pain signals, making the body more sensitive to discomfort.",
+      "symptoms": ["widespread aching or burning pain", "constant tiredness", "trouble sleeping", "brain fog and memory problems", "tender points across the body", "stiffness in the morning"],
+      "causes": ["altered pain processing in the nervous system", "genetic predisposition", "physical or emotional trauma", "infections as a trigger"],
+      "treatments": ["medications like duloxetine or pregabalin", "gentle exercise and stretching", "cognitive behavioural therapy", "improving sleep habits", "pacing activity to avoid flares"],
+      "affectedAreas": ["muscles", "nervous system", "brain", "soft tissue"],
+      "relatedConditions": ["ibs", "pots", "anxiety", "insomnia"],
+      "commonlyConfusedWith": ["lupus", "ms", "hypothyroidism", "chronic fatigue syndrome"]
+    },
+    {
+      "slug": "crohns-disease",
+      "summary": "Crohn's disease is a type of inflammatory bowel disease where the immune system causes inflammation in the digestive tract. It can affect any part of the gut from mouth to anus and tends to flare and settle over time.",
+      "symptoms": ["ongoing diarrhea", "belly pain and cramping", "blood in the stool", "unexplained weight loss", "fatigue", "mouth sores"],
+      "causes": ["immune system dysfunction", "genetic predisposition", "imbalance in gut bacteria", "environmental triggers like smoking"],
+      "treatments": ["anti-inflammatory medications", "immunosuppressants", "biologic medications", "corticosteroids during flares", "surgery for severe damage"],
+      "affectedAreas": ["small intestine", "large intestine", "digestive tract", "immune system"],
+      "relatedConditions": ["ibs", "celiacs-disease", "anemia", "sarcoidosis"],
+      "commonlyConfusedWith": ["ibs", "celiacs-disease", "ulcerative colitis"]
+    },
+    {
+      "slug": "ocd",
+      "summary": "OCD is a mental health condition involving unwanted, repeated thoughts (obsessions) and behaviours done to relieve the anxiety they cause (compulsions). These cycles can take up a lot of time and interfere with daily life.",
+      "symptoms": ["repeated unwanted or disturbing thoughts", "intense need to check things repeatedly", "excessive washing or cleaning", "counting or arranging rituals", "needing things to feel 'just right'", "distress when routines are interrupted"],
+      "causes": ["brain circuit differences", "genetic predisposition", "serotonin imbalance", "stressful life events as a trigger"],
+      "treatments": ["exposure and response prevention therapy", "SSRIs (antidepressants)", "cognitive behavioural therapy", "support groups"],
+      "affectedAreas": ["brain", "thoughts", "behaviour", "mental health"],
+      "relatedConditions": ["anxiety", "adhd", "tourettes-syndrome"],
+      "commonlyConfusedWith": ["anxiety", "tourettes-syndrome", "autism"]
+    },
+    {
+      "slug": "pots",
+      "summary": "POTS is a condition that affects blood flow and heart rate when standing up, causing the heart to race and the person to feel dizzy or faint. It happens because the body struggles to regulate blood pressure with changes in position.",
+      "symptoms": ["racing heartbeat when standing", "dizziness or lightheadedness", "fainting or near-fainting", "fatigue", "brain fog", "shakiness and sweating"],
+      "causes": ["dysfunction of the autonomic nervous system", "low blood volume", "often follows a viral illness", "linked to connective tissue conditions"],
+      "treatments": ["increasing salt and fluid intake", "compression garments", "beta blockers", "fludrocortisone or midodrine", "gradual exercise reconditioning"],
+      "affectedAreas": ["heart", "blood vessels", "autonomic nervous system"],
+      "relatedConditions": ["eds", "fibromyalgia", "fnd", "anxiety"],
+      "commonlyConfusedWith": ["anxiety", "anemia", "panic disorder"]
+    },
+    {
+      "slug": "insomnia",
+      "summary": "Insomnia is ongoing difficulty falling asleep, staying asleep, or getting restful sleep, even when there's a chance to do so. Over time it can affect mood, focus, and overall health.",
+      "symptoms": ["trouble falling asleep", "waking up often during the night", "waking too early", "feeling tired after a full night's sleep", "daytime sleepiness", "irritability and poor concentration"],
+      "causes": ["stress and anxiety", "irregular sleep schedule", "caffeine or alcohol", "medical conditions or pain", "certain medications"],
+      "treatments": ["cognitive behavioural therapy for insomnia (CBT-I)", "good sleep hygiene", "short-term sleep medications", "melatonin", "treating underlying causes"],
+      "affectedAreas": ["brain", "sleep cycle", "mental health"],
+      "relatedConditions": ["anxiety", "fibromyalgia", "sleep-apnea", "menopause"],
+      "commonlyConfusedWith": ["sleep-apnea", "anxiety", "depression"]
+    },
+    {
+      "slug": "asthma",
+      "summary": "Asthma is a long-term lung condition where the airways become inflamed and narrow, making it hard to breathe. Symptoms can be triggered by allergens, exercise, cold air, or infections and range from mild to life-threatening.",
+      "symptoms": ["wheezing or whistling when breathing", "shortness of breath", "tight chest", "coughing, often at night", "trouble breathing during exercise"],
+      "causes": ["allergies", "genetic predisposition", "air pollution and irritants", "respiratory infections in childhood"],
+      "treatments": ["reliever inhalers (salbutamol)", "preventer inhalers (corticosteroids)", "avoiding triggers", "asthma action plan", "biologic medications for severe cases"],
+      "affectedAreas": ["lungs", "airways", "respiratory system"],
+      "relatedConditions": ["bronchitis", "copd", "eczema"],
+      "commonlyConfusedWith": ["copd", "bronchitis", "anxiety"]
+    },
+    {
+      "slug": "diabetes",
+      "summary": "Diabetes is a condition where blood sugar levels become too high because the body can't make or properly use insulin. Type 1 is an autoimmune condition, while type 2 is linked to insulin resistance and is more common.",
+      "symptoms": ["frequent urination", "extreme thirst", "unexplained weight loss", "constant hunger", "blurred vision", "slow-healing cuts and frequent infections"],
+      "causes": ["autoimmune destruction of insulin cells (type 1)", "insulin resistance (type 2)", "genetic predisposition", "obesity and inactivity (type 2)"],
+      "treatments": ["insulin injections", "metformin and other oral medications", "blood sugar monitoring", "diet and exercise", "newer drugs like GLP-1 agonists"],
+      "affectedAreas": ["pancreas", "blood sugar", "eyes", "kidneys", "nerves", "heart"],
+      "relatedConditions": ["pcos", "hypothyroidism", "anemia"],
+      "commonlyConfusedWith": ["hypothyroidism", "diabetes insipidus", "pcos"]
+    },
+    {
+      "slug": "alzheimers",
+      "summary": "Alzheimer's is a progressive brain disease that gradually destroys memory and thinking skills. It is the most common cause of dementia and usually affects older adults, worsening slowly over years.",
+      "symptoms": ["memory loss that disrupts daily life", "trouble finding words", "getting confused about time or place", "difficulty with planning and problem solving", "personality and mood changes", "misplacing things"],
+      "causes": ["buildup of amyloid and tau proteins in the brain", "genetic predisposition", "age-related brain changes", "cardiovascular risk factors"],
+      "treatments": ["cholinesterase inhibitors", "memantine", "newer anti-amyloid antibody treatments", "structured routines and support", "managing other health conditions"],
+      "affectedAreas": ["brain", "memory", "thinking", "behaviour"],
+      "relatedConditions": ["huntingtons-disease", "ataxia", "hydrocephalus"],
+      "commonlyConfusedWith": ["normal aging", "hydrocephalus", "depression", "vascular dementia"]
+    },
+    {
+      "slug": "cystic-fibrosis",
+      "summary": "Cystic fibrosis is an inherited condition that causes thick, sticky mucus to build up in the lungs and digestive system. This leads to breathing problems and difficulty absorbing nutrients, and requires lifelong management.",
+      "symptoms": ["persistent cough with thick mucus", "frequent lung infections", "wheezing and shortness of breath", "poor weight gain despite good appetite", "greasy, bulky stools", "very salty-tasting skin"],
+      "causes": ["inherited mutations in the CFTR gene", "passed down when both parents are carriers"],
+      "treatments": ["airway clearance techniques", "CFTR modulator medications", "inhaled medications and antibiotics", "pancreatic enzyme supplements", "high-calorie nutrition support"],
+      "affectedAreas": ["lungs", "pancreas", "digestive system", "sweat glands"],
+      "relatedConditions": ["bronchitis", "copd", "diabetes"],
+      "commonlyConfusedWith": ["asthma", "chronic bronchitis", "celiacs-disease"]
+    },
+    {
+      "slug": "endometriosis",
+      "summary": "Endometriosis is a condition where tissue similar to the lining of the uterus grows outside it, causing pain and sometimes fertility problems. The misplaced tissue responds to hormonal cycles, leading to inflammation and scarring.",
+      "symptoms": ["severe period pain", "pain during or after sex", "heavy or irregular periods", "chronic pelvic pain", "painful bowel movements during periods", "difficulty getting pregnant"],
+      "causes": ["tissue spreading backward through the fallopian tubes", "hormonal and immune factors", "genetic predisposition"],
+      "treatments": ["hormonal birth control", "GnRH medications", "pain relievers", "laparoscopic surgery to remove tissue", "fertility treatment if needed"],
+      "affectedAreas": ["uterus", "ovaries", "pelvis", "bowel", "reproductive system"],
+      "relatedConditions": ["pcos", "ibs", "fibromyalgia"],
+      "commonlyConfusedWith": ["ibs", "pcos", "pelvic inflammatory disease"]
+    },
+    {
+      "slug": "anemia",
+      "summary": "Anemia means the blood doesn't have enough healthy red blood cells to carry oxygen around the body. It often leaves people feeling tired and weak, and it has many possible causes ranging from iron deficiency to chronic illness.",
+      "symptoms": ["constant tiredness and weakness", "pale skin", "shortness of breath", "dizziness", "cold hands and feet", "fast or irregular heartbeat"],
+      "causes": ["iron deficiency", "vitamin B12 or folate deficiency", "blood loss", "chronic diseases", "inherited conditions affecting red blood cells"],
+      "treatments": ["iron supplements", "vitamin B12 or folate supplements", "dietary changes", "treating the underlying cause", "blood transfusions in severe cases"],
+      "affectedAreas": ["blood", "bone marrow", "circulatory system"],
+      "relatedConditions": ["sickle-cell-disease", "crohns-disease", "celiacs-disease", "hypothyroidism"],
+      "commonlyConfusedWith": ["hypothyroidism", "chronic fatigue syndrome", "depression"]
+    },
+    {
+      "slug": "celiacs-disease",
+      "summary": "Celiac disease is an autoimmune condition where eating gluten damages the lining of the small intestine. This makes it hard to absorb nutrients and can cause a wide range of digestive and whole-body symptoms.",
+      "symptoms": ["diarrhea or constipation", "bloating and gas", "belly pain", "fatigue", "unexplained weight loss", "itchy skin rash"],
+      "causes": ["autoimmune reaction to gluten", "genetic predisposition", "triggered in genetically susceptible people"],
+      "treatments": ["strict lifelong gluten-free diet", "nutritional supplements for deficiencies", "monitoring by a dietitian", "follow-up blood tests"],
+      "affectedAreas": ["small intestine", "digestive system", "immune system"],
+      "relatedConditions": ["crohns-disease", "ibs", "anemia", "diabetes"],
+      "commonlyConfusedWith": ["ibs", "crohns-disease", "gluten intolerance", "lactose intolerance"]
+    },
+    {
+      "slug": "tourettes-syndrome",
+      "summary": "Tourette's syndrome is a neurological condition that causes sudden, repeated movements or sounds called tics that a person can't easily control. Tics usually start in childhood and often become milder in adulthood.",
+      "symptoms": ["repeated blinking, shrugging, or jerking movements", "throat clearing or grunting sounds", "repeating words or phrases", "tics that worsen with stress or excitement", "a building urge before a tic"],
+      "causes": ["differences in brain regions controlling movement", "genetic predisposition", "neurotransmitter imbalances"],
+      "treatments": ["behavioural therapy (habit reversal)", "medications to reduce tics", "treating co-occurring ADHD or OCD", "education and support"],
+      "affectedAreas": ["brain", "nervous system", "movement", "vocalization"],
+      "relatedConditions": ["ocd", "adhd", "anxiety"],
+      "commonlyConfusedWith": ["ocd", "adhd", "epilepsy", "fnd"]
+    },
+    {
+      "slug": "psoriasis",
+      "summary": "Psoriasis is a long-term autoimmune skin condition that speeds up the growth of skin cells, leading to thick, scaly patches. It can flare and settle, and sometimes affects the joints as well.",
+      "symptoms": ["raised red patches with silvery scales", "dry, cracked skin that may bleed", "itching or burning", "thickened or pitted nails", "stiff, swollen joints in some people"],
+      "causes": ["overactive immune system", "genetic predisposition", "triggers like stress, infection, or skin injury"],
+      "treatments": ["topical corticosteroids and vitamin D creams", "light therapy", "biologic medications", "systemic immunosuppressants", "moisturizers and trigger avoidance"],
+      "affectedAreas": ["skin", "scalp", "nails", "joints", "immune system"],
+      "relatedConditions": ["eczema", "lupus", "vasculitis"],
+      "commonlyConfusedWith": ["eczema", "fungal infections", "seborrheic dermatitis"]
+    },
+    {
+      "slug": "dyslexia",
+      "summary": "Dyslexia is a common learning difference that mainly affects reading, spelling, and writing, despite normal intelligence. It involves how the brain processes language and is a lifelong condition that can be managed with the right support.",
+      "symptoms": ["trouble reading accurately or fluently", "difficulty spelling", "mixing up letters or words", "slow reading and writing", "trouble sounding out words", "avoiding reading aloud"],
+      "causes": ["differences in how the brain processes language", "genetic and family history", "differences in brain structure and function"],
+      "treatments": ["structured literacy and phonics programs", "specialized tutoring", "school accommodations", "assistive technology and audiobooks"],
+      "affectedAreas": ["brain", "language processing", "reading", "learning"],
+      "relatedConditions": ["adhd", "anxiety"],
+      "commonlyConfusedWith": ["adhd", "vision problems", "intellectual disability"]
+    },
+    {
+      "slug": "scoliosis",
+      "summary": "Scoliosis is a sideways curve of the spine that often develops during the growth spurt before puberty. Many cases are mild, but more severe curves can affect posture, comfort, and in rare cases breathing.",
+      "symptoms": ["uneven shoulders or hips", "one shoulder blade sticking out", "leaning to one side", "visible curve in the spine", "back pain in some cases", "clothes hanging unevenly"],
+      "causes": ["unknown in most cases (idiopathic)", "genetic factors", "neuromuscular conditions", "birth defects of the spine"],
+      "treatments": ["monitoring mild curves", "back bracing during growth", "physical therapy", "surgery for severe curves", "pain management"],
+      "affectedAreas": ["spine", "back", "posture"],
+      "relatedConditions": ["marfan-syndrome", "eds"],
+      "commonlyConfusedWith": ["poor posture", "kyphosis", "leg length difference"]
+    },
+    {
+      "slug": "hemophilia",
+      "summary": "Hemophilia is an inherited bleeding disorder where the blood doesn't clot properly because it lacks certain clotting factors. People with it bleed for longer than usual, sometimes into joints and muscles.",
+      "symptoms": ["bleeding that doesn't stop easily", "large or deep bruises", "bleeding into joints causing swelling and pain", "blood in urine or stool", "prolonged bleeding after injury or surgery"],
+      "causes": ["inherited mutations affecting clotting factors", "X-linked inheritance, mostly affecting males"],
+      "treatments": ["clotting factor replacement therapy", "newer non-factor medications", "desmopressin for mild cases", "avoiding injury", "specialized care at hemophilia centres"],
+      "affectedAreas": ["blood", "joints", "muscles", "circulatory system"],
+      "relatedConditions": ["itp", "anemia", "sickle-cell-disease"],
+      "commonlyConfusedWith": ["itp", "von Willebrand disease", "vitamin K deficiency"]
+    },
+    {
+      "slug": "schizophrenia",
+      "summary": "Schizophrenia is a serious mental health condition that affects how a person thinks, feels, and perceives reality. It can involve hallucinations, delusions, and disorganized thinking, and is usually managed long-term with treatment and support.",
+      "symptoms": ["hearing voices or seeing things others don't", "strong false beliefs", "disorganized or confused thinking", "withdrawal from others", "flat or reduced emotions", "trouble concentrating"],
+      "causes": ["genetic predisposition", "brain chemistry and structure differences", "prenatal and birth complications", "stress or substance use as triggers"],
+      "treatments": ["antipsychotic medications", "psychotherapy", "social and vocational support", "family education", "coordinated specialty care"],
+      "affectedAreas": ["brain", "thoughts", "perception", "emotions", "mental health"],
+      "relatedConditions": ["ocd", "anxiety"],
+      "commonlyConfusedWith": ["bipolar disorder", "schizoaffective disorder", "drug-induced psychosis"]
+    },
+    {
+      "slug": "lyme-disease",
+      "summary": "Lyme disease is an infection spread through the bite of an infected blacklegged tick. Caught early it's usually treatable with antibiotics, but if missed it can cause longer-lasting joint, nerve, and heart problems.",
+      "symptoms": ["circular bull's-eye rash", "fever and chills", "fatigue", "headache and muscle aches", "joint pain and swelling", "facial drooping in some cases"],
+      "causes": ["infection with Borrelia bacteria", "transmitted by blacklegged (deer) tick bites"],
+      "treatments": ["oral antibiotics (doxycycline)", "intravenous antibiotics for severe cases", "early treatment for best outcomes", "tick bite prevention"],
+      "affectedAreas": ["skin", "joints", "nervous system", "heart"],
+      "relatedConditions": ["bells-palsy", "fibromyalgia", "ms"],
+      "commonlyConfusedWith": ["fibromyalgia", "ms", "chronic fatigue syndrome", "flu"]
+    },
+    {
+      "slug": "tuberculosis",
+      "summary": "Tuberculosis (TB) is a bacterial infection that mainly affects the lungs but can spread to other parts of the body. It spreads through the air and can stay dormant for years before becoming active and contagious.",
+      "symptoms": ["a cough lasting more than three weeks", "coughing up blood or mucus", "chest pain", "night sweats", "fever", "unexplained weight loss"],
+      "causes": ["infection with Mycobacterium tuberculosis", "spread through airborne droplets", "higher risk with weakened immune systems"],
+      "treatments": ["long course of multiple antibiotics", "directly observed therapy", "completing the full treatment to prevent resistance", "isolation while contagious"],
+      "affectedAreas": ["lungs", "lymph nodes", "bones", "other organs"],
+      "relatedConditions": ["bronchitis", "copd", "sarcoidosis"],
+      "commonlyConfusedWith": ["pneumonia", "bronchitis", "lung cancer", "sarcoidosis"]
+    },
+    {
+      "slug": "sarcoidosis",
+      "summary": "Sarcoidosis is an inflammatory condition where tiny clusters of immune cells called granulomas form in organs, most often the lungs. Its cause isn't fully understood, and it can range from mild to serious depending on which organs are involved.",
+      "symptoms": ["persistent dry cough", "shortness of breath", "fatigue", "swollen lymph nodes", "red or tender bumps on the skin", "blurred vision or eye irritation"],
+      "causes": ["overactive immune response", "possible environmental or infectious triggers", "genetic predisposition"],
+      "treatments": ["corticosteroids", "immunosuppressant medications", "monitoring mild cases", "treating affected organs"],
+      "affectedAreas": ["lungs", "lymph nodes", "skin", "eyes", "heart"],
+      "relatedConditions": ["tuberculosis", "lupus", "vasculitis"],
+      "commonlyConfusedWith": ["tuberculosis", "lymphoma", "lupus"]
+    },
+    {
+      "slug": "eds",
+      "summary": "Ehlers-Danlos syndromes are a group of inherited conditions that affect connective tissue, which supports the skin, joints, and blood vessels. They commonly cause very flexible joints and stretchy, fragile skin.",
+      "symptoms": ["very flexible or hypermobile joints", "joints that dislocate easily", "stretchy, soft skin", "easy bruising", "chronic joint pain", "slow wound healing"],
+      "causes": ["inherited gene mutations affecting collagen", "passed down through families"],
+      "treatments": ["physical therapy to strengthen joints", "bracing and joint protection", "pain management", "monitoring for vascular complications", "lifestyle adjustments"],
+      "affectedAreas": ["joints", "skin", "blood vessels", "connective tissue"],
+      "relatedConditions": ["pots", "fibromyalgia", "marfan-syndrome", "scoliosis"],
+      "commonlyConfusedWith": ["fibromyalgia", "marfan-syndrome", "hypermobility spectrum disorder"]
+    },
+    {
+      "slug": "graves-disease",
+      "summary": "Graves' disease is an autoimmune condition that causes the thyroid gland to become overactive, releasing too much thyroid hormone. This speeds up the body's processes and can affect the eyes and skin.",
+      "symptoms": ["weight loss despite eating normally", "fast or irregular heartbeat", "feeling anxious or irritable", "trembling hands", "bulging eyes", "heat sensitivity and sweating"],
+      "causes": ["autoimmune attack on the thyroid", "genetic predisposition", "stress or infection as triggers", "more common in women"],
+      "treatments": ["anti-thyroid medications", "radioactive iodine therapy", "beta blockers for symptoms", "surgery to remove the thyroid", "eye treatment if needed"],
+      "affectedAreas": ["thyroid", "eyes", "heart", "metabolism"],
+      "relatedConditions": ["hypothyroidism", "diabetes", "anxiety"],
+      "commonlyConfusedWith": ["anxiety", "hyperthyroidism from other causes", "menopause"]
+    },
+    {
+      "slug": "ms",
+      "summary": "Multiple sclerosis is a condition where the immune system attacks the protective covering around nerves, disrupting signals between the brain and body. Symptoms vary widely and can come and go or gradually worsen over time.",
+      "symptoms": ["numbness or tingling", "muscle weakness", "trouble with balance and coordination", "blurred or double vision", "fatigue", "problems with memory and thinking"],
+      "causes": ["autoimmune attack on the nerve coating (myelin)", "genetic predisposition", "low vitamin D and other environmental factors", "viral triggers like Epstein-Barr"],
+      "treatments": ["disease-modifying therapies", "corticosteroids for flares", "physical and occupational therapy", "medications for symptoms", "lifestyle and rehabilitation support"],
+      "affectedAreas": ["brain", "spinal cord", "optic nerves", "nervous system"],
+      "relatedConditions": ["lupus", "ataxia", "fnd", "vasculitis"],
+      "commonlyConfusedWith": ["fnd", "fibromyalgia", "lupus", "vitamin B12 deficiency"]
+    },
+    {
+      "slug": "huntingtons-disease",
+      "summary": "Huntington's disease is an inherited condition that causes the gradual breakdown of nerve cells in the brain. It affects movement, thinking, and mood, and usually appears in mid-adulthood, worsening over time.",
+      "symptoms": ["involuntary jerky movements", "trouble with balance and coordination", "difficulty speaking and swallowing", "mood changes and irritability", "memory and thinking problems", "personality changes"],
+      "causes": ["inherited mutation in the HTT gene", "passed down from an affected parent"],
+      "treatments": ["medications to control movements", "antidepressants and mood stabilizers", "physical and speech therapy", "supportive and palliative care", "genetic counselling for families"],
+      "affectedAreas": ["brain", "movement", "thinking", "mood"],
+      "relatedConditions": ["ataxia", "alzheimers", "epilepsy"],
+      "commonlyConfusedWith": ["parkinson's disease", "ataxia", "tourettes-syndrome"]
+    },
+    {
+      "slug": "vasculitis",
+      "summary": "Vasculitis is a group of conditions where the blood vessels become inflamed, which can restrict blood flow and damage organs. It varies widely depending on which vessels are affected and can range from mild to serious.",
+      "symptoms": ["fatigue and fever", "skin rashes or purple spots", "joint and muscle pain", "numbness or weakness", "headaches", "shortness of breath"],
+      "causes": ["autoimmune reaction", "infections as triggers", "reactions to certain medications", "linked to other autoimmune diseases"],
+      "treatments": ["corticosteroids", "immunosuppressant medications", "biologic therapies", "treating underlying causes", "monitoring organ function"],
+      "affectedAreas": ["blood vessels", "skin", "kidneys", "nerves", "lungs"],
+      "relatedConditions": ["lupus", "sarcoidosis", "mctd", "itp"],
+      "commonlyConfusedWith": ["lupus", "infections", "blood clots"]
+    },
+    {
+      "slug": "itp",
+      "summary": "ITP is a condition where the immune system mistakenly destroys platelets, the blood cells that help with clotting. With fewer platelets, people bruise and bleed more easily than normal.",
+      "symptoms": ["easy or excessive bruising", "tiny red or purple spots on the skin", "bleeding gums or nosebleeds", "blood in urine or stool", "heavy periods", "prolonged bleeding from cuts"],
+      "causes": ["immune system attacking platelets", "can follow a viral infection", "sometimes linked to other autoimmune conditions"],
+      "treatments": ["corticosteroids", "intravenous immunoglobulin (IVIG)", "medications that boost platelet production", "removing the spleen in some cases", "monitoring mild cases"],
+      "affectedAreas": ["blood", "platelets", "immune system", "spleen"],
+      "relatedConditions": ["hemophilia", "lupus", "vasculitis", "anemia"],
+      "commonlyConfusedWith": ["hemophilia", "leukemia", "von Willebrand disease"]
+    },
+    {
+      "slug": "bells-palsy",
+      "summary": "Bell's palsy is a sudden weakness or drooping on one side of the face, caused by temporary problems with the facial nerve. It usually appears quickly and most people recover within weeks to months.",
+      "symptoms": ["sudden drooping on one side of the face", "difficulty closing one eye", "drooling", "trouble smiling or making expressions", "loss of taste", "pain around the jaw or ear"],
+      "causes": ["inflammation of the facial nerve", "often follows a viral infection", "swelling that pinches the nerve"],
+      "treatments": ["corticosteroids", "antiviral medications in some cases", "eye protection and lubrication", "facial exercises and physiotherapy", "time, as most cases resolve"],
+      "affectedAreas": ["facial nerve", "face", "muscles"],
+      "relatedConditions": ["lyme-disease", "ms", "fnd"],
+      "commonlyConfusedWith": ["stroke", "lyme-disease", "ms"]
+    },
+    {
+      "slug": "eczema",
+      "summary": "Eczema is a common condition that makes skin red, dry, and itchy. It often flares and settles, can run in families, and is linked to allergies and a sensitive skin barrier.",
+      "symptoms": ["dry, itchy skin", "red or inflamed patches", "skin that cracks or weeps", "thickened skin from scratching", "flare-ups triggered by irritants", "worse itching at night"],
+      "causes": ["overactive immune response", "weak skin barrier", "genetic predisposition", "triggers like soaps, allergens, or stress"],
+      "treatments": ["regular moisturizing", "topical corticosteroids", "avoiding triggers", "antihistamines for itching", "biologic medications for severe cases"],
+      "affectedAreas": ["skin", "immune system"],
+      "relatedConditions": ["asthma", "psoriasis", "alopecia"],
+      "commonlyConfusedWith": ["psoriasis", "contact dermatitis", "fungal infections"]
+    },
+    {
+      "slug": "ppd",
+      "summary": "Postpartum depression is a serious form of depression that can develop after having a baby. It's more intense and longer-lasting than the common 'baby blues' and is treatable with the right support.",
+      "symptoms": ["persistent sadness or emptiness", "severe mood swings", "trouble bonding with the baby", "withdrawing from family and friends", "changes in sleep and appetite", "feelings of worthlessness or guilt"],
+      "causes": ["sudden hormonal changes after birth", "sleep deprivation and exhaustion", "history of depression or anxiety", "lack of support or added stress"],
+      "treatments": ["talk therapy and counselling", "antidepressant medications", "support groups", "help with childcare and rest", "newer medications developed for postpartum depression"],
+      "affectedAreas": ["brain", "mood", "mental health", "hormones"],
+      "relatedConditions": ["anxiety", "insomnia", "hypothyroidism"],
+      "commonlyConfusedWith": ["baby blues", "anxiety", "thyroid problems"]
+    },
+    {
+      "slug": "leprosy",
+      "summary": "Leprosy, also called Hansen's disease, is a slow-developing bacterial infection that affects the skin and nerves. It is curable with antibiotics, and early treatment prevents lasting nerve damage and disability.",
+      "symptoms": ["pale or discoloured skin patches", "numbness in affected areas", "muscle weakness", "thickened or enlarged nerves", "painless wounds or burns", "loss of sensation in hands and feet"],
+      "causes": ["infection with Mycobacterium leprae", "spread through prolonged close contact", "low natural infectiousness"],
+      "treatments": ["multidrug antibiotic therapy", "long-term treatment over months", "wound and nerve care", "physical therapy", "preventing disability"],
+      "affectedAreas": ["skin", "peripheral nerves", "eyes", "hands and feet"],
+      "relatedConditions": ["vasculitis", "tuberculosis"],
+      "commonlyConfusedWith": ["eczema", "psoriasis", "fungal skin infections", "vitiligo"]
+    },
+    {
+      "slug": "anxiety",
+      "summary": "Anxiety is a mental health condition involving excessive worry or fear that's hard to control and interferes with daily life. It's very common and treatable, and can show up with both emotional and physical symptoms.",
+      "symptoms": ["constant worry or dread", "feeling restless or on edge", "racing heart", "trouble sleeping", "difficulty concentrating", "muscle tension and fatigue"],
+      "causes": ["genetic predisposition", "brain chemistry differences", "stressful or traumatic experiences", "medical conditions or substances"],
+      "treatments": ["cognitive behavioural therapy", "SSRIs and other medications", "relaxation and breathing techniques", "regular exercise", "limiting caffeine and alcohol"],
+      "affectedAreas": ["brain", "nervous system", "mood", "mental health"],
+      "relatedConditions": ["ocd", "adhd", "insomnia", "ppd"],
+      "commonlyConfusedWith": ["pots", "graves-disease", "heart conditions", "hyperthyroidism"]
+    },
+    {
+      "slug": "alopecia",
+      "summary": "Alopecia is hair loss that can affect the scalp or the whole body. One common form, alopecia areata, is an autoimmune condition where the immune system attacks hair follicles, causing patchy hair loss.",
+      "symptoms": ["round patches of hair loss", "sudden hair shedding", "thinning hair", "complete scalp hair loss in some cases", "changes in fingernails", "regrowth that may be temporary"],
+      "causes": ["autoimmune attack on hair follicles (alopecia areata)", "genetics (pattern hair loss)", "stress as a trigger", "hormonal or medical conditions"],
+      "treatments": ["corticosteroid injections or creams", "topical minoxidil", "newer oral medications (JAK inhibitors)", "wigs and cosmetic options", "treating underlying causes"],
+      "affectedAreas": ["scalp", "hair follicles", "skin", "immune system"],
+      "relatedConditions": ["eczema", "psoriasis", "hypothyroidism", "lupus"],
+      "commonlyConfusedWith": ["fungal scalp infections", "thyroid-related hair loss", "telogen effluvium"]
+    },
+    {
+      "slug": "rabies",
+      "summary": "Rabies is a serious viral infection spread through the bite or saliva of an infected animal. It attacks the nervous system and is almost always fatal once symptoms appear, but it can be prevented with prompt treatment after exposure.",
+      "symptoms": ["fever and headache early on", "tingling or pain at the bite site", "anxiety and confusion", "difficulty swallowing", "fear of water", "muscle spasms and paralysis"],
+      "causes": ["rabies virus from infected animals", "spread through bites or scratches", "common carriers include bats, raccoons, and dogs"],
+      "treatments": ["immediate wound washing", "rabies vaccine after exposure", "rabies immunoglobulin", "treatment must begin before symptoms appear", "no effective treatment once symptoms start"],
+      "affectedAreas": ["brain", "nervous system", "spinal cord"],
+      "relatedConditions": ["tuberculosis", "epilepsy"],
+      "commonlyConfusedWith": ["tetanus", "other viral encephalitis", "psychiatric conditions"]
+    },
+    {
+      "slug": "bronchitis",
+      "summary": "Bronchitis is inflammation of the airways that carry air to the lungs, causing coughing and mucus. Acute bronchitis often follows a cold and clears up on its own, while chronic bronchitis is a long-term condition usually linked to smoking.",
+      "symptoms": ["persistent cough", "coughing up mucus", "chest discomfort", "wheezing", "shortness of breath", "fatigue"],
+      "causes": ["viral infections", "bacterial infections in some cases", "smoking", "air pollution and irritants"],
+      "treatments": ["rest and fluids", "cough relief and inhalers", "avoiding smoke and irritants", "antibiotics only if bacterial", "treating chronic cases as part of COPD"],
+      "affectedAreas": ["airways", "lungs", "respiratory system"],
+      "relatedConditions": ["asthma", "copd", "influenza"],
+      "commonlyConfusedWith": ["asthma", "pneumonia", "copd"]
+    },
+    {
+      "slug": "colour-blindness",
+      "summary": "Colour blindness is a vision difference that makes it hard to tell certain colours apart, most often reds and greens. It's usually inherited, present from birth, and doesn't get worse over time.",
+      "symptoms": ["trouble telling red and green apart", "difficulty distinguishing certain shades", "seeing colours as duller", "trouble with colour-coded information", "sometimes unaware of the difference"],
+      "causes": ["inherited gene differences affecting eye cells", "X-linked inheritance, mostly affecting males", "rarely caused by eye disease or aging"],
+      "treatments": ["no cure for inherited types", "special tinted lenses for some", "colour-labelling tools and apps", "adapting to daily tasks"],
+      "affectedAreas": ["eyes", "retina", "colour vision"],
+      "relatedConditions": [],
+      "commonlyConfusedWith": ["general vision problems", "learning difficulties in children"]
+    },
+    {
+      "slug": "ataxia",
+      "summary": "Ataxia is a loss of muscle control and coordination, affecting movements like walking, speaking, and grasping objects. It's a symptom of problems in the part of the brain that controls coordination, and has many possible causes.",
+      "symptoms": ["unsteady or clumsy walking", "poor balance", "slurred speech", "trouble with fine movements", "difficulty swallowing", "eye movement problems"],
+      "causes": ["damage to the cerebellum", "inherited genetic conditions", "stroke or brain injury", "alcohol or vitamin deficiencies", "other neurological diseases"],
+      "treatments": ["physical and occupational therapy", "speech therapy", "treating the underlying cause", "mobility aids", "supportive care"],
+      "affectedAreas": ["cerebellum", "brain", "muscles", "coordination"],
+      "relatedConditions": ["ms", "huntingtons-disease", "wilsons", "alzheimers"],
+      "commonlyConfusedWith": ["ms", "intoxication", "inner ear disorders"]
+    },
+    {
+      "slug": "utis",
+      "summary": "Urinary tract infections happen when bacteria infect part of the urinary system, most often the bladder. They're very common, especially in women, and are usually treated easily with antibiotics.",
+      "symptoms": ["burning when urinating", "needing to pee often and urgently", "cloudy or strong-smelling urine", "pelvic or lower belly pain", "blood in the urine", "feeling unwell or feverish if it spreads"],
+      "causes": ["bacteria entering the urinary tract", "more common in women due to anatomy", "sexual activity", "holding urine or dehydration"],
+      "treatments": ["antibiotics", "drinking plenty of fluids", "pain relief", "preventive measures for recurrent infections", "prompt treatment to prevent kidney infection"],
+      "affectedAreas": ["bladder", "urethra", "kidneys", "urinary system"],
+      "relatedConditions": ["pdk", "diabetes"],
+      "commonlyConfusedWith": ["sexually transmitted infections", "interstitial cystitis", "vaginal infections"]
+    },
+    {
+      "slug": "pdk",
+      "summary": "Polycystic kidney disease (PKD) is an inherited condition where fluid-filled cysts grow in the kidneys, gradually enlarging them and reducing their function. Over time it can lead to high blood pressure and kidney failure. (Note: the original list used the abbreviation 'PDK' \u2014 this entry assumes PKD was intended.)",
+      "symptoms": ["high blood pressure", "back or side pain", "blood in the urine", "frequent urinary infections", "a feeling of fullness in the belly", "headaches"],
+      "causes": ["inherited gene mutations", "autosomal dominant form (most common)", "autosomal recessive form (rarer, appears in childhood)"],
+      "treatments": ["blood pressure control", "medications that slow cyst growth", "pain management", "treating infections", "dialysis or transplant for kidney failure"],
+      "affectedAreas": ["kidneys", "liver", "blood vessels", "urinary system"],
+      "relatedConditions": ["utis", "anemia"],
+      "commonlyConfusedWith": ["simple kidney cysts", "recurrent UTIs", "kidney stones"]
+    },
+    {
+      "slug": "turners-syndrome",
+      "summary": "Turner's syndrome is a genetic condition affecting females, where one of the X chromosomes is missing or incomplete. It can affect growth, development, and fertility, and is usually managed with hormone treatments and regular monitoring.",
+      "symptoms": ["shorter than average height", "delayed or absent puberty", "fertility problems", "webbed neck", "broad chest", "heart or kidney differences"],
+      "causes": ["missing or partial X chromosome", "occurs randomly, not usually inherited"],
+      "treatments": ["growth hormone therapy", "estrogen replacement therapy", "fertility support and counselling", "monitoring heart and kidney health", "ongoing specialist care"],
+      "affectedAreas": ["chromosomes", "ovaries", "heart", "growth", "kidneys"],
+      "relatedConditions": ["hypothyroidism", "diabetes"],
+      "commonlyConfusedWith": ["other growth disorders", "noonan syndrome"]
+    },
+    {
+      "slug": "hydrocephalus",
+      "summary": "Hydrocephalus is a buildup of fluid in the cavities deep within the brain. The extra fluid raises pressure on the brain and can cause symptoms that vary by age, often needing surgery to drain the fluid.",
+      "symptoms": ["headaches", "nausea and vomiting", "blurred or double vision", "balance and walking problems", "memory or thinking changes", "in babies, a rapidly growing head"],
+      "causes": ["blockage of fluid flow", "overproduction or poor absorption of fluid", "present at birth or developing later", "after infection, bleeding, or injury"],
+      "treatments": ["surgically placed shunt to drain fluid", "endoscopic surgery", "treating the underlying cause", "ongoing monitoring"],
+      "affectedAreas": ["brain", "ventricles", "spinal fluid", "nervous system"],
+      "relatedConditions": ["alzheimers", "ataxia", "epilepsy"],
+      "commonlyConfusedWith": ["alzheimers", "parkinson's disease", "migraines"]
+    },
+    {
+      "slug": "influenza",
+      "summary": "Influenza, or the flu, is a contagious respiratory infection caused by influenza viruses. It tends to come on suddenly and can range from mild to severe, with yearly vaccines helping to reduce risk.",
+      "symptoms": ["sudden fever and chills", "body aches", "fatigue and weakness", "cough and sore throat", "runny or stuffy nose", "headache"],
+      "causes": ["influenza viruses", "spread through coughs, sneezes, and contact", "seasonal outbreaks, mainly in winter"],
+      "treatments": ["rest and fluids", "fever and pain relievers", "antiviral medications if started early", "yearly flu vaccine for prevention", "staying home to avoid spreading"],
+      "affectedAreas": ["respiratory system", "lungs", "nose", "throat"],
+      "relatedConditions": ["bronchitis", "asthma", "copd"],
+      "commonlyConfusedWith": ["common cold", "covid-19", "bronchitis"]
+    },
+    {
+      "slug": "epilepsy",
+      "summary": "Epilepsy is a neurological condition where bursts of abnormal electrical activity in the brain cause recurring seizures. Seizures vary widely, and many people manage the condition well with medication.",
+      "symptoms": ["seizures with shaking or convulsions", "staring spells", "temporary confusion", "loss of awareness", "stiffening or jerking movements", "unusual sensations before a seizure"],
+      "causes": ["genetic factors", "brain injury or stroke", "infections affecting the brain", "developmental conditions", "often no identifiable cause"],
+      "treatments": ["anti-seizure medications", "identifying and avoiding triggers", "surgery in some cases", "vagus nerve stimulation", "ketogenic diet for some"],
+      "affectedAreas": ["brain", "nervous system"],
+      "relatedConditions": ["fnd", "hydrocephalus", "ataxia"],
+      "commonlyConfusedWith": ["fnd", "fainting", "migraines", "panic attacks"]
+    },
+    {
+      "slug": "hypothyroidism",
+      "summary": "Hypothyroidism is when the thyroid gland doesn't make enough thyroid hormone, slowing down the body's processes. It develops gradually and is usually managed easily with daily hormone replacement.",
+      "symptoms": ["tiredness and sluggishness", "weight gain", "feeling cold", "dry skin and hair", "constipation", "low mood and brain fog"],
+      "causes": ["autoimmune thyroid disease (Hashimoto's)", "thyroid surgery or radiation", "certain medications", "iodine deficiency"],
+      "treatments": ["daily levothyroxine (thyroid hormone)", "regular blood tests to adjust dose", "lifelong treatment in most cases", "managing related conditions"],
+      "affectedAreas": ["thyroid", "metabolism", "heart", "skin", "mood"],
+      "relatedConditions": ["graves-disease", "diabetes", "anemia", "ppd"],
+      "commonlyConfusedWith": ["depression", "anemia", "menopause", "chronic fatigue syndrome"]
+    },
+    {
+      "slug": "gallstones",
+      "summary": "Gallstones are hardened deposits that form in the gallbladder, a small organ that stores digestive fluid. Many people have no symptoms, but a stone that blocks a duct can cause sudden, severe pain and may need surgery.",
+      "symptoms": ["sudden pain in the upper right belly", "pain between the shoulder blades", "nausea and vomiting", "pain after fatty meals", "bloating and indigestion", "yellowing of skin if a duct is blocked"],
+      "causes": ["too much cholesterol in bile", "excess bilirubin", "gallbladder not emptying properly", "risk factors like obesity and rapid weight loss"],
+      "treatments": ["surgery to remove the gallbladder", "medications to dissolve stones in some cases", "pain management during attacks", "dietary changes"],
+      "affectedAreas": ["gallbladder", "bile ducts", "liver", "digestive system"],
+      "relatedConditions": ["ibs", "crohns-disease"],
+      "commonlyConfusedWith": ["acid reflux", "stomach ulcers", "heart problems", "ibs"]
+    },
+    {
+      "slug": "gout",
+      "summary": "Gout is a form of arthritis caused by a buildup of uric acid crystals in the joints, leading to sudden, intense pain. It often strikes the big toe first and comes in painful flare-ups.",
+      "symptoms": ["sudden severe joint pain, often in the big toe", "swelling and redness", "warmth in the affected joint", "extreme tenderness", "limited movement", "flares that ease over days to weeks"],
+      "causes": ["high uric acid levels", "diet high in red meat, seafood, or alcohol", "genetic predisposition", "kidney problems or certain medications"],
+      "treatments": ["anti-inflammatory medications during flares", "colchicine", "medications to lower uric acid", "dietary changes", "staying hydrated"],
+      "affectedAreas": ["joints", "big toe", "feet", "hands"],
+      "relatedConditions": ["diabetes", "pdk"],
+      "commonlyConfusedWith": ["rheumatoid arthritis", "infections in the joint", "bunions"]
+    },
+    {
+      "slug": "menopause",
+      "summary": "Menopause is the natural stage when periods stop and the ovaries make less estrogen, usually around age 50. The transition can bring a range of symptoms as the body adjusts to changing hormone levels.",
+      "symptoms": ["hot flashes", "night sweats", "irregular then stopped periods", "trouble sleeping", "mood changes", "vaginal dryness"],
+      "causes": ["natural decline in ovarian function", "aging", "can be triggered by surgery or cancer treatment"],
+      "treatments": ["hormone replacement therapy", "non-hormonal medications for symptoms", "lifestyle changes", "vaginal moisturizers", "support for bone and heart health"],
+      "affectedAreas": ["ovaries", "hormones", "reproductive system", "bones"],
+      "relatedConditions": ["insomnia", "anxiety", "hypothyroidism"],
+      "commonlyConfusedWith": ["thyroid problems", "anxiety", "perimenopause"]
+    },
+    {
+      "slug": "sickle-cell-disease",
+      "summary": "Sickle cell disease is an inherited blood disorder where red blood cells become rigid and crescent-shaped. These cells can block blood flow, causing pain and other complications, and the condition requires lifelong care.",
+      "symptoms": ["episodes of severe pain (pain crises)", "fatigue from anemia", "swelling in hands and feet", "frequent infections", "delayed growth in children", "yellowing of eyes or skin"],
+      "causes": ["inherited mutation affecting hemoglobin", "passed down when both parents carry the gene"],
+      "treatments": ["hydroxyurea to reduce crises", "pain management", "blood transfusions", "preventing and treating infections", "newer gene therapies and stem cell transplant"],
+      "affectedAreas": ["blood", "red blood cells", "spleen", "joints", "organs"],
+      "relatedConditions": ["anemia", "hemophilia"],
+      "commonlyConfusedWith": ["iron deficiency anemia", "other inherited anemias", "thalassemia"]
+    },
+    {
+      "slug": "copd",
+      "summary": "COPD is a long-term lung disease that makes breathing difficult due to damaged and narrowed airways. It's usually caused by smoking and gets worse over time, though treatment can slow it and ease symptoms.",
+      "symptoms": ["ongoing shortness of breath", "chronic cough", "coughing up mucus", "wheezing", "frequent chest infections", "tiredness"],
+      "causes": ["long-term smoking", "air pollution and workplace fumes", "genetic factors in some cases", "repeated lung infections"],
+      "treatments": ["inhalers (bronchodilators and steroids)", "stopping smoking", "pulmonary rehabilitation", "oxygen therapy in advanced cases", "vaccines to prevent infections"],
+      "affectedAreas": ["lungs", "airways", "respiratory system"],
+      "relatedConditions": ["asthma", "bronchitis", "cystic-fibrosis"],
+      "commonlyConfusedWith": ["asthma", "chronic bronchitis", "heart failure"]
+    },
+    {
+      "slug": "als",
+      "summary": "ALS is a progressive disease that attacks the nerve cells controlling voluntary muscles. Over time it leads to muscle weakness and loss of movement, while thinking is often unaffected. It currently has no cure.",
+      "symptoms": ["muscle weakness, often starting in a limb", "twitching and cramps", "slurred speech", "difficulty swallowing", "trouble with fine movements", "breathing problems as it progresses"],
+      "causes": ["mostly unknown", "genetic mutations in some cases", "breakdown of motor neurons", "possible environmental factors"],
+      "treatments": ["medications to slow progression (riluzole, edaravone)", "physical and occupational therapy", "speech and swallowing support", "breathing assistance", "supportive and palliative care"],
+      "affectedAreas": ["motor neurons", "muscles", "spinal cord", "brain"],
+      "relatedConditions": ["ms", "ataxia", "fnd"],
+      "commonlyConfusedWith": ["ms", "muscular dystrophy", "peripheral neuropathy"]
+    },
+    {
+      "slug": "malaria",
+      "summary": "Malaria is a serious disease caused by parasites spread through the bite of infected mosquitoes. It causes flu-like illness and can be life-threatening, but it's preventable and treatable with the right medication.",
+      "symptoms": ["high fever and chills", "sweating", "headache", "muscle aches", "nausea and vomiting", "fatigue"],
+      "causes": ["Plasmodium parasites", "spread by infected mosquito bites", "common in tropical regions"],
+      "treatments": ["antimalarial medications", "prompt treatment to prevent complications", "preventive medication for travellers", "mosquito nets and repellents", "hospital care for severe cases"],
+      "affectedAreas": ["blood", "red blood cells", "liver", "spleen"],
+      "relatedConditions": ["anemia", "influenza"],
+      "commonlyConfusedWith": ["influenza", "typhoid fever", "dengue"]
+    },
+    {
+      "slug": "migraines",
+      "summary": "Migraines are a neurological condition causing intense, often throbbing headaches, usually on one side of the head. They can come with nausea and sensitivity to light and sound, and may be preceded by warning signs called auras.",
+      "symptoms": ["throbbing or pulsing head pain", "nausea and vomiting", "sensitivity to light and sound", "visual disturbances (aura)", "tingling or numbness", "fatigue afterward"],
+      "causes": ["changes in brain activity and chemicals", "genetic predisposition", "triggers like stress, foods, or hormones", "lack of sleep"],
+      "treatments": ["pain-relief and anti-nausea medications", "triptans", "preventive medications", "newer CGRP-targeting drugs", "identifying and avoiding triggers"],
+      "affectedAreas": ["brain", "nervous system", "blood vessels"],
+      "relatedConditions": ["insomnia", "anxiety", "epilepsy"],
+      "commonlyConfusedWith": ["tension headaches", "sinus headaches", "epilepsy", "stroke"]
+    },
+    {
+      "slug": "marfan-syndrome",
+      "summary": "Marfan syndrome is an inherited condition affecting the body's connective tissue, which supports the heart, blood vessels, bones, and eyes. People are often tall and slender, and the main health concern is its effect on the heart and aorta.",
+      "symptoms": ["tall, slender build", "long arms, legs, and fingers", "flexible joints", "curved spine", "chest that sinks in or sticks out", "vision problems"],
+      "causes": ["inherited mutation in the FBN1 gene", "passed down through families", "can occur from a new mutation"],
+      "treatments": ["regular heart and aorta monitoring", "blood pressure medications", "surgery to repair the aorta if needed", "vision care", "avoiding intense physical strain"],
+      "affectedAreas": ["heart", "aorta", "bones", "eyes", "connective tissue"],
+      "relatedConditions": ["eds", "scoliosis"],
+      "commonlyConfusedWith": ["eds", "homocystinuria", "tall stature alone"]
+    },
+    {
+      "slug": "sleep-apnea",
+      "summary": "Sleep apnea is a condition where breathing repeatedly stops and starts during sleep. It disrupts rest and lowers oxygen levels, leading to daytime tiredness and, over time, increased health risks if untreated.",
+      "symptoms": ["loud snoring", "gasping or choking during sleep", "pauses in breathing noticed by others", "daytime sleepiness", "morning headaches", "trouble concentrating"],
+      "causes": ["airway collapsing during sleep (obstructive)", "brain signal problems (central)", "excess weight", "large tonsils or airway structure"],
+      "treatments": ["CPAP machine", "oral appliances", "weight loss and lifestyle changes", "treating nasal or throat issues", "surgery in some cases"],
+      "affectedAreas": ["airways", "throat", "lungs", "sleep", "heart"],
+      "relatedConditions": ["insomnia", "copd", "diabetes"],
+      "commonlyConfusedWith": ["insomnia", "simple snoring", "chronic fatigue"]
+    },
+    {
+      "slug": "mctd",
+      "summary": "Mixed connective tissue disease is an autoimmune condition that combines features of lupus, scleroderma, and other connective tissue diseases. Symptoms overlap and vary, and it's managed by treating the active problems.",
+      "symptoms": ["fingers turning white or blue in the cold", "swollen hands or fingers", "joint pain and swelling", "muscle weakness", "fatigue", "shortness of breath"],
+      "causes": ["autoimmune dysfunction", "presence of specific antibodies", "genetic predisposition"],
+      "treatments": ["corticosteroids", "immunosuppressant medications", "medications for specific symptoms", "treating affected organs", "regular monitoring"],
+      "affectedAreas": ["joints", "muscles", "skin", "lungs", "blood vessels"],
+      "relatedConditions": ["lupus", "uctd", "vasculitis", "ms"],
+      "commonlyConfusedWith": ["lupus", "uctd", "scleroderma", "rheumatoid arthritis"]
+    },
+    {
+      "slug": "crps",
+      "summary": "Complex regional pain syndrome is a condition of long-lasting, severe pain that usually affects an arm or leg, often after an injury. The pain is more intense and prolonged than expected and may come with skin and temperature changes.",
+      "symptoms": ["intense burning or throbbing pain", "extreme sensitivity to touch", "swelling in the affected limb", "skin colour and temperature changes", "stiffness and reduced movement", "changes in skin, hair, and nail growth"],
+      "causes": ["abnormal nerve and immune response after injury", "nervous system malfunction", "sometimes no clear trigger"],
+      "treatments": ["physical therapy", "pain medications and nerve blocks", "mirror therapy", "psychological support", "early treatment for better outcomes"],
+      "affectedAreas": ["nerves", "limbs", "skin", "nervous system"],
+      "relatedConditions": ["fibromyalgia", "pots", "fnd"],
+      "commonlyConfusedWith": ["fibromyalgia", "nerve injury", "arthritis"]
+    },
+    {
+      "slug": "amyloidosis",
+      "summary": "Amyloidosis is a rare condition where an abnormal protein called amyloid builds up in organs and tissues, affecting how they work. It can involve the heart, kidneys, nerves, and other organs, and varies widely between people.",
+      "symptoms": ["severe fatigue and weakness", "swelling in the legs or belly", "shortness of breath", "numbness or tingling in hands and feet", "unexplained weight loss", "an enlarged tongue in some cases"],
+      "causes": ["abnormal protein production", "inherited forms", "linked to bone marrow disorders", "chronic inflammation in some types"],
+      "treatments": ["treating the underlying cause", "chemotherapy for some types", "medications to stabilize proteins", "organ support", "stem cell transplant in some cases"],
+      "affectedAreas": ["heart", "kidneys", "nerves", "liver", "digestive system"],
+      "relatedConditions": ["anemia", "vasculitis", "sarcoidosis"],
+      "commonlyConfusedWith": ["heart failure", "kidney disease", "peripheral neuropathy"]
+    },
+    {
+      "slug": "porphyria",
+      "summary": "Porphyria is a group of rare disorders caused by problems making heme, a component of the blood. Depending on the type, it can affect the nervous system, the skin, or both, and symptoms often come in episodes called attacks.",
+      "symptoms": ["severe belly pain", "skin that blisters or burns in sunlight", "dark or reddish urine", "muscle weakness", "confusion or anxiety", "rapid heartbeat"],
+      "causes": ["inherited enzyme deficiencies", "buildup of porphyrin chemicals", "triggers like certain drugs, fasting, or sunlight"],
+      "treatments": ["avoiding known triggers", "medications during acute attacks", "protecting skin from sunlight", "glucose or hemin infusions for some attacks", "newer targeted therapies"],
+      "affectedAreas": ["nervous system", "skin", "liver", "blood"],
+      "relatedConditions": ["anemia", "wilsons"],
+      "commonlyConfusedWith": ["appendicitis", "other causes of abdominal pain", "psychiatric conditions", "skin allergies"]
+    },
+    {
+      "slug": "uctd",
+      "summary": "Undifferentiated connective tissue disease is an autoimmune condition with signs of connective tissue disease that don't fit neatly into a specific diagnosis like lupus. It's often mild and may stay stable or, in some people, develop into a defined condition over time.",
+      "symptoms": ["joint pain and swelling", "fatigue", "fingers turning white or blue in the cold", "dry eyes and mouth", "skin rashes", "muscle aches"],
+      "causes": ["autoimmune dysfunction", "presence of certain antibodies", "genetic predisposition"],
+      "treatments": ["hydroxychloroquine", "low-dose corticosteroids", "treating specific symptoms", "regular monitoring for changes", "NSAIDs for pain"],
+      "affectedAreas": ["joints", "skin", "muscles", "immune system"],
+      "relatedConditions": ["lupus", "mctd", "vasculitis"],
+      "commonlyConfusedWith": ["lupus", "mctd", "rheumatoid arthritis", "fibromyalgia"]
+    },
+    {
+      "slug": "sps",
+      "summary": "Stiff person syndrome is a rare neurological condition that causes muscle stiffness and painful spasms that come and go. It's thought to be autoimmune, and over time it can affect posture and movement.",
+      "symptoms": ["muscle stiffness in the trunk and limbs", "painful muscle spasms", "stiffness triggered by noise or stress", "trouble walking", "frequent falls", "anxiety about movement"],
+      "causes": ["autoimmune attack involving GAD antibodies", "linked to other autoimmune conditions", "genetic and immune factors"],
+      "treatments": ["muscle relaxants and anti-anxiety medications", "immune therapies like IVIG", "physical therapy", "treating co-occurring conditions", "supportive care"],
+      "affectedAreas": ["muscles", "nervous system", "spine", "limbs"],
+      "relatedConditions": ["diabetes", "graves-disease", "fnd"],
+      "commonlyConfusedWith": ["fnd", "parkinson's disease", "anxiety disorders", "ms"]
+    },
+    {
+      "slug": "cushings",
+      "summary": "Cushing's syndrome happens when the body is exposed to too much of the hormone cortisol over a long time. It can result from steroid medications or from the body making too much cortisol, and it affects weight, skin, and overall health.",
+      "symptoms": ["weight gain around the middle and face", "a rounded 'moon' face", "purple stretch marks", "easy bruising", "muscle weakness", "high blood pressure and mood changes"],
+      "causes": ["long-term steroid medication use", "tumours producing excess cortisol", "pituitary gland tumours (Cushing's disease)"],
+      "treatments": ["adjusting or reducing steroid medications", "surgery to remove tumours", "medications to lower cortisol", "radiation therapy in some cases", "managing related conditions"],
+      "affectedAreas": ["adrenal glands", "pituitary gland", "metabolism", "skin", "blood pressure"],
+      "relatedConditions": ["diabetes", "pcos", "acromegaly", "men"],
+      "commonlyConfusedWith": ["pcos", "metabolic syndrome", "hypothyroidism"]
+    },
+    {
+      "slug": "wilsons",
+      "summary": "Wilson's disease is an inherited condition where copper builds up in the body because the liver can't remove it properly. The excess copper damages the liver and brain, but treatment can manage it well, especially when started early.",
+      "symptoms": ["fatigue and abdominal pain", "yellowing of skin or eyes", "tremors or shaky movements", "difficulty speaking or swallowing", "mood and personality changes", "golden-brown rings around the eyes"],
+      "causes": ["inherited gene mutation affecting copper removal", "passed down when both parents carry the gene"],
+      "treatments": ["medications that remove copper (chelators)", "zinc to block copper absorption", "low-copper diet", "liver transplant in severe cases", "lifelong treatment"],
+      "affectedAreas": ["liver", "brain", "eyes", "nervous system"],
+      "relatedConditions": ["ataxia", "porphyria", "huntingtons-disease"],
+      "commonlyConfusedWith": ["hepatitis", "parkinson's disease", "psychiatric conditions"]
+    },
+    {
+      "slug": "fnd",
+      "summary": "Functional neurological disorder involves real, often disabling neurological symptoms like weakness or seizures that aren't caused by structural damage to the nervous system. Instead, it's a problem with how the brain sends and receives signals, and it can improve with the right treatment.",
+      "symptoms": ["weakness or paralysis", "seizure-like episodes", "tremors or abnormal movements", "trouble walking", "numbness or tingling", "speech or vision problems"],
+      "causes": ["disrupted brain signalling and processing", "physical or psychological stress as triggers", "often follows illness or injury", "no single clear cause"],
+      "treatments": ["physical and occupational therapy", "psychological therapy", "education about the condition", "specialized rehabilitation", "treating co-occurring conditions"],
+      "affectedAreas": ["brain", "nervous system", "movement", "senses"],
+      "relatedConditions": ["epilepsy", "ms", "anxiety", "crps"],
+      "commonlyConfusedWith": ["epilepsy", "ms", "stroke", "als"]
+    },
+    {
+      "slug": "men",
+      "summary": "Multiple endocrine neoplasia (MEN) syndromes are inherited conditions that cause tumours to form in two or more hormone-producing glands. The tumours are often non-cancerous but can overproduce hormones and cause a range of problems.",
+      "symptoms": ["hormone-related symptoms varying by gland", "high or low calcium levels", "high blood pressure episodes", "fatigue and weakness", "digestive ulcers", "lumps in the neck"],
+      "causes": ["inherited gene mutations", "passed down through families", "different types (MEN1, MEN2) caused by different genes"],
+      "treatments": ["regular screening for early tumours", "surgery to remove affected glands", "medications to control hormones", "genetic counselling and testing", "lifelong monitoring"],
+      "affectedAreas": ["thyroid", "parathyroid glands", "pituitary gland", "pancreas", "adrenal glands"],
+      "relatedConditions": ["cushings", "acromegaly", "hypothyroidism"],
+      "commonlyConfusedWith": ["isolated endocrine tumours", "cushings", "thyroid disorders"]
+    },
+    {
+      "slug": "acromegaly",
+      "summary": "Acromegaly is a rare hormonal condition where the body makes too much growth hormone in adulthood, usually from a non-cancerous pituitary tumour. This causes gradual enlargement of the hands, feet, and facial features.",
+      "symptoms": ["enlarged hands and feet", "coarsening facial features", "rings and shoes becoming too tight", "joint pain", "excessive sweating", "headaches and vision changes"],
+      "causes": ["a pituitary gland tumour", "overproduction of growth hormone", "rarely, tumours elsewhere in the body"],
+      "treatments": ["surgery to remove the tumour", "medications to lower growth hormone", "radiation therapy in some cases", "ongoing hormone monitoring", "managing related conditions"],
+      "affectedAreas": ["pituitary gland", "bones", "joints", "hands and feet", "face"],
+      "relatedConditions": ["diabetes", "cushings", "men"],
+      "commonlyConfusedWith": ["normal aging changes", "other pituitary disorders", "hypothyroidism"]
+    }
+  ]
