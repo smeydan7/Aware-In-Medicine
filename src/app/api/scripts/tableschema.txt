@@ -1,0 +1,19 @@
+create table public.conditions_embeddings (
+  id bigserial not null,
+  slug text not null,
+  name text not null,
+  alias text null,
+  category text not null,
+  week integer not null,
+  tiktok_url text not null,
+  embed_text text not null,
+  embedding public.vector not null,
+  metadata jsonb not null,
+  created_at timestamp with time zone null default now(),
+  constraint conditions_embeddings_pkey primary key (id),
+  constraint conditions_embeddings_slug_key unique (slug)
+) TABLESPACE pg_default;
+
+create index IF not exists conditions_embeddings_embedding_idx on public.conditions_embeddings using ivfflat (embedding vector_cosine_ops)
+with
+  (lists = '8') TABLESPACE pg_default;
