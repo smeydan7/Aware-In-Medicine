@@ -1,7 +1,8 @@
 import type { Metadata } from 'next';
 import { Container } from '@/components/ui/Container';
 import { ConditionsExplorer } from '@/components/conditions/ConditionsExplorer';
-import { conditions, allCategories } from '@/data/conditions';
+import { allCategories } from '@/data/conditions';
+import { enrichedConditions } from '@/data/conditions-enriched';
 
 export const metadata: Metadata = {
   title: 'Conditions Library',
@@ -29,7 +30,14 @@ export default function ConditionsPage() {
       {/* Explorer */}
       <section className="pb-24">
         <Container>
-          <ConditionsExplorer conditions={conditions} categories={allCategories} />
+          {/*
+            Enriched conditions, not the base list: semantic results need
+            summaries and symptom text to explain why a hit matched.
+          */}
+          <ConditionsExplorer
+            conditions={enrichedConditions}
+            categories={allCategories}
+          />
         </Container>
       </section>
     </>

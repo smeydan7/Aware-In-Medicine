@@ -4,13 +4,30 @@ import type { Condition } from '@/types';
 
 type ConditionCardProps = {
   condition: Condition;
+  /**
+   * Short description, shown only during semantic search.
+   *
+   * Browsing the full library is a scanning task, and 69 summaries at once is
+   * noise. A search result is a reading task, where the summary is how you
+   * decide whether the hit is the thing you meant.
+   */
+  summary?: string;
+  /**
+   * Symptoms that share wording with the query. Rendered as chips so a hit
+   * whose *name* has nothing to do with the query still explains itself.
+   */
+  matchedSymptoms?: string[];
 };
 
 /**
  * A single condition card. Renders a semantic <article> with its anchor
  * so deep links (e.g. /conditions#adhd) can scroll right to it.
  */
-export function ConditionCard({ condition }: ConditionCardProps) {
+export function ConditionCard({
+  condition,
+  summary,
+  matchedSymptoms,
+}: ConditionCardProps) {
   const { slug, name, fullName, category, week, tiktokUrl } = condition;
 
   return (
@@ -38,6 +55,30 @@ export function ConditionCard({ condition }: ConditionCardProps) {
           )}
         </div>
       </div>
+
+      {summary && (
+        <p className="mt-4 text-sm text-ink-soft leading-relaxed line-clamp-3">
+          {summary}
+        </p>
+      )}
+
+      {matchedSymptoms && matchedSymptoms.length > 0 && (
+        <div className="mt-4">
+          <p className="text-xs font-medium uppercase tracking-wider text-ink-muted">
+            Matching symptoms
+          </p>
+          <ul className="mt-2 flex flex-wrap gap-1.5">
+            {matchedSymptoms.map((symptom) => (
+              <li
+                key={symptom}
+                className="px-2.5 py-1 rounded-full bg-cream-200 text-xs text-ink-soft"
+              >
+                {symptom}
+              </li>
+            ))}
+          </ul>
+        </div>
+      )}
 
       {tiktokUrl && (
         <a

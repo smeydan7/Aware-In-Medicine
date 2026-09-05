@@ -4,6 +4,7 @@ import OpenAI from "openai"
 import { createClient } from "@supabase/supabase-js"
 import { enrichedConditions as conditions } from "@/data/conditions-enriched"
 import type { EnrichedCondition } from "@/types/enriched"
+import process from "node:process"
 
 const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY })
 const supabase = createClient(
