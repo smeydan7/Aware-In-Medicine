@@ -198,6 +198,9 @@ TODO.local.md
 NOTES.local.md
 *.local.md
 
+# Local setup / onboarding notes (kept out of the repo)
+/SETUP.md
+
 # Compressed archives
 *.zip
 *.tar

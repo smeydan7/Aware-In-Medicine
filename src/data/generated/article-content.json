@@ -1,0 +1,1822 @@
+{
+  "andrew-li": [
+    {
+      "type": "heading",
+      "text": "Abstract"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nearly ¼ Canadian adults suffer from hypertension, but it’s often dismissed as “not serious” simply because there’s no symptoms until it triggers something worse. This article brings a clear and comprehensive analysis on what hypertension is and how to manage and live with it backed by peer-reviewed articles, meant for all ages. More importantly though, it powers readers with the knowledge that can change fear into action, which can help them in the present or the future and coincides with AiM’s mission of empowering health literacy."
+    },
+    {
+      "type": "heading",
+      "text": "Introduction"
+    },
+    {
+      "type": "paragraph",
+      "text": "Imagine feeling completely fine at a routine check-up, then being told your blood pressure puts you at risk for serious disease. This happens to hundreds of millions of people each year, with the number of people diagnosed doubling between 1990 and 2019 NCD-RisC, 2021. Hypertension, also known as high blood pressure, rarely causes any symptoms at all, which perfectly explains its nickname “the silent killer”. Hypertension means that the force of blood pushing against your artery walls is consistently too high. Blood pressure is measured by the readings of two numbers: systolic (the pressure when your heart beats) over diastolic (the pressure when your heart rests between beats). For example, a reading of 120/80 means 120 systolic and 80 diastolic, which is often considered the borderline between normal and high blood pressure."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nearly 1 in 4 Canadian adults live with this condition, and unfortunately, many don’t know about it Canada. When left untreated, it quietly damages the heart, kidneys, and blood vessels over the years, long before any symptoms may appear. By the time they do appear, it is often a sign of a much more serious disease Zhou et al. 2021. Understanding what hypertension is and how to catch it early is one of the easiest ways to protect your long-term health."
+    },
+    {
+      "type": "heading",
+      "text": "Causes/Risk Factors"
+    },
+    {
+      "type": "paragraph",
+      "text": "Blood pressure rises and falls naturally throughout each day, going up when you exercise or feel stressed, and drops when you rest. Hypertension is diagnosed when these readings stay elevated consistently, not just in short jagged periods of time. There are two main types of hypertension. Primary hypertension develops gradually over many years and has no single cause since it’s linked to a mix of factors including age, genetics, diet, and lifestyle choices. Secondary hypertension is caused by an underlying condition, like kidney disease, for example, and tends to appear more suddenly. Primary is the most common out of the two, affecting around 90-95% of patients Mircea CINTEZA, 2014."
+    },
+    {
+      "type": "paragraph",
+      "text": "Luckily, there are measures that can be taken. Risk factors for hypertension fall into two categories: modifiable and non-modifiable. As the name suggests, modifiable factors are the ones that you can change. For example, diet choices like a high intake of salt, lack of consistent exercise, consumption of alcohol, smoking/vaping, and constant stress can all cause high blood pressure. By modifying these lifestyle choices, you can reduce your risk of hypertension by a lot. Non-modifiable factors are the risks that you cannot control. These include aging, genetics, and family history Cheraghi et al., 2025."
+    },
+    {
+      "type": "heading",
+      "text": "Signs and Symptoms"
+    },
+    {
+      "type": "paragraph",
+      "text": "Most serious health conditions come with warning signs, so it's normal to expect the same from hypertension. However, hypertension breaks that rule entirely, being known as the “silent killer” because it usually causes no symptoms at all, even when blood pressure has been high for many years Cheraghi et al. 2025."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is exactly what makes hypertension so dangerous. A person can feel completely healthy while on the inside, their blood vessels are slowly weakening day after day. Without any regular check-ups, high blood pressure can go unnoticed until it leads to a bigger problem, such as a heart attack or a stroke. By the time symptoms show up, they're often signs that damage has already occurred within the body."
+    },
+    {
+      "type": "paragraph",
+      "text": "Although people may report mild symptoms such as headaches or dizziness, virtually no patients feel standard day-to-day symptoms. In fact, studies show that 77% of diagnosed patients convince themselves they can feel it Granados-Gámez et al., 2015. Sometimes these symptoms are for another condition. This is exactly why routine checks are so important. Since the body doesn’t send warning signals, testing is the only reliable way to catch hypertension early on. A check doesn’t take a lot of time and can happen at your local pharmacy, a doctor’s office, or even at home with the appropriate equipment."
+    },
+    {
+      "type": "paragraph",
+      "text": "The takeaway from this is simple: you cannot feel your way to knowing your blood pressure. Regular checks and consistent monitoring is the tool that fills up the gap left by the lack of symptoms. Though it might seem tiring, it’s definitely a habit worth spending time building."
+    },
+    {
+      "type": "heading",
+      "text": "Diagnosis"
+    },
+    {
+      "type": "paragraph",
+      "text": "Speaking of routine check ups, you may ask how hypertension is exactly diagnosed. Well, it isn’t complicated, but it still does need to be done the right way. Essentially, a medical professional will measure your blood pressure with a sphygmomanometer, which is a cuff-based device that squeezes the arm and tracks pressure as blood flows through it Cheraghi et al. 2025. The reading will show two numbers: systolic over diastolic pressure."
+    },
+    {
+      "type": "paragraph",
+      "text": "Now, a single high reading isn’t enough for a reliable diagnosis since blood pressure naturally rises and falls throughout the day depending on factors like stress, activity, and even how nervous someone may feel during the check up. That’s exactly why professionals take multiple readings on different days before confirming a diagnosis. The general threshold for hypertension is a reading of 130/80 mmHg or higher Cheraghi et al. 2025. mmHg is millimeters of mercury, and it’s the unit used to measure blood pressure. Readings below that threshold are considered normal or mildly elevated."
+    },
+    {
+      "type": "paragraph",
+      "text": "As mentioned earlier, there are factors that may impede the results. Therefore, to get an accurate reading, there are some simple conditions that need to be respected, such as sitting still and avoiding caffeine or exercise right before the test since they can all affect the acute blood pressure reading. Skipping these steps can throw off the results."
+    },
+    {
+      "type": "paragraph",
+      "text": "Because hypertension has no clear symptoms, diagnosis through a proper way is the only dependable way to catch its presence. Though a routine check up may seem simple, it still needs to be done correctly to avoid false information that might hurt instead of help."
+    },
+    {
+      "type": "heading",
+      "text": "Treatment and Management"
+    },
+    {
+      "type": "paragraph",
+      "text": "The good news is that most causes of hypertension are modifiable, meaning they can be changed through everyday choices. That's why doctors call it the most prevalent yet modifiable cardiovascular risk factor Tokcan et al., 2024."
+    },
+    {
+      "type": "paragraph",
+      "text": "The most important line of treatment is lifestyle changes. For example, reducing sodium intake, eating more fruits and vegetables, getting consistent exercise, limiting alcohol and smoking (better yet, completely avoiding), and maintaining a healthy body weight all help lower blood pressure. These actions work since they reduce the strain/stress put on the blood vessels and the heart, which addresses the root of the problem rather than just scratching the surface."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, when lifestyle changes aren’t enough on their own, medication comes into the frame. Common choices include diuretics, which help the body release excess sodium and water, as well as ACE inhibitors, which help relax the blood vessels and therefore ease the blood flow. It is important to keep in mind, however, that a doctor should be the one deciding which medication fits best for the person based on their overall health, how their body responds to treatment, and their medical history. The key takeaway is that hypertension isn’t something that happens to a person who is powerless to respond. With lifestyle adjustments and medical treatment, there are many real, proven, and effective tools that lend control back into the patient’s hands. It must also be said that managing this condition isn’t about completely eliminating it overnight; rather, it’s about steadily lowering the chance of harm through choices made every day."
+    },
+    {
+      "type": "heading",
+      "text": "Living with Hypertension"
+    },
+    {
+      "type": "paragraph",
+      "text": "Managing hypertension long-term requires a few consistent habits. Incorporating them into your daily or weekly routine is key to controlling it over time."
+    },
+    {
+      "type": "paragraph",
+      "text": "Starting off, home monitoring is one of the most useful tools available. All that is required is to check blood pressure regularly at home using a simple at-home cuff. This way, both the doctor and the patient can track the results and identify changes early, which is extremely useful since hypertension itself doesn’t have any symptoms. Next is medication adherence. Make sure to consistently follow your doctor’s orders on how to take your medication. Even when you feel fine, never ever skip a dose, since even if it is occasionally, it can let blood pressure climb back to unsafe levels without any warning signs."
+    },
+    {
+      "type": "paragraph",
+      "text": "After that, there are dietary changes. This is all part of the lifestyle side of treatment discussed earlier. Finally, routine checkups with your doctor. Regular visits allow adjustment to medication, tracking of overall health, and reassurance that your treatment plan is on track. Please keep in mind that treatment plans are highly individualized, and you should always consult your personal physician before starting or modifying treatment."
+    },
+    {
+      "type": "heading",
+      "text": "Conclusion"
+    },
+    {
+      "type": "paragraph",
+      "text": "So, to end off, make sure that you understand that hypertension isn’t dangerous because it’s an untreatable disease; rather, it’s dangerous because of its invisibility of symptoms and the fact that it's underestimated. Once you know how to look out for it, you’re once again in control of it."
+    },
+    {
+      "type": "heading",
+      "text": "References"
+    },
+    {
+      "type": "reference",
+      "text": "1. NCD Risk Factor Collaboration NCD-RisC. 2021. Worldwide trends in hypertension prevalence and progress in treatment and control from 1990 to 2019 A pooled analysis of 1201 population-representative studies with 104 million participants. The Lancet, 398-10304, 957-980. https://doi.org/10.1016/S0140-6736-21-01330-1"
+    },
+    {
+      "type": "reference",
+      "text": "2. Zhou, B., Perel, P., Mensah, G. A., & Ezzati, M. 2021. Global epidemiology, health burden and effective interventions for elevated blood pressure and hypertension. Nature Reviews Cardiology, 18-11, 785-802. https://doi.org/10.1038/s41569-021-00559-8"
+    },
+    {
+      "type": "reference",
+      "text": "3. Cheraghi, Z., Azmi-Naei, B., Cheraghi, P., & Doosti-Irani, A. 2025. The global prevalence of uncontrolled hypertension: A systematic review and meta-analysis. BMC Public Health, 25, Article 4259. https://doi.org/10.1186/s12889-025-25553-4"
+    },
+    {
+      "type": "reference",
+      "text": "4. Tokcan, M., Lauder, L., Götzinger, F., Böhm, M., & Mahfoud, F. 2024. Arterial hypertension — clinical trials update 2024. Hypertension Research. https://doi.org/10.1038/s41440-024-01622-w"
+    },
+    {
+      "type": "reference",
+      "text": "5. Edwards, E. W., Saari, H. D., & DiPette, D. J. 2022. Inadequate hypertension control rates: A global concern for countries of all income levels. The Journal of Clinical Hypertension, 24-3, 362-364. https://doi.org/10.1111/jch.14444"
+    },
+    {
+      "type": "reference",
+      "text": "6. Granados-Gámez, G., Roales-Nieto, J. G., Gil-Luciano, A., Moreno-San Pedro, E., & Márquez-Hernández, V. V. 2015. A longitudinal study of symptoms beliefs in hypertension. International Journal of Clinical and Health Psychology, 15-3, 200-207. https://doi.org/10.1016/j.ijchp.2015.07.001"
+    },
+    {
+      "type": "reference",
+      "text": "7. Mircea CINTEZA. 2014. A lot of primary arterial hypertensions. Only one blood pressure therapeutic target? Mædica, 9-1, 3. https://pmc.ncbi.nlm.nih.gov/articles/PMC4268287/"
+    }
+  ],
+  "bernardo-costa": [
+    {
+      "type": "heading",
+      "text": "Abstract"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mast Cell Activation Syndrome MCAS is an immune condition in which mast cells release excessive chemical mediators in response to ordinary, non-threatening stimuli, producing allergy-like symptoms across multiple organ systems. Because its presentation overlaps with many other conditions and no single test confirms it, MCAS is frequently missed or misdiagnosed, leaving patients to manage unpredictable flare-ups for years without a clear explanation. This article breaks down what is currently understood about the causes, symptoms, diagnostic criteria, and treatment options for MCAS, and offers guidance for patients navigating daily life with the condition, so that readers can better recognize the signs, engage in informed conversations with healthcare providers, and advocate for the care they need."
+    },
+    {
+      "type": "heading",
+      "text": "Introduction"
+    },
+    {
+      "type": "paragraph",
+      "text": "Imagine your home's fire alarm going off at random times, triggered by useless things like a slight shift in temperature, a meal, or a stressful thought. For people living with Mast Cell Activation Syndrome MCAS, this can feel like their daily reality. MCAS is a condition affecting the immune system in which certain white blood cells, called \"mast cells,\" become dangerously overreactive. Instead of defending the body from actual threats, they mistake everyday stimuli, or outside inputs, as a danger. This causes them to flood the body with a massive stream of chemicals and hormones directly into the bloodstream. This release leads to a host of chronic and acute allergy-like symptoms that can affect the entire body simultaneously. Medical research shows that the extent to which individuals are affected can vary wildly. Some people may be bedridden, while others experience only a slight inconvenience. Due to this variation and the similarities MCAS has to other diseases and allergies, it can be misdiagnosed by doctors. People may suffer for years without answers. Breaking down the complexities of MCAS into simple terms is a crucial step toward helping patients recognize their symptoms, advocate for their health, and secure a proper diagnosis."
+    },
+    {
+      "type": "heading",
+      "text": "Causes and Risk Factors"
+    },
+    {
+      "type": "paragraph",
+      "text": "To understand what drives Mast Cell Activation Syndrome, it is vital to examine how our immune systems are wired to protect us. Mast cells serve as a frontline form of defence, positioned to detect and react to harmful invaders such as bacteria or toxins. In a healthy individual, these cells only release chemical signals when a legitimate threat is present. However, in an individual suffering from MCAS, these guards may react too easily, meaning that even a harmless stimulus can set them off Akin, 2017. Recent research suggests that specific cellular and genetic changes may contribute to some cases of MCAS rather than being the confirmed primary cause of the condition Özdemir et al., 2024. A key example involves mutations within a certain receptor (such as c-KIT responsible for controlling mast-cell growth and signalling. When this receptor mutates, it may cause mast cells to multiply abnormally and behave erratically. This can lead to the inappropriate release of chemicals and hormones even when the body is safe from harm Molderings et al., 2011; Özdemir et al., 2024. Furthermore, studies suggest that MCAS does not always exist in isolation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Researchers have found some shared genetic patterns and similar symptoms between MCAS and other conditions. Most notably, MCAS has been associated with a condition called Postural Orthostatic Tachycardia Syndrome POTS, which affects an individual's heart rate and blood pressure. This may point to broader problems in how the immune and nervous systems are regulated, which could make certain individuals more susceptible to developing the syndrome. However, information about whether MCAS can directly cause other conditions remains speculative Özdemir et al., 2024."
+    },
+    {
+      "type": "heading",
+      "text": "Signs & Symptoms"
+    },
+    {
+      "type": "paragraph",
+      "text": "Because mast cells live inside almost every body tissue, especially those exposed to the outside, such as the skin, gut, and airways, a flare-up can strike anywhere at any time. Sometimes, an individual might experience symptoms across multiple body parts at once. This unpredictable nature is what makes the condition extremely disruptive to daily life. On the outside, a flare-up may look like a usual allergic reaction, causing sudden skin redness, hives, or swelling. Internally, it can manifest as severe stomach aches, nausea, diarrhoea, or abdominal distress Castells et al., 2024. However, the impact of MCAS goes beyond typical physical allergy symptoms. Many people suffer from significant neurological and psychological symptoms, most often a profound impairment of cognitive abilities, such as brain fog Castells et al., 2024. This means that, alongside the physical discomfort, people with MCAS may struggle with memory loss, concentration issues, and mental fatigue during a flare-up. These difficulties can often resemble ADHD-like symptoms Castells et al., 2024."
+    },
+    {
+      "type": "heading",
+      "text": "Diagnosis"
+    },
+    {
+      "type": "paragraph",
+      "text": "Getting an official diagnosis of MCAS is difficult because its symptoms mimic other illnesses and there is no single unique symptom. To make matters worse, routine blood work and medical scans are ineffective for identifying the illness on their own. For a patient to find answers, a doctor must first suspect MCAS and then work through a long and strict checklist of criteria."
+    },
+    {
+      "type": "paragraph",
+      "text": "According to medical consensus, a formal diagnosis of MCAS requires meeting three specific criteria Valent et al., 2018 1. Episodic Symptoms: Severe, recurring symptoms affecting two or more organ systems at the same time."
+    },
+    {
+      "type": "paragraph",
+      "text": "2. Tryptase Spike: A blood test must show a rise in serum tryptase (a specific enzyme released by mast cells) taken during an active flare-up. This spike is measured against the patient's baseline level, specifically calculated as a 20% increase plus 2 ng/mL over baseline."
+    },
+    {
+      "type": "paragraph",
+      "text": "3. Clinical Response: The patient must show clear, obvious improvement when administered medications that target these chemical mediators."
+    },
+    {
+      "type": "paragraph",
+      "text": "Note: Symptoms vary widely between individuals; readers should not self-diagnose based on this list. If someone suspects they have this condition, they should consult a healthcare provider."
+    },
+    {
+      "type": "heading",
+      "text": "Treatment & Management"
+    },
+    {
+      "type": "paragraph",
+      "text": "Although there is currently no cure for MCAS, there are several forms of treatment that can help control symptoms and reduce the severity of flare-ups. Since the condition affects each individual differently, there is no single medication that works for everyone. Instead, treatment is often based on the specific chemicals being released by the mast cells and the symptoms they are causing. The most common treatments for MCAS are antihistamines. H1 antihistamines are generally used to reduce symptoms involving the skin, such as itching, hives, and swelling. H2 antihistamines can be used to control symptoms affecting the digestive system, such as stomach pain, nausea, or acid reflux. Furthermore, medications known as mast cell stabilizers can be used to prevent mast cells from releasing large amounts of chemicals into the body in the first place Weiler et al., 2019. In more serious cases, stronger medications may be considered when the patient continues to experience severe or frequent reactions. If a flare-up develops into anaphylaxis—a severe, potentially life-threatening allergic reaction, epinephrine must be administered as quickly as possible. Although antihistamines may reduce certain symptoms, they cannot replace epinephrine during a serious emergency Weiler et al.,2019."
+    },
+    {
+      "type": "paragraph",
+      "text": "Emphasize: Treatment plans are highly individualized; readers should always consult their personal physician before starting or modifying treatment."
+    },
+    {
+      "type": "heading",
+      "text": "Living with MCAS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Living with MCAS can be extremely difficult because flare-ups are often unpredictable and may be caused by normal parts of everyday life. Certain foods, medications, exercise, changes in temperature, and even emotional stress may cause the mast cells to react. However, triggers vary wildly between patients, meaning something that causes a severe reaction in one person may cause no reaction in another. Due to this, identifying personal triggers is an important part of managing the condition. Many individuals record their symptoms, meals, activities, and medications in order to determine whether a pattern exists. This information can then be shared with a doctor, helping both the patient and the medical professional create a more effective and personalized treatment plan. Furthermore, individuals at risk of experiencing anaphylaxis may be required to carry epinephrine and have an emergency plan prepared. Avoiding confirmed triggers and taking medication as prescribed can reduce the number of flare-ups. However, because MCAS can change over time and affects every patient differently, consistent communication with a medical professional remains vital to safely living with the condition Weiler et al., 2019. Conclusion Mast Cell Activation Syndrome is a complex condition where mast cells become dangerously overreactive and release large amounts of chemicals even when the body is not facing an actual threat. Since these cells exist throughout almost every body tissue, the symptoms can affect multiple organs simultaneously and vary significantly between individuals."
+    },
+    {
+      "type": "paragraph",
+      "text": "The condition is especially difficult to diagnose because its symptoms closely resemble those of allergies and several other illnesses. In order to receive an official diagnosis, an individual must experience repeated symptoms across multiple organs, show measurable evidence of mast cell activation, and improve after receiving medications that target the chemicals being released. Although there is currently no cure for MCAS, treatments such as antihistamines, mast cell stabilizers, and emergency epinephrine can help patients control their symptoms and prevent serious reactions. Research surrounding the condition is still developing, meaning its exact causes and connections with conditions such as POTS are not yet fully understood. Increasing awareness and breaking down the complexities of MCAS into understandable terms can help individuals recognize their symptoms, communicate with doctors, and advocate for the medical care they require."
+    },
+    {
+      "type": "heading",
+      "text": "References"
+    },
+    {
+      "type": "reference",
+      "text": "1. Akin, C. 2017. Mast cell activation syndromes. Journal of Allergy and Clinical Immunology, 140-2, 349-355. https://doi.org/10.1016/j.jaci.2017.06.007"
+    },
+    {
+      "type": "reference",
+      "text": "2. Castells, M., et al. 2024. Mast cell activation syndrome: Current understanding and research needs. Journal of Allergy and Clinical Immunology, 154-2, 255-263. https://doi.org/10.1016/j.jaci.2024.05.025"
+    },
+    {
+      "type": "reference",
+      "text": "3. Molderings, G. J., et al. 2011. Mast cell activation disease: A concise practical guide for diagnostic workup and therapeutic options. Journal of Hematology & Oncology, 4-10, 1-8.https://doi.org/10.1186/1756-8722-4-10 4. Özdemir, Ö., et al. 2024. Mast cell activation syndrome: An up-to-date review of literature. World Journalof Clinical Pediatrics, 13-2, 92813, 1-12. https://doi.org/10.5409/wjcp.v13.i2.92813"
+    },
+    {
+      "type": "reference",
+      "text": "5. Valent, P., et al. 2018. Mast cell activation syndrome: Importance of consensus criteria and call for research. Journal of Allergy and Clinical Immunology, 142-3, 1008-1010.https://doi.org/10.1016/j.jaci.2018.06.005"
+    },
+    {
+      "type": "reference",
+      "text": "6. Weiler, J. M., et al. 2019. Management of mast cell activation syndrome: A multidisciplinary approach. Annals of Allergy, Asthma & Immunology, 123-5, 429-438. https://doi.org/10.1016/j.anai.2019.08.010"
+    }
+  ],
+  "elia-ma": [
+    {
+      "type": "heading",
+      "text": "Abstract"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ebola can begin with symptoms that look like a common illness, a fever, headache and tiredness, but it can quickly become a serious medical emergency. This article explains what Ebola virus disease is, how it spreads, its symptoms, how it is diagnosed, and how it can be treated and prevented by understanding the warning signs and why a fast response matters, readers can better understand how Ebola outbreaks are controlled and how medical advances have improved patient outcomes."
+    },
+    {
+      "type": "heading",
+      "text": "Introduction"
+    },
+    {
+      "type": "paragraph",
+      "text": "Imagine waking up, with a high fever, a pounding headache and overwhelming exhaustion. At first, you think it’s just the flu, so you stay home and try to rest. As the hours pass, your symptoms worsen instead of improving, and you begin to realize that something is seriously wrong. For people infected with Ebola, this isn’t just a possibility: it becomes a frightening, life threatening medical emergency that requires immediate treatment, and getting medical help quickly can make the difference between life and death."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ebola virus disease EVD is a rare but severe viral illness caused by viruses in the Ebolavirus family. Ebola spreads through direct contact with infected body fluids, such as blood, vomit, urine, or saliva, especially during close contact with someone who is infected. Additionally, it does not spread through the air like the common cold or flu. People with Ebola are generally not contagious until they begin showing symptoms Rojek et al.). Early warning symptoms include fever, headache, fatigue, muscle pain, and sore throat. Because these symptoms are similar to those of many common illnesses, Ebola can be difficult to recognize in its early stages. As the disease progresses, people may develop vomiting, diarrhea, a rash and in severe cases, internal or external bleeding."
+    },
+    {
+      "type": "paragraph",
+      "text": "Understanding Ebola is important because knowing the early warning signs can help people seek medical care sooner and reduce the spread of the virus. Quick action through early diagnoses, patient isolation, contact tracing, and proper medical treatment can help save multiple lives and prevent outbreaks from spreading and becoming bigger."
+    },
+    {
+      "type": "paragraph",
+      "text": "Prevention methods include practicing good hand hygiene (ex: washing hands), avoiding contact with infected body fluids, and using Personal Protective Equipment. By learning how Ebola spreads, how it is treated, and how outbreaks are controlled, readers can better understand the importance of public health and the advances in medical research that continue to improve the survival and outbreak response."
+    },
+    {
+      "type": "heading",
+      "text": "What is Ebola Virus?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ebola virus is a type of virus that infects human cells and weakens the immune system, which is the body’s natural defense against infections. Once the virus enters the body, it starts infecting healthy cells and makes copies of itself very quickly. This weakens the immune system, which is the body’s natural defense against infections, and can eventually damage important organs if the infection becomes severe Bodmer et al.)."
+    },
+    {
+      "type": "paragraph",
+      "text": "One thing that is important to understand is that Ebola does not spread through the air like a common cold or the flu. Instead, it spreads through direct contact with the body fluids of someone who has Ebola, especially during close contact. These fluids can include blood, vomit, urine, or saliva. Ebola can also spread through contaminated objects, such as needles or medical equipment that have not been cleaned properly Frankfurter et al.). Because of this, people caring for someone who is sick or working closely with infected patients can have a higher risk of exposure."
+    },
+    {
+      "type": "paragraph",
+      "text": "Some people are at a higher risk of getting Ebola than others. Healthcare workers, family members, and care givers often have the greatest risk because they may come into close contact with an infected person’s body fluids. During an outbreak, simple prevention methods can help and make a big difference. Wearing Personal Protective Equipment PPE, such as gloves, masks, gowns and face shields, washing your hands, cleaning contaminated surfaces, and isolating infected patients all help reduce the spread of the virus. Responding quickly by testing people early, tracing their close contacts and providing medical care can also help stop outbreaks before they become larger Frankfurter et al.)."
+    },
+    {
+      "type": "heading",
+      "text": "Signs and Symptoms"
+    },
+    {
+      "type": "paragraph",
+      "text": "The first symptoms of Ebola usually appear between 2 and 21 days after a person has been exposed to the virus. At first, the symptoms can seem like many other common illnesses, which is one reason why Ebola can be so difficult to recognize early on. Someone with Ebola may develop a fever, headache, extreme tiredness, muscle pain and a sore throat. Since these symptoms are so similar to illness like the flu, many people may not realize they have Ebola right away Rojek et al.)."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the infection gets worse, symptoms become much more serious. A person may begin to experience vomiting, diarrhea, and a rash. In severe cases, Ebola can also cause internal or external bleeding. However not everyone with Ebola experiences bleeding, especially during the early stages of the disease. This is why doctors look at a person’s symptoms along with their recent travel history or possible exposure to the virus before deciding on the next steps."
+    },
+    {
+      "type": "paragraph",
+      "text": "Recognizing the warning signs early is very important. The sooner someone receives medical care, the sooner doctors can begin treatment and take steps to reduce the spread of the virus. Early recognition can also improve a person’s chances of survival and help protect others from being infected Rojek et al.)."
+    },
+    {
+      "type": "heading",
+      "text": "Diagnosis"
+    },
+    {
+      "type": "paragraph",
+      "text": "Diagnosing Ebola is not always easy because many of the early symptoms are similar to other illnesses, such as the flu. Because of this, doctors cannot diagnose Ebola based only on symptoms. They can also consider whether the person has travelled to an area experiencing an outbreak or has been in contact with someone who has the virus."
+    },
+    {
+      "type": "paragraph",
+      "text": "To confirm an Ebola infection, doctors commonly use a laboratory test called RT-PCR Reverse Transcription Polymerase Chain Reaction). This test detects the genetic material of the virus in a blood sample and helps doctors confirm whether someone has Ebola. Once a diagnosis is confirmed, patients can be isolated and treated as quickly as possible Rojek et al.)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Another important part of controlling Ebola outbreaks is contact tracing, which means identifying and monitoring people who have been in close contact with an infected person. This allows health officials to find new cases earlier and reduce the spread of the virus. Early diagnosis, together with contact tracing and patient isolation plays an important role in controlling outbreaks Muzembo et al.)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Note: Symptoms vary widely between individuals; readers should not self-diagnose based on this list. If someone suspects they have this condition, they should consult a healthcare provider."
+    },
+    {
+      "type": "heading",
+      "text": "Treatment and Management"
+    },
+    {
+      "type": "paragraph",
+      "text": "There is no simple cure for Ebola, so treatment focuses on supporting the body while it fights the infection. Supportive care may include giving fluids to prevent dehydration, providing oxygen when needed, replacing electrolytes, which are minerals that help the body function properly, and treating complications that develop."
+    },
+    {
+      "type": "paragraph",
+      "text": "Another treatment doctors may use is monoclonal antibody therapy. Monoclonal antibodies are lab-made proteins that help the immune system recognize and fight the Ebola virus more effectively. However, while treatments such as monoclonal antibody therapies and supportive care have improved survival, access to these treatments can depend on where an outbreak occurs and the availability of healthcare resources. These treatments have improved patient outcomes, especially when they are given early in the illness El Ayoubi et al.)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Vaccines have also made a big difference in reducing the impact of Ebola outbreaks although current vaccines only protect against certain strains of the virus, they have helped lower the numbers of infections in recent outbreaks. First along with supportive care, early diagnosis, and strong Public Health measures, vaccines continue to improve survival and can help control the spread of Ebola. Access to treatments and other medical resources can also vary depending on where an outbreak occurs and what healthcare resources are available in that area El Ayoubi et al.; Rojek et al.). Emphasize: Treatment plans are highly individualized; readers should always consult their personal physician before starting or modifying treatment."
+    },
+    {
+      "type": "heading",
+      "text": "Conclusion"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ebola is a serious disease, but understanding how it spreads and recognizing its symptoms can help people respond appropriately. Fast diagnosis, proper medical care, prevention measures, vaccines, and continued research all play an important role in controlling outbreaks. By learning the facts about Ebola, readers can better understand the disease without unnecessary fear and recognize why a fast and informed response matters El Ayoubi et al.; Rojek et al.)."
+    },
+    {
+      "type": "heading",
+      "text": "References"
+    },
+    {
+      "type": "reference",
+      "text": "1. Bodmer, Bianca S., Thomas Hoener, and Lisa Wendt. Molecular Insights into the Ebola Virus Life Cycle. Nature Microbiology, 2024. PubMed, https://pubmed.ncbi.nlm.nih.gov/39015119/."
+    },
+    {
+      "type": "reference",
+      "text": "2. Centers for Disease Control and Prevention. Ebola Ebola Virus Disease). U.S. Department of Health and Human Services, https://www.cdc.gov/ebola/."
+    },
+    {
+      "type": "reference",
+      "text": "3. El Ayoubi, L'Emir Wassim, Omar Mahmoud, Johnny Zakhour, and Souha S. Kanj. Recent Advances in the Treatment of Ebola Disease: A Brief Overview. PLoS Pathogens, 2024. PubMed, https://pubmed.ncbi.nlm.nih.gov/38489257/."
+    },
+    {
+      "type": "reference",
+      "text": "4. Frankfurter, Raphael G., Victoria Willett, Eugene T. Richardson, George W. Rutherford, April Baller, and J. Daniel Kelly. Infection Prevention and Control Studies for Care of Patients with Suspected or Confirmed Filovirus Disease in Healthcare Settings, with Focus on Ebola and Marburg: An Integrative Review. BMJ Public Health, 2024. PubMed, https://pubmed.ncbi.nlm.nih.gov/38783022/."
+    },
+    {
+      "type": "reference",
+      "text": "5. Muzembo, Basilua Andre, et al. The Basic Reproduction Number R0 of Ebola Virus Disease: A Systematic Review and Meta-analysis. Travel Medicine and Infectious Disease, 2024. PubMed, https://pubmed.ncbi.nlm.nih.gov/38181864/."
+    },
+    {
+      "type": "reference",
+      "text": "6. Rojek, Amanda, et al. Ebola Disease: Bridging Scientific Discoveries and Clinical Application. The Lancet Infectious Diseases, 2025. PubMed, https://pubmed.ncbi.nlm.nih.gov/39675368/."
+    },
+    {
+      "type": "reference",
+      "text": "7. World Health Organization. Ebola Virus Disease. World Health Organization, https://www.who.int/health-topics/ebola#tab=tab_1."
+    }
+  ],
+  "gerald-szeto": [
+    {
+      "type": "heading",
+      "text": "Abstract"
+    },
+    {
+      "type": "paragraph",
+      "text": "Antibiotic resistance could make once-treatable infections significantly more difficult to treat, threatening millions of lives and modern medicine procedures. This article explains the development and spread of bacterial resistance, why it threatens the healthcare system and how the misuse of antibiotics accelerates this challenge. By simplifying complex science into practical information, this article helps patients understand that bacteria, not people, become resistant to antibiotics. It also shows how responsible antibiotic use and infection prevention can help preserve these life-saving medicines for future generations."
+    },
+    {
+      "type": "heading",
+      "text": "Introduction"
+    },
+    {
+      "type": "paragraph",
+      "text": "Antibiotics have transformed modern medicine, turning once-deadly infections into treatable conditions. However, widespread use and misuse have contributed to a growing global health crisis by giving bacteria more opportunities to evolve and survive antibiotic treatment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Antibiotic resistance occurs when bacteria change, reducing or eliminating the effectiveness of antibiotics. A common misconception is that people become resistant to antibiotics. In reality, it's the bacteria that evolve to survive these medicines, making infections increasingly difficult to treat."
+    },
+    {
+      "type": "paragraph",
+      "text": "As antibiotic resistance spreads, even common infections can become deadly, and many medical procedures that rely on effective antibiotics become riskier. Without effective antibiotics, millions of lives could be lost, and the global economy could face trillions of dollars in losses."
+    },
+    {
+      "type": "heading",
+      "text": "How Does Antibiotic Resistance Develop?"
+    },
+    {
+      "type": "paragraph",
+      "text": "How does this happen? Imagine spraying a garden full of weeds with weed killer. Most of the weeds die, and your garden looks great. But a few survive due to naturally occurring traits that allow them to withstand the spray. Before long, the weeds come back. You use the spray again, but this time, they survive and thrive. Bacteria behave similarly: when antibiotics are used, most bacteria are killed, but a small number may carry genetic traits that make them more resistant to the drug. These bacteria multiply and pass their resistance traits to future generations, making antibiotics less effective over time. This process is called natural selection, where organisms with helpful traits are more likely to survive and reproduce."
+    },
+    {
+      "type": "paragraph",
+      "text": "Through random genetic mutations and the exchange of resistance genes, some bacteria naturally develop ways to survive antibiotics. However, the overuse and misuse of antibiotics can accelerate this process by giving resistant bacteria more opportunities to survive and multiply. For example, antibiotics do not work against viral infections, like the common cold or flu, because they only target bacteria. Using them for these illnesses provides no benefit to the patient while still exposing bacteria to the drug, creating an opportunity for resistant bacteria to survive. Similarly, skipping doses or stopping treatment early may leave some bacteria alive, including those that are more resistant to the antibiotic. Taking leftover antibiotics can also be harmful because the medication may be the wrong type or dose for the infection, allowing bacteria to survive rather than being effectively eliminated."
+    },
+    {
+      "type": "paragraph",
+      "text": "Antibiotic resistance isn't limited to hospitals nor doctor’s offices. In many countries, an estimated 70-80% of medically important antibiotics are used in agriculture to treat and prevent disease in livestock. These bacteria and their resistance genes can spread to humans through food, direct contact with animals, or contaminated water and soil. This relationship works both ways: wastewater from hospitals, farms, and pharmaceutical manufacturing can also carry resistant bacteria into the environment, allowing resistance genes to move between humans, animals, and ecosystems."
+    },
+    {
+      "type": "paragraph",
+      "text": "Why Is Antibiotic Resistance a Growing Concern?"
+    },
+    {
+      "type": "paragraph",
+      "text": "The transmission of resistant bacteria between ourselves and the environment makes antibiotic resistance more than an individual health problem. Once these resistant germs spread through communities, they become nearly impossible to control."
+    },
+    {
+      "type": "paragraph",
+      "text": "Infections that were once treated with simple antibiotics now require stronger antibiotics, longer hospital stays, or no effective treatment at all. As a result, antibiotic resistance is now considered one of the most serious threats to global health."
+    },
+    {
+      "type": "paragraph",
+      "text": "These consequences extend far beyond everyday infections. Many modern medical procedures depend on antibiotics to prevent or treat infections before, during, or after treatment. Surgeries, organ transplants, chemotherapy, and even the care of premature babies rely on antibiotics to keep hundreds of millions of people safe. This puts a heavy burden on healthcare systems as infections become harder to treat. This can lead to longer hospital stays, higher medical costs, and an increased risk of death. Bacteria are evolving faster than new antibiotics can be developed, creating a gap between the growing need for effective treatments and the development of new ones. Developing a new antibiotic can take 10 to 15 years from initial laboratory discovery to patient availability. This long development process makes it difficult to keep pace with the spread of antibiotic resistance."
+    },
+    {
+      "type": "paragraph",
+      "text": "Because of this challenge, researchers are exploring new ways to prevent and treat resistant infections. One promising approach is phage therapy, which uses viruses called bacteriophages to infect and destroy specific bacteria. However, phage therapy is still being studied and is not yet widely used in routine clinical practice. Researchers are also developing faster molecular diagnostic tests that can identify resistant bacteria within hours instead of days, helping doctors choose the most effective treatment sooner. While these approaches may expand our options in the future, preventing antibiotic resistance remains a critical part of addressing the problem. (Aslam, Bilal, et al.; Nadgir, Chinmayee A, and Dalia A Biswas.)"
+    },
+    {
+      "type": "heading",
+      "text": "What Can You Do to Help?"
+    },
+    {
+      "type": "paragraph",
+      "text": "While antibiotic resistance is a global issue, individual actions can make a meaningful difference. Antibiotics should only be taken when prescribed by a healthcare professional and should never be used for viral illnesses as they only work against bacteria. If antibiotics are prescribed, they should be taken exactly as directed, even if you start feeling better. Do not share prescriptions or save leftover antibiotics for future illnesses, as the wrong antibiotic or an incorrect dose may not effectively treat an infection and can contribute to resistance. If you are unsure whether you need antibiotics or have concerns about your treatment, talk with your healthcare provider. Asking questions and having an open conversation can help you understand why an antibiotic is or is not recommended and how to use it safely."
+    },
+    {
+      "type": "paragraph",
+      "text": "Preventing infections is another key way to reduce the need for antibiotics. Regular handwashing, staying up to date with recommended vaccinations, practicing safe food handling, and seeking medical advice when symptoms worsen can all help lower the spread of bacterial infections. Patients can also play an active role by asking questions like whether an infection is bacterial or viral and whether antibiotics are truly necessary. By using antibiotics responsibly and staying informed, everyone can help slow the spread of antibiotic resistance and preserve these life-saving medicines for future generations."
+    },
+    {
+      "type": "paragraph",
+      "text": "Note: If you have questions about whether you need antibiotics or how to use them, speak with a healthcare professional. Do not start, stop, or change antibiotic treatment without medical guidance."
+    },
+    {
+      "type": "heading",
+      "text": "Conclusion"
+    },
+    {
+      "type": "paragraph",
+      "text": "Antibiotic resistance is one of the greatest challenges in modern medicine, but it's not impossible to overcome. By understanding how resistance develops, why it threatens healthcare around the globe, and how our everyday choices affect its spread, we can all play a role in protecting the antibiotics that have saved countless lives."
+    },
+    {
+      "type": "paragraph",
+      "text": "Every decision matters. Only use antibiotics when they're truly needed, follow your healthcare provider’s instructions, and continue practicing habits that prevent infections in the first place. Together, small actions taken by millions of people can help preserve these life-saving medicines for future generations."
+    },
+    {
+      "type": "heading",
+      "text": "References"
+    },
+    {
+      "type": "reference",
+      "text": "1. Antimicrobial Resistance Collaborators. 2022. Global burden of bacterial antimicrobial resistance in 2019 A systematic analysis. The Lancet, 399-10325, 629-655. https://doi.org/10.1016/S0140-6736-21-02724-0"
+    },
+    {
+      "type": "reference",
+      "text": "2. Aslam, B., Khurshid, M., Arshad, M. I., Muzammil, S., Rasool, M., Yasmeen, N., Shah, T., Chaudhry, T. H., Rasool, M. H., Shahid, A., Xueshan, X., & Baloch, Z."
+    },
+    {
+      "type": "reference",
+      "text": "2021. Antibiotic Resistance: One Health One World Outlook. Frontiers in Cellular and Infection Microbiology, 11-771510. https://doi.org/10.3389/fcimb.2021.771510"
+    },
+    {
+      "type": "reference",
+      "text": "3. Banerjee, R., & Patel, R. 2022. Molecular Diagnostics for Genotypic Detection of Antibiotic resistance: Current Landscape and Future Directions. JAC-Antimicrobial Resistance, 5-1. https://doi.org/10.1093/jacamr/dlad018"
+    },
+    {
+      "type": "reference",
+      "text": "4. Gordillo Altamirano, F. L., & Barr, J. J. 2019. Phage Therapy in the Postantibiotic Era. Clinical Microbiology Reviews, 32-2. https://doi.org/10.1128/cmr.00066-18"
+    },
+    {
+      "type": "reference",
+      "text": "5. Gupta, R., & Sharma, S. 2022. Role of Alternatives to Antibiotics in Mitigating the Antimicrobial Resistance Crisis. Indian Journal of Medical Research, 156-3, 467-477. https://doi.org/10.4103/ijmr.IJMR_3514_20"
+    },
+    {
+      "type": "reference",
+      "text": "6. Martin, M. J., Thottathil, S. E., & Newman, T. B. 2015. Antibiotics Overuse in Animal Agriculture: A Call to Action for Health Care Providers. American Journal of Public Health, 105-12, 2409-2410. https://doi.org/10.2105/ajph.2015.302870"
+    },
+    {
+      "type": "reference",
+      "text": "7. Nadgir, C. A., & Biswas, D. A. 2023. Antibiotic Resistance and Its Impact on Disease Management. Antibiotic Resistance and Its Impact on Disease Management, 15-4. https://doi.org/10.7759/cureus.38251"
+    },
+    {
+      "type": "reference",
+      "text": "8. Poudel, A. N., Zhu, S., Cooper, N., Little, P., Tarrant, C., Hickman, M., & Yao, G."
+    },
+    {
+      "type": "reference",
+      "text": "2023. The Economic Burden of Antibiotic resistance: a Systematic Review and meta-analysis. PLOS ONE, 18-5, e0285170. https://doi.org/10.1371/journal.pone.0285170"
+    },
+    {
+      "type": "reference",
+      "text": "9. Why Is It So Hard to Develop New Antibiotics? | News | Wellcome. 2023. In Wellcome. https://wellcome.org/insights/articles/why-is-it-so-hard-develop-new-antibiotic"
+    },
+    {
+      "type": "reference",
+      "text": "s"
+    },
+    {
+      "type": "reference",
+      "text": "10. World Bank Group. 2017. Drug-Resistant Infections: A Threat to Our Economic Future. https://documents1.worldbank.org/curated/en/323311493396993758/pdf/final-"
+    },
+    {
+      "type": "reference",
+      "text": "report.pdf"
+    }
+  ],
+  "isabella-wang": [
+    {
+      "type": "heading",
+      "text": "Abstract"
+    },
+    {
+      "type": "paragraph",
+      "text": "When will the next seizure occur? How will it happen? Fear, anxiety, depression. Three factors that surround epilepsy patients every day. Not knowing when the next seizure will occur, how people around them will react, and the fear of losing their lives are challenges that people living with epilepsy face every day. Numbers are increasing as ⅓ of epilepsy cases go untreated for up to 3 years after diagnosis Push10 Webmaster) and 70% of patients could live seizure-free if properly treated and diagnosed World Health Organization). Through research-based explanations, this article explores the causes, symptoms, diagnosis, treatments, and lifestyle guidelines for living with epilepsy. So let’s give hope to these patients: the hope for a better future and the understanding that epilepsy doesn’t define who they are."
+    },
+    {
+      "type": "heading",
+      "text": "Introduction"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Dear Epilepsy, Just so you know, I won’t give up. I won’t give in. I have endless hope."
+    },
+    {
+      "type": "paragraph",
+      "text": "Endless faith. You may be in my life. But you don’t own my life Epilepsy Network)."
+    },
+    {
+      "type": "paragraph",
+      "text": "According to NIH PubMed, epilepsy is the 4th most common brain disorder and affects around 65 million people worldwide. It is made up of recurring and unprovoked seizures caused by abnormal electrical activity in the brain. There are 3 types that distinguish the severity of the seizure: generalized epilepsy, where both sides of the brain are affected; focal epilepsy, with only one affected area of the brain; and unknown, where the major source of activity is not identified."
+    },
+    {
+      "type": "paragraph",
+      "text": "For millions of people affected by epilepsy, these seizures happen unexpectedly and sometimes without any warning signs. Untreated epilepsy can result in various life-threatening factors, from social disability to death. Since seizures are unpredictable, friends and family that are surrounding the epilepsy patients are a significant contributor in helping manage their fears. According to NIH PubMed, epilepsy causes a 4-7 times higher mortality rate than others because of the major source of electrical activity. So let’s give these patients the chance to explore the world by creating a safe environment for all."
+    },
+    {
+      "type": "heading",
+      "text": "Causes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Firstly, what causes epilepsy and what are the risk factors that increase the chances of being diagnosed with this medical condition? According to Epilepsy Research Institute UK, 65% of people living with epilepsy are not aware of the causes of their diagnosis. The remaining 35% are generally caused by anything that disrupts the normal pattern of nerve cell activity in the brain: genetic influence, developmental conditions, and head trauma."
+    },
+    {
+      "type": "paragraph",
+      "text": "Genetic influence, whether it is inherited or a change to a gene’s DNA sequence, plays a major role in epilepsy diagnosis. For example, a type of epilepsy is the channelopathy-associated epilepsy. This is when the DNA sequence changes the ion channels, which are proteins that control the signals of the neurons in the brain NIH."
+    },
+    {
+      "type": "paragraph",
+      "text": "When modified, multiple seizures are triggered because the neurons become hyperexcited and fire too frequently."
+    },
+    {
+      "type": "paragraph",
+      "text": "Developmental conditions, like Attention Deficit Hyperactivity Disorder (also known as ADHD, are shown to increase children’s risk of certain types of epilepsy. This includes generalized epilepsy (where the whole brain is affected) and frontal lobe epilepsy (where there is only one affected part of the brain) Ahmed et al., 2022. A study from the International League Against Epilepsy shows that ADHD was present in 30-40% of epileptic children. This is because people diagnosed with this disorder may have functional abnormalities in multiple areas of the brain that disrupt the pattern of the nerve cell activity. Other relationships that are common between ADHD and epilepsy patients are inflammation, anxiety, and stress."
+    },
+    {
+      "type": "paragraph",
+      "text": "Post-traumatic epilepsy PTE is the type of epilepsy developed after a traumatic brain injury TBI, also known as head trauma. It can be an immediate seizure that happens within twenty-four hours of the injury, an early seizure that is less than a week, or a late seizure after a week of the injury Kan Ding et al., 2016. A seizure occurs because the brain is traumatized, inflamed, and disrupted. For these reasons, there are multiple factors that trigger epilepsy, from genetics to daily lifestyles."
+    },
+    {
+      "type": "heading",
+      "text": "Signs & Symptoms"
+    },
+    {
+      "type": "paragraph",
+      "text": "So what are the warning signs of a seizure or epilepsy? How can the people surrounding you as well as yourself be prepared? Since each person’s brain functions differently, the body reacts in various ways. Therefore, the signs, symptoms, and the type of seizure all depend on the person Mayo Clinic, 2025."
+    },
+    {
+      "type": "paragraph",
+      "text": "General symptoms that might occur during an epileptic seizure include a short-term confusion, stiff muscles, and emotional distress like fear, anxiety, or déjà vu Mayo Clinic, 2025. Emotional distress mostly happens to patients with focal epilepsy, which, as mentioned above, affects one part of the brain: the temporal lobe. This lobe is responsible for short-term memory and processing emotions Mayo Clinic, 2025."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thus, with the temporal lobe affected, it causes the patient’s body to react with these symptoms."
+    },
+    {
+      "type": "paragraph",
+      "text": "The signs that are visible to the people surrounding the patient are a brief moment when the person doesn’t move or respond, jerking movements of arms and legs, and a loss of consciousness Mayo Clinic, 2025. During an epileptic seizure, patients might lose consciousness as the areas of the brain responsible for thinking and awareness are malfunctioning Blumenfeld & Taylor, 2003. Some patients might experience jerking movements because of the muscles that contract repeatedly NIH. This is because there is an excessive firing of electrical signals in the brain that overwhelm its communication with the body’s muscles."
+    },
+    {
+      "type": "paragraph",
+      "text": "Note: Symptoms vary widely between individuals; readers should not self-diagnose based on this list. If someone suspects they have this condition, they should consult a healthcare provider."
+    },
+    {
+      "type": "heading",
+      "text": "Diagnosis"
+    },
+    {
+      "type": "paragraph",
+      "text": "Epilepsy or seizure? With the rapid advancement of technology, the medical field has developed various testing methods to diagnose different patients and improve their quality of life: electroencephalography EEG, neuroimaging MRI scans), and single-photon emission computerized tomography SPECT."
+    },
+    {
+      "type": "paragraph",
+      "text": "Electroencephalography, also known as EEG, is a testing method that records the brain’s electrical activity. During an EEG test, electrodes (electrical conductors) are placed on the patient’s scalp, allowing health professionals to monitor the patient’s brain activity during sleep or speech. If the patient is diagnosed with epilepsy, the EEG amplitudes will increase compared to an unaffected human being because of the rapid and uncontrollable neuronal discharge Blinowska, 2006."
+    },
+    {
+      "type": "paragraph",
+      "text": "Neuroimaging, which includes MRI scans (magnetic resonance imaging) of the brain, is shown to be very efficient in identifying epilepsy. Other imaging methods like CT scans (computerized tomography) show a less detailed view of the patient. According to NIH, MRI scans were able to successfully diagnose 80% of focal epilepsy patients Roy & Pandit, 2011. Unfortunately, this type of brain scanning is unavailable for a large number of patients because of its elevated cost and the long scanning period."
+    },
+    {
+      "type": "paragraph",
+      "text": "Single-photon emission computerized tomography, also known as SPECT, is another type of medical imaging of the brain. This method is used if both CT and MRI scans weren’t able to identify the origin of the seizure. SPECT is performed through injecting a low dose of radioactive substance into the vein of the patient. The contrast creates a 3D map of the blood flow, which shows which part of the brain receives a higher amount of blood and most likely identifies the source of the seizures. By visualizing the internal functions, it can help doctors further investigate the patient’s diagnosis Mayo Clinic, « Epilepsy - Diagnosis and Treatment - Mayo Clinic », 2025."
+    },
+    {
+      "type": "heading",
+      "text": "Treatment and Management"
+    },
+    {
+      "type": "paragraph",
+      "text": "But what can I do as an epilepsy patient or as a friend or family member of someone going through epilepsy? Living with this condition can be tough, but many factors from lifestyles to drugs to surgeries have been adapted to enrich the quality of their lives Perucca et al., 2018."
+    },
+    {
+      "type": "paragraph",
+      "text": "Antiepileptic drugs, also known as AEDs, are the main approach to epilepsy treatment."
+    },
+    {
+      "type": "paragraph",
+      "text": "According to PubMed NIH, antiepileptic drugs help ⅔ of newly diagnosed patients reduce seizures. Without disturbing any non-epileptic activity and normal function of the nervous system, these drugs modify the excitement of neurons. This reduces uncontrolled activity in the brain by using sodium and calcium channels, which are proteins that control the electrical activity in the body Rogawski & Löscher, 2004."
+    },
+    {
+      "type": "paragraph",
+      "text": "According to Wiley, if two appropriate trials of this drug have failed, epilepsy surgery is the alternative treatment Perucca et al., 2018. This may be because of the patient having drug-resistant epilepsy, where medication no longer works in treating the disorder. In terms of surgery, there are many types of procedures that can be performed based on the type of epilepsy and the degree of severity: resective surgery, which removes the part of the brain where the seizures originated; and Multiple Subpial Transection, known as MST, where brain tissue is cut to disrupt the spread of seizures Patient Education Library)."
+    },
+    {
+      "type": "paragraph",
+      "text": "For patients where surgery has failed to treat epilepsy, lifestyle therapies have been developed to control these seizures. For instance, the ketogenic diet is an option recommended mostly for children. This diet includes a heavier intake of glucose and ketones. Glucose is a sugar used to be converted to energy, while ketones are chemicals the body produces to break down fat into energy. Thus, this meal plan is made to promote the production of energy through healthy fat and reduced carbohydrates Saxena & Nadkarni, 2011."
+    },
+    {
+      "type": "paragraph",
+      "text": "Note: Treatment plans are highly individualized; readers should always consult their personal physician before starting or modifying treatment."
+    },
+    {
+      "type": "heading",
+      "text": "Living With Epilepsy"
+    },
+    {
+      "type": "paragraph",
+      "text": "What can you do to protect yourself and others around you in case of an epileptic seizure? Or in prevention of one? A healthy lifestyle, following the medication, and avoiding unprescribed medicine all shape the recommendations involved with improving the quality of life when living with epilepsy Murray, 2017."
+    },
+    {
+      "type": "paragraph",
+      "text": "First, taking the prescribed amount of medication made by your doctor is important to assure a constant routine. Next, a healthy lifestyle is important to reduce stress, such as increasing sleep, following a balanced diet, and decreasing harmful use of drugs or alcohol. Additionally, avoiding medications that can possibly increase the severity of the condition can pose greater benefits Murray, 2017. For example, certain antibiotics may interact harmfully with anti-seizure medications or even antidepressants (found in 30-50% of epilepsy patients according to NIH PubMed)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Among the causes of this condition, there are factors that you should be aware of to prevent epilepsy: traumatic brain injury TBI and stroke. Traumatic brain injury is caused by an outside force like a blow to the head during sports injuries or if an object enters the brain tissues National Institute of Neurological Disorders and Stroke). It is the cause of epilepsy for around 5% of total cases and is most common in children because they tend to have thinner and softer skulls Thurman et al., 2020. So next time you do a sport (especially combat sports), don’t forget to protect yourself."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stroke occurs when the brain has less access to oxygen and nutrients because of the interrupted blood flow. This factor is most common for older adults in 19-24% of cases because as they age, they tend to have stiffer blood vessels and an overall decline in the heart’s health. For all ages, high blood pressure and high cholesterol all increase the chances of epilepsy. Therefore, although half of epilepsy patients have unknown causes, there are factors in your lifestyle that can prevent the diagnosis of this condition and make sure your body stays healthy National Institute of Aging)."
+    },
+    {
+      "type": "heading",
+      "text": "Conclusion"
+    },
+    {
+      "type": "paragraph",
+      "text": "This is the reality for millions of epilepsy patients every day. Epilepsy isn’t just a seizure: the anxiety before, the isolation after, and the depression that follows all shape the quality of their lives. So if you or someone you love experience one or more symptoms of epilepsy, don’t hesitate to reach out to your doctor. This helps them diagnose the cause of the symptoms to prevent the worsening of this condition."
+    },
+    {
+      "type": "paragraph",
+      "text": "To learn more about epilepsy, reliable resources include NIH PubMed, National Institute for Health and Care Excellence NICE, and Epilepsy Canada. So as a team, let's work together to raise public awareness on this medical condition and the millions of epilepsy patients that face life-threatening challenges every day."
+    },
+    {
+      "type": "heading",
+      "text": "References"
+    },
+    {
+      "type": "reference",
+      "text": "Your References:"
+    },
+    {
+      "type": "reference",
+      "text": "1. Ahmed, Gellan K., et al. « Relationship Between Attention Deficit Hyperactivity Disorder and Epilepsy: A Literature Review ». The Egyptian Journal of Neurology, Psychiatry and Neurosurgery, vol. 58, no 1, 12 mai 2022, 10.1186/s41983-022-00482-w."
+    },
+    {
+      "type": "reference",
+      "text": "2. Awareness Days Editorial Team. « National Epilepsy Awareness Month 2026 », Awareness Days, 2 avr. 2026, https://www.awarenessdays.com/awareness-days-calendar/national-epilepsy-awareness-month"
+    },
+    {
+      "type": "reference",
+      "text": "/. Consulté le 21 août 2026."
+    },
+    {
+      "type": "reference",
+      "text": "3. Blinowska, Katarzyna. « Electroencephalography EEG ». Wiley Encyclopedia of Biomedical Engineering, 14 avr. 2006, https://www.academia.edu/96162311/electroencephalography_eeg_,"
+    },
+    {
+      "type": "reference",
+      "text": "10.1002/9780471740360.ebs0418. Consulté le 23 juill. 2026."
+    },
+    {
+      "type": "reference",
+      "text": "4. Blumenfeld, Hal, et Jacob Taylor. « Why Do Seizures Cause Loss of Consciousness? ». The Neuroscientist, vol. 9, no 5, oct. 2003, p. 301‑310, 10.1177/1073858403255624."
+    },
+    {
+      "type": "reference",
+      "text": "5. Epilepsy Research Institute UK. « Causes of Epilepsy | Epilepsy Research Institute »."
+    },
+    {
+      "type": "reference",
+      "text": "6. Kan Ding, et al. « Epilepsy After Traumatic Brain Injury ». CRC Press/Taylor and Francis Group, 2016."
+    },
+    {
+      "type": "reference",
+      "text": "7. Mayo Clinic. « Epilepsy - Diagnosis and Treatment - Mayo Clinic ». 14 oct. 2023."
+    },
+    {
+      "type": "reference",
+      "text": "8. Mayo Clinic . « Epilepsy - Symptoms and Causes ». Mayo Clinic, 14 oct. 2025, https://www.mayoclinic.org/diseases-conditions/epilepsy/symptoms-causes/syc-20350093."
+    },
+    {
+      "type": "reference",
+      "text": "Consulté le 1 juill. 2026."
+    },
+    {
+      "type": "reference",
+      "text": "9. Mayo Clinic. « Temporal Lobe Seizure - Symptoms and Causes ». 2019."
+    },
+    {
+      "type": "reference",
+      "text": "10. Milligan, Tracey A. « Epilepsy: A Clinical Overview ». The American Journal of Medicine, vol. 134, no 7, juill. 2021, p. 840‑847, https://www.amjmed.com/article/S0002-9343-21-00163-7/fulltext,"
+    },
+    {
+      "type": "reference",
+      "text": "10.1016/j.amjmed.2021.01.038. Consulté le 1 juill. 2026."
+    },
+    {
+      "type": "reference",
+      "text": "11. Murray, Kathleen . « Tips & Tricks for People Living with Epilepsy ». Epilepsy Foundation, 13 nov. 2017, https://www.epilepsy.com/stories/tips-tricks-people-living-epilepsy. Consulté le 3 juill. 2026."
+    },
+    {
+      "type": "reference",
+      "text": "12. National Institute for Health and Care Excellence. « Epilepsies in Children, Young People and Adults NICE Guideline ». 27 avr. 2022."
+    },
+    {
+      "type": "reference",
+      "text": "13. National Institute of Aging. « Stroke: Signs, Causes, and Treatment ». 9 févr. 2023."
+    },
+    {
+      "type": "reference",
+      "text": "14. National Institute of Neurological Disorders and Stroke. « Traumatic Brain Injury TBI ». National Institute of Neurological Disorders and Stroke, 21 juill. 2025."
+    },
+    {
+      "type": "reference",
+      "text": "15. NIH. « Epilepsy and Seizures ». National Institute of Neurological Disorders and Stroke, https://www.ninds.nih.gov/health-information/disorders/epilepsy-and-seizures#toc-who-is-more"
+    },
+    {
+      "type": "reference",
+      "text": "-likely-to-have-epilepsy-and-seizures. Consulté le 3 juill. 2026."
+    },
+    {
+      "type": "reference",
+      "text": "16. Patient Education Library. « Epilepsy Surgery ». Ypo.Education, 2026, https://www.ypo.education/neurosurgery/epilepsy-surgery-t740/video/. Consulté le 23 juill. 2026."
+    },
+    {
+      "type": "reference",
+      "text": "17. Perucca, Piero, et al. « The Management of Epilepsy in Children and Adults ». Medical Journal of Australia, vol. 208, no 5, mars 2018, p. 226‑233, https://onlinelibrary.wiley.com/doi/full/10.5694/mja17.00951, 10.5694/mja17.00951. Consulté le 1 juill. 2026."
+    },
+    {
+      "type": "reference",
+      "text": "18. Push10 Webmaster. « One-Third of Epilepsy Cases Go Untreated up to 3 Years After Diagnosis ». CURE Epilepsy, 12 juin 2019, https://www.cureepilepsy.org/news/one-third-of-epilepsy-cases-go-untreated-up-to-3-years-aft"
+    },
+    {
+      "type": "reference",
+      "text": "er-diagnosis/. Consulté le 21 août 2026."
+    },
+    {
+      "type": "reference",
+      "text": "19. Rogawski, Michael A., et Wolfgang Löscher. « The Neurobiology of Antiepileptic Drugs ». Nature Reviews Neuroscience, vol. 5, no 7, juill. 2004, p. 553‑564, 10.1038/nrn1430."
+    },
+    {
+      "type": "reference",
+      "text": "20. Roy, Trishit, et Alak Pandit. « Neuroimaging in Epilepsy ». Annals of Indian Academy of Neurology, vol. 14, n o 2, 2011, p. 78, 10.4103/0972-2327.82787."
+    },
+    {
+      "type": "reference",
+      "text": "21. Saxena, V. S., et V. V. Nadkarni. « Nonpharmacological Treatment of Epilepsy ». Annals of Indian Academy of Neurology, vol. 14, no 3, 2011, p. 148-152, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3200033/, 10.4103/0972-2327.85870. Consulté le 23 juill. 2026."
+    },
+    {
+      "type": "reference",
+      "text": "22. Sperling, Michael R. « The Consequences of Uncontrolled Epilepsy ». CNS Spectrums, vol. 9, no 2, févr. 2004, p. 98‑109, https://pubmed.ncbi.nlm.nih.gov/14999166/,"
+    },
+    {
+      "type": "reference",
+      "text": "10.1017/s1092852900008464. Consulté le 1 juill. 2026."
+    },
+    {
+      "type": "reference",
+      "text": "23. Swailem, Saleh K, et al. « The Prevalence of Depression in Patients with Epilepsy in the Kingdom of Saudi Arabia ». Cureus, vol. 16, n o 3, 5 mars 2024, p. e55570-e55570, https://pmc.ncbi.nlm.nih.gov/articles/pmc10914221/, 10.7759/cureus.55570. Consulté le 23 juill. 2026."
+    },
+    {
+      "type": "reference",
+      "text": "24. Thurman, David J., et al. « The Primary Prevention of Epilepsy: A Report of the Prevention Task Force of the International League Against Epilepsy ». Epilepsia, vol. 59, n o 5, 10 avr. 2018, p. 905‑914, https://onlinelibrary.wiley.com/doi/abs/10.1111/epi.14068 , 10.1111/epi.14068. Consulté le 2 juill. 2026."
+    },
+    {
+      "type": "reference",
+      "text": "25. World Health Organization. « Epilepsy ». Www.Who.Int, https://www.who.int/health-topics/epilepsy#tab=tab_1. Consulté le 21 août 2026."
+    }
+  ],
+  "matthias-seuntjens": [
+    {
+      "type": "heading",
+      "text": "Abstract"
+    },
+    {
+      "type": "paragraph",
+      "text": "Receiving an unexpected diagnosis involving defective blood cells infiltrating the bone marrow can feel intimidating. This summary describes multiple myeloma in clear, accessible terms. The text explains cellular mutation processes, standard diagnostic steps, key symptoms, and innovative immunotherapy methods. While many clinical articles bury vital information in complicated jargon, this text simplifies hematology concepts so families can better understand their treatment options and navigate care with confidence."
+    },
+    {
+      "type": "heading",
+      "text": "Introduction"
+    },
+    {
+      "type": "paragraph",
+      "text": "Imagine visiting a doctor because your back hurts or, perhaps, because you have been feeling exhausted for a week or two. You are thinking that maybe you have injured a muscle or just need to rest. Suddenly, the routine blood tests that the doctor orders reveal that your white blood cells are attacking your own bone tissue: your healthcare journey is suddenly reshaped by a diagnosis of multiple myeloma."
+    },
+    {
+      "type": "paragraph",
+      "text": "Unfortunately, thousands of people receive such a diagnosis every year, and, for them, the disease comes as a terrible surprise. Let's talk about the basics of this condition and what a person should know about multiple myeloma to reduce the stress caused by the diagnosis."
+    },
+    {
+      "type": "heading",
+      "text": "Section 1: Causes and Risk Factors"
+    },
+    {
+      "type": "paragraph",
+      "text": "First of all, to understand the disease, its origin needs to be studied. First, scientists note that the disease stems from acquired genetic changes within individual cells rather than an inherited trait. This blood cancer begins when a single plasma cell in the bone marrow undergoes genetic changes that cause it to proliferate uncontrollably Rajkumar, 2022. The altered cell produces abnormal antibodies and multiplies, replacing normal blood cells in the body with neoplastic tissue Cowan et al., 2022. As a result, the patient's body begins to produce huge amounts of monoclonal protein, M-protein, which circulates throughout the body and interferes with the function of healthy cells Cowan et al., 2022. At the same time, science has not yet discovered exactly which specific genetic triggers cause these cellular changes, so specific prevention strategies for multiple myeloma remain difficult to outline."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, doctors have identified certain population groups that are more likely to develop multiple myeloma. This disease is most commonly diagnosed in older adults, with an average patient age of 65 or older Rajkumar, 2022. In addition, men are more likely to develop multiple myeloma than women."
+    },
+    {
+      "type": "paragraph",
+      "text": "Finally, scientists have found significant racial disparities in the prevalence of multiple myeloma: people of African descent are more likely to develop this disease, and on average, they are diagnosed at a younger age than white individuals Rajkumar, 2022. Because of this, researchers are focusing their efforts on reducing healthcare inequalities to ensure that all patients receive timely and appropriate care for multiple myeloma Rajkumar, 2022."
+    },
+    {
+      "type": "heading",
+      "text": "Section 2: Signs & Symptoms"
+    },
+    {
+      "type": "paragraph",
+      "text": "Multiple myeloma is a systemic disease that affects the entire body, but since its neoplastic cells grow inside the bone marrow, the symptoms that a patient experiences can be somewhat confusing. A helpful tool in understanding multiple myeloma is the mnemonic CRAB, which stands for Calcium elevation, Renal failure, Anemia, and Bone pain Mohty et al., 2024. Using this diagnostic framework, one can better understand the bodily changes that occur as multiple myeloma develops."
+    },
+    {
+      "type": "paragraph",
+      "text": "First, damaged bones break down and release excess calcium into the bloodstream, causing hypercalcemia, which leads to severe thirst, vomiting, or mental confusion Mohty et al., 2024. Next, as abnormal plasma cells proliferate and M-proteins accumulate, they interfere with kidney function, causing roughly 42% of patients to suffer from renal failure or damage Mohty et al., 2024. Furthermore, neoplastic cells suppress bone marrow activity and disrupt red blood cell production, causing anemia that leaves approximately 73% of patients with severe fatigue and shortness of breath StatPearls, 2024. Finally, rogue cells directly weaken bone tissue, leading about 58% of patients to report intense back or chest pain as a primary symptom of the condition StatPearls, 2024."
+    },
+    {
+      "type": "heading",
+      "text": "Section 3: How Doctors Diagnose It"
+    },
+    {
+      "type": "paragraph",
+      "text": "Unfortunately, multiple myeloma often remains asymptomatic until doctors suspect it based on routine blood tests. For example, patients may have a routine examination and tests when visiting a doctor, and abnormal results may indicate a suspicion of multiple myeloma Cowan et al., 2022."
+    },
+    {
+      "type": "paragraph",
+      "text": "Blood and urine tests are typically the first steps in diagnosing multiple myeloma. In particular, doctors search for abnormal light chains in the urine or M-protein in the blood Cowan et al., 2022."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, to confirm a diagnosis of multiple myeloma, a bone marrow biopsy is required. During this procedure, a specialist takes a small sample of liquid bone marrow from the posterior iliac crest using a special needle Cowan et al., 2022. Patients are under local anesthesia during the procedure and do not feel pain. The cells that the doctor removes are studied under a microscope: if these abnormal plasma cells take up 10% or more of the marrow, it indicates multiple myeloma Cowan et al., 2022. In addition, imaging techniques such as X-ray, CT, or MRI scans are frequently used to determine the exact location and extent of bone damage."
+    },
+    {
+      "type": "heading",
+      "text": "Section 4: Treatment & Management"
+    },
+    {
+      "type": "paragraph",
+      "text": "Anyone who has been studying multiple myeloma knows how scary the early 2000s were for patients with this diagnosis. Fortunately, modern medicine has developed a set of effective treatments that allow doctors to fight multiple myeloma for as long as possible after diagnosis."
+    },
+    {
+      "type": "paragraph",
+      "text": "Today, the treatment of multiple myeloma is largely based on a combination of methods, including targeted therapy, immunotherapy, and stem cell transplantation Moreau et al., 2023. Targeted therapies make it possible to block specific substances needed for the growth and proliferation of malignant cells Moreau et al., 2023. Meanwhile, immunotherapy drugs target tumor cells directly to allow their selective destruction by the body's immune system Moreau et al., 2023. In addition, stem cell transplantation allows doctors to collect healthy blood-forming cells from the patient, expose the body to therapy to destroy the malignant cells, and return the healthy cells to rebuild the marrow Moreau et al., 2023."
+    },
+    {
+      "type": "paragraph",
+      "text": "Beyond these traditional methods, doctors are testing new treatments such as CAR-T cell therapy, which involves modifying healthy T cells so that they can recognize and destroy tumor cells Moreau et al., 2023."
+    },
+    {
+      "type": "heading",
+      "text": "Section 5: Living With Multiple Myeloma"
+    },
+    {
+      "type": "paragraph",
+      "text": "The most important aspect of managing multiple myeloma is treating it as a chronic disease. Doctors recommend that patients take individualized measures to maintain their quality of life and reduce physical burden."
+    },
+    {
+      "type": "paragraph",
+      "text": "Under medical guidance, many patients are advised to monitor and increase their fluid intake, as proper kidney function is critical to help flush out excess fluid containing M-protein and calcium. This is especially important if the patient has already experienced hypercalcemia or renal insufficiency."
+    },
+    {
+      "type": "paragraph",
+      "text": "A second crucial step in living with multiple myeloma is protecting the body from physical stressors. While strenuous sports and heavy weightlifting should generally be avoided due to bone fragility, staying moderately active helps stimulate blood circulation and maintain bone density. Supporting immune system health is equally critical, given the increased risk of infection for people with multiple myeloma: it is essential to take active measures to avoid viral infections."
+    },
+    {
+      "type": "paragraph",
+      "text": "Finally, it is important to remember that having multiple myeloma is not a reason to give up: patients are encouraged to maintain a positive outlook and enjoy fulfilling lives."
+    },
+    {
+      "type": "heading",
+      "text": "Conclusion"
+    },
+    {
+      "type": "paragraph",
+      "text": "Facing a diagnosis of multiple myeloma brings understandable uncertainty for patients and their loved ones. However, one should not despair when faced with this diagnosis, as modern medicine has made significant strides in fighting this disease. In particular, researchers have developed powerful immunomodulatory drugs that have transformed treatment options. Therefore, as endorsed by Aware in Medicine, one should remember that the primary weapon in the fight against multiple myeloma is knowledge, the essential tool for patients to stay strong when facing this disease."
+    },
+    {
+      "type": "heading",
+      "text": "References"
+    },
+    {
+      "type": "reference",
+      "text": "Cowan, A. J., Green, D. J., Kwok, M., Lee, S., Coffey, D. G., Holmberg, L. A., Tuazon, S., Gopal, A. K., & Libby, E. N. 2022. Diagnosis and management of multiple myeloma: A review. JAMA, 327-5, 464-477. https://doi.org/10.1001/jama.2022.0003"
+    },
+    {
+      "type": "reference",
+      "text": "Mohty, M., et al. 2024. Multiple myeloma. Nature Reviews Disease Primers, 10-1, 1-21. https://doi.org/10.1038/s41572-024-00529-7"
+    },
+    {
+      "type": "reference",
+      "text": "Moreau, P., et al. 2023. Progress and new hopes in multiple myeloma treatment. The Lancet, 401-10381, 1021-1034. https://doi.org/10.1016/S0140-6736-22-02557-X"
+    },
+    {
+      "type": "reference",
+      "text": "Rajkumar, S. V. 2022. Multiple myeloma: 2022 update on diagnosis, risk-stratification, and management. American Journal of Hematology, 97-8, 1086-1107. https://doi.org/10.1002/ajh.26590"
+    },
+    {
+      "type": "reference",
+      "text": "StatPearls Contributors. 2024. Multiple myeloma. StatPearls. StatPearls Publishing. https://www.ncbi.nlm.nih.gov/books/NBK459221/"
+    },
+    {
+      "type": "reference",
+      "text": "DKMS UK. (n.d.). Blood cancer: Myeloma. https://www.dkms.org.uk/learn-more/blood-cancer/blood-cancer-myeloma"
+    }
+  ],
+  "maxine-krylov": [
+    {
+      "type": "heading",
+      "text": "Abstract"
+    },
+    {
+      "type": "paragraph",
+      "text": "Acne vulgaris is a skin condition that affects 85% of adolescents aged between 12-24 years old. Acne is not only a physical skin condition, but it can also build into psychological distress. This overview dives deep into the root causes of common acne, from sebum production to lifestyle and habits, while also breaking down symptoms, severities, and different treatment pathways. This overview connects the biology of acne with the emotional health aspect to help readers seek early treatment and feel good in their skin again."
+    },
+    {
+      "type": "heading",
+      "text": "Introduction"
+    },
+    {
+      "type": "paragraph",
+      "text": "Imagine standing in a classroom, a coffee shop with a friend, or even a meeting, trying to learn or laugh. Instead, you’re following people's eye contact and body language, trying to see if they notice your acne or scarring. If this situation seems familiar, you are not alone. Acne vulgaris affects around 9% of the world's population, 85% of which are between 12-24 years old, which means this is one of the most common skin conditions in the world Tan J.K.L., Bhate K 2015."
+    },
+    {
+      "type": "paragraph",
+      "text": "Acne vulgaris (also known as common acne) is a chronic inflammatory disease of the hair follicle-sebaceous gland (the skin's natural pairing of a hair follicle and its attached oil gland). This skin condition appears when the hair follicles are blocked with excess sebum (oil) and dead skin cells, creating inflammation and breakouts."
+    },
+    {
+      "type": "paragraph",
+      "text": "This skin disease affects people not only physically, but also carries an emotional weight. Since acne vulgaris is a visible skin disease, one’s self esteem and confidence can easily be lost. For most individuals who do not struggle with acne, actions like leaving the house seem simple, but for those who do struggle, leaving the house can seem overwhelming by thinking about who they're going to see or how much of their acne they will have to cover up."
+    },
+    {
+      "type": "paragraph",
+      "text": "The root causes of common acne that we will be discovering today are hormonal changes, excess sebum production (excess oil), inflammation, genetics and lifestyle and environmental triggers. All of these causes can induce or aggravate this skin condition. The development of acne involves:"
+    },
+    {
+      "type": "heading",
+      "text": "Root causes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hormonal triggers & Excess sebum production: When locally produced or circulating androgen hormones (ex: testosterone) attach to the androgen receptors in the sebaceous cell (oil gland cell), oil production is triggered. The excess oil gets trapped in the pores which causes inflammation. This process is especially active during hormone imbalance, pregnancy, fluctuates during the menstrual cycle and puberty Zoubilis C.C., Degitz K. 2004."
+    },
+    {
+      "type": "paragraph",
+      "text": "Genetics: Genetics contributes to approximately 81% of the risk towards progress in this skin disease Bataille V et al 2002. Although there is not a specific acne gene, it is considered a polygenic (disease that is influenced by multiple genes) condition that is inherited. The trait inherited dictates the oil production, skin cell shedding and inflammatory responses Zhang H, Zhang Z 2023."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lifestyle & Environmental triggers: One's environment and daily activities heavily affect acne vulgaris. Lifestyle habits that can trigger acne vulgaris are high sugar foods such as sugars, processed carbohydrates, white bread, and dairy products that trigger your insulin levels to spike resulting in excess oil production and inflammation. Poor hygiene (ex: not washing off sweat and germs such as cutiebacterium acnes C. acnes)), allowing sweat, dirt, and oils to rest on your skin after a workout or high intensity activity will quickly result in clogged pores. Stress and lack of sleep, elevate your cortisol (stress hormone). Elevated cortisol causes excessive sebum production and aggravates acne. Environmental factors include humidity, overexposure to the sun and to pollution also plays a significant role in triggering breakouts Deng Y, Wang F, He L 2024."
+    },
+    {
+      "type": "paragraph",
+      "text": "Signs & Symptoms of Acne Vulgaris: The two main categories of acne are inflammatory and non-inflammatory. Inflamed acne presents itself with papules (small and solid raised bump), pustules (raised bump that contains visible pus), and cysts (sacs filled with fluid or semi solid substances)(Eichenfield D.Z., Sprague J, Eichenfield L.F. 2021 ; Fox L et al 2016. Inflammatory acne occurs when there is too much excess sebum in the blocked hair follicles causing inflammation. The symptoms of non-inflammatory acne are open comedones (blackheads) and closed comedones (whiteheads). These symptoms occur because the hair follicle is clogged with dead skin cells and excess oil."
+    },
+    {
+      "type": "paragraph",
+      "text": "Identifying the type of acne you might have is important to start the treatment pathway: Non-inflammatory: To identify non-inflammatory acne vulgaris symptoms we need to observe the open and closed comedones. An open comedone means that the pores are dilated (open) and are being exposed. Open comedones are more commonly referred to as “blackheads”. Blackheads are visibly black because there are trapped dead skin cells and oil in your pores. This trapped mixture then reacts to oxygen causing the mixture to “oxidize” causing the trapped material to change colors. This process is similar to when fruits like apples or bananas turn brown after sitting out in open air. “Whiteheads” can also be a symptom of non-inflammatory acne. Whiteheads are closed comedones meaning they stay under a thin layer of your skin. This allows the oil to be protected from open air, resulting in having a white appearance Wong C.M. et al 2024."
+    },
+    {
+      "type": "paragraph",
+      "text": "Inflamed acne: To identify inflammatory acne vulgaris symptoms we need to observe if papules, pustules, nodules and cysts are present Zaenglein A.L et al 2016. Papules are small, firm, bumps with a “red border”. Often, they are tender when touched."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pustules are commonly known as pimples. They are developed directly on top of papules. They are fluid filled with a white or sometimes yellow hue pus. Nodules are large and painful lumps that go deep past the outer surface of the skin. Nodules do not have a “head” unlike pustules or whiteheads. They are rather firm and very inflamed. Cysts are deep fluid filled bumps that are very painful and are highly common to cause scarring."
+    },
+    {
+      "type": "heading",
+      "text": "Diagnosing Acne Vulgaris"
+    },
+    {
+      "type": "paragraph",
+      "text": "Diagnosing acne vulgaris is commonly done by a clinical examination. The doctor will look for acne characteristics such as open comedones (blackheads), pustules, inflamed papules, closed comedones (whiteheads), and nodules and cysts. Depending on which of the acne vulgaris characteristics are present, acne is classified into three different severity categories: mild, moderate and severe. These classifications serve as a guide to decide which treatment pathways are the most appropriate Eichenfield L.F. et al 2013."
+    },
+    {
+      "type": "paragraph",
+      "text": "Note: Symptoms vary widely between individuals; readers should not self-diagnose based on this list. If someone suspects they have this condition, they should consult a healthcare provider."
+    },
+    {
+      "type": "paragraph",
+      "text": "Treating and Managing Acne Vulgaris: Depending on the severity of acne vulgaris there are many different treatment options such as topical therapies (tretinoin), benzoyl peroxide, azelaic acid (topical medication that reduces inflammation), or combinations of topical treatments. Mild acne can be managed using these fixed-dose topicals. These treatments help the clogged hair follicles and surface-level characteristics. According to the National Center for Biotechnology Information, mixing topical treatments like benzoyl peroxide with a retinoid such as tretinoin (a Vitamin A medication) can be more effective than either of the treatments alone. It is important to note that patients should always follow the doctor’s recommendation instead of trying treatments spontaneously."
+    },
+    {
+      "type": "paragraph",
+      "text": "When the severity of acne is between moderate and severe, treatment progresses from topical skincare to oral medications and treatments. These oral medications help to reduce inflammation that the topical skincare cannot treat alone. For women, sometimes hormonal medication is prescribed, such as contraceptive pills or spironolactone (medication that reduces the effects of androgens in some women)"
+    },
+    {
+      "type": "paragraph",
+      "text": "which help regulate sebum production mediated by androgens Reynolds R.V. et al 2024."
+    },
+    {
+      "type": "paragraph",
+      "text": "When acne is severe and involves scarring, nodules & cysts, or treatment-resistant acne (acne that fails to clear up after standard treatments), then oral isotretinoin is the most effective treatment pathway. Since oral isotretinoin has a high success rate, the guidelines advise to start the medication as early as possible to minimize permanent scarring Keow S, Xiong G, Abu-Hilal M 2025."
+    },
+    {
+      "type": "heading",
+      "text": "Living with Acne Vulgaris"
+    },
+    {
+      "type": "paragraph",
+      "text": "Severe acne vulgaris can often be painful due to the inflamed nodules and cysts Hazarika, N. & Archana M, 2016. Since nodules and cysts are deep in our skin layers, they create pressure and inflammation making it very uncomfortable for simple daily facial movements such as speaking, chewing or even smiling. In addition, nodules and cysts may lead to permanent scarring Zhou C et al 2023. Scarring can cause psychosocial morbidity such as depression and suicidality Xu S et al 2021."
+    },
+    {
+      "type": "paragraph",
+      "text": "Physical facial changes such as acne and scarring can trigger depression, social detachment and suicidality Gupta N et al 2023. Understanding that the struggles of acne are not only physical but also have a huge emotional toll is critical Hazarika, N. & Archana M, 2016. Early treatments will help prevent permanent scarring and the mental health impacts. Zhou C et al 2023."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dealing with acne vulgaris goes far beyond the surface of the skin and deliberately impacts mental wellbeing. The continuous presence of breakouts can feed into personal insecurities and lead to social withdrawal. Recognizing the emotional toll acne vulgaris is vital for treatment approaches, as reducing these wellbeing burdens is just as important as clearing physical symptoms."
+    },
+    {
+      "type": "paragraph",
+      "text": "Emphasize: Treatment plans are highly individualized; readers should always consult their personal physician before starting or modifying treatment."
+    },
+    {
+      "type": "heading",
+      "text": "Conclusion"
+    },
+    {
+      "type": "paragraph",
+      "text": "Acne vulgaris is one of the most common skin diseases, affecting 9% of the world's population in a physical and mental manner. Luckily, there now have been many studies and new treatments to make acne more manageable. Through ongoing clinical research, there is an advancement in treatments, holistic care and knowledge on acne vulgaris allowing us to have a bigger picture of what this disease is and also a wider range of treatment options. With the resources we have accessible today, early clinical treatments allow effective solutions, helping patients manage their acne, minimize scarring but also to feel more confident, empowered and able to take back control of their quality of life."
+    },
+    {
+      "type": "heading",
+      "text": "References"
+    },
+    {
+      "type": "reference",
+      "text": "Zoubilis C.C., Degitz K. (2004). Androgen action on human skin -- from basic research to clinical significance. Experimental dermatology, 13 Suppl 4:5-10. https://doi.org/10.1111"
+    },
+    {
+      "type": "reference",
+      "text": "Bataille V et al (2002)The influence of genetics and environmental factors in the pathogenesis of acne: a twin study of acne in women. The Journal of investigative dermatology. 119(6):1317-22. https://doi.org/10.1046"
+    },
+    {
+      "type": "reference",
+      "text": "Zhang H, Zhang Z (2023) Genetic Variants Associated with Acne Vulgaris. International journal of general medicine. 6:3843-3856. https://doi.org/10.2147"
+    },
+    {
+      "type": "reference",
+      "text": "Deng Y, Wang F, He L (2024) Skin Barrier Dysfunction in Acne Vulgaris: Pathogenesis and Therapeutic Approaches. Medical science monitor : international medical journal of experimental and clinical research. 13;30:e945336. https://doi.org/10.12659"
+    },
+    {
+      "type": "reference",
+      "text": "Eichenfield D.Z., Sprague J, Eichenfield L.F. (2021) Management of Acne Vulgaris: A Review. JAMA. 23;326(20):2055-2067. https://doi.org/10.1001"
+    },
+    {
+      "type": "reference",
+      "text": "Fox L et al (2016) Treatment Modalities for Acne. Molecules. 13;21(8):1063. https://doi.org/10.3390"
+    },
+    {
+      "type": "reference",
+      "text": "Wong C.M. et al (2024) Presentations of Cutaneous Disease in Various Skin Pigmentations: Acne Vulgaris - Comedonal Acne. HCA healthcare journal of medicine. 29;5(1):19-25. https://doi.org/10.36518"
+    },
+    {
+      "type": "reference",
+      "text": "Eichenfield L.F. et al (2013) Evidence-based recommendations for the diagnosis and treatment of pediatric acne. Pediatrics. 131 Suppl 3:S163-86. https://doi.org/10.1542"
+    },
+    {
+      "type": "reference",
+      "text": "Reynolds R.V. et al (2024) Guidelines of care for the management of acne vulgaris. Journal of the American Academy of Dermatology. 90(5):1006.e1-1006.e30. https://doi.org/10.1016"
+    },
+    {
+      "type": "reference",
+      "text": "Keow S, Xiong G, Abu-Hilal M (2025) Update to acne vulgaris treatment for Canadian practice. Canadian family physician Médecin de famille canadien. 71(10):612. https://doi.org/10.46747"
+    },
+    {
+      "type": "reference",
+      "text": "Hazarika, N. & Archana M, (2016) The Psychosocial Impact of Acne Vulgaris. Indian journal of dermatology. 61(5):515-20. https://doi.org/10.4103"
+    },
+    {
+      "type": "reference",
+      "text": "Zhou C et al (2023) Beyond the Surface: A Deeper Look at the Psychosocial Impacts of Acne Scarring. Clinical, cosmetic and investigational dermatology. 25;16:731-738. https://doi.org/10.2147"
+    },
+    {
+      "type": "reference",
+      "text": "Xu S et al (2021) The analysis of acne increasing suicide risk. Medicine. 18;100(24):e26035. https://doi.org/10.1097"
+    },
+    {
+      "type": "reference",
+      "text": "Gupta N et al (2023) The Controversies Surrounding Acne and Suicide: Essential Knowledge for Clinicians. Curēus. 21;15(8):e43867. https://doi.org/10.7759"
+    }
+  ],
+  "olivia-wang": [
+    {
+      "type": "heading",
+      "text": "Abstract"
+    },
+    {
+      "type": "paragraph",
+      "text": "Most people view diabetes as “eating too much sugar” or “always taking insulin injections,” but it is much more than that. The world doesn’t understand that more than 830 million people worldwide are affected by type 2 diabetes, yet more than 50% of them are still left undiagnosed. People should gain more knowledge about this condition to prevent and treat it. That is exactly what this article will give readers: a guide to understanding type 2 diabetes, its causes, symptoms, diagnosis, treatment and next steps. Stop wondering what to do about diabetes and start being the answer."
+    },
+    {
+      "type": "heading",
+      "text": "Introduction"
+    },
+    {
+      "type": "paragraph",
+      "text": "Type 2 diabetes affects more than 830 million people worldwide and 50% of them remain still undiagnosed. According to the research Mayo Clinic, section 1 we can determine that type 2 diabetes is a chronic disease that alters the procedure of breaking down glucose, a type of sugar that gives energy to our cells. For people not affected by diabetes, the glucose is broken down and enters the bloodstream, increasing the sugar level in the blood. To compensate for the rise, insulin is added, an essential hormone produced by the pancreas that stimulates glucose to enter cells for storage and energy Cleveland Clinic, section 2."
+    },
+    {
+      "type": "paragraph",
+      "text": "For those with type 2 diabetes, this process of digesting glucose doesn’t function as well and requires external regulations. It is triggered by two main factors: the inability of the pancreas to produce enough insulin and the body’s weak response to it."
+    },
+    {
+      "type": "paragraph",
+      "text": "Becoming less sensitive to the insulin signal is known as becoming insulin resistant."
+    },
+    {
+      "type": "paragraph",
+      "text": "According to research Global Self Healthcare Education and Research, section 5, as a result of the weakened signal from the target tissues in the skeletal muscles, liver, and fats, the body tells the pancreas to produce excessive insulin, which builds up in the blood. The weakened signal and its receptor, a special protein on the cell surface unlocking specific structures, act as a key trying to open a coated lock. Since the pancreas wants the glucose to enter the coated cells anyways, it decides to force more insulin against the cells. Over time, the pancreas loses the ability to produce this hormone and requires insulin injections."
+    },
+    {
+      "type": "paragraph",
+      "text": "At first, there are minor symptoms that often go unnoticed: weight loss, blurred vision, frequent thirst, urination, hunger, and craving sugar. Your body is trying to tell you that there is a problem with your pancreas and that you should bring attention to it. If you ignore those symptoms, massive amounts of glucose may start to build up in the bloodstream, elevating the chance for future life-threatening disease, like cardiovascular and neurological complications. That’s why understanding this disease can help you control your blood sugar level and prevent fatal damage."
+    },
+    {
+      "type": "heading",
+      "text": "Causes"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 in 3 adults are most likely to have diabetes during their lifetime, according to UW Medicine, section 1. Although type 2 diabetes is partly genetic, it is more commonly caused by lifestyle factors and age. Genetics play a role in the family history of type 2 diabetes, obesity or the thousands of gene variants that affect the processing of glucose. However, this disease weighs more on age, gender and lifestyle, like diet, stress level and living environment. A 70 year old man who works in a factory and eats BeaverTails every night statistically has a higher risk of type 2 diabetes than a 20 year old female who works in a hospital and cooks home-made food."
+    },
+    {
+      "type": "heading",
+      "text": "Risk Factors"
+    },
+    {
+      "type": "paragraph",
+      "text": "Other than age, gender and lifestyle, statistics show prominent risk factors for this disease."
+    },
+    {
+      "type": "paragraph",
+      "text": "- Being prediabetic - Having high cholesterol - Having a high blood pressure - Having a family history of diabetes - Being Indigenous, African, East Asian, South Asian - Living as a middle-income class 11% vs. a low-income class 7% What Brings You a Step Closer… According to a Harvard Health study, having fried foods every day increases the risk of type 2 diabetes by 50%, as it leads to the three main causes of diabetes: weight gain, high cholesterol and high blood pressure. Eating foods high in saturated fat, like milk or red meat also enhances the chance of type 2 diabetes, playing a part in insulin resistance. Worst of them all, sugary foods or drinks, causing glucose to rapidly spike and your pancreas to release big amounts of insulin. This will eventually lead to the loss of the ability for this organ to produce insulin."
+    },
+    {
+      "type": "paragraph",
+      "text": "Believe it or not, high levels of stress can also increase the risk of type 2 diabetes."
+    },
+    {
+      "type": "paragraph",
+      "text": "When a person is stressed, cortisol and adrenaline are released, which are the body’s primary stress hormones. Glucose is then dumped into the bloodstream, making you feel the burst of energy."
+    },
+    {
+      "type": "paragraph",
+      "text": "People who live in an atmosphere with little air pollution and a lot of green space will more likely walk and do physical activity. A person living close to a supermarket is also more probable to cook organic food at home."
+    },
+    {
+      "type": "paragraph",
+      "text": "Symptoms & Different Stages of Type 2 Diabetes Insulin resistance: Developing insulin resistance is the first stage of type 2 diabetes and will most likely not result in any change. As one of the main causes of type 2 diabetes, the pancreas doesn’t pick up a strong enough signal that directs it to produce a certain amount of insulin. At this stage, the pancreas is already starting to act on unusual activity and blood sugar levels are slowly going to rise."
+    },
+    {
+      "type": "paragraph",
+      "text": "Prediabetes: At this stage, people may notice mild symptoms, like blurred vision, weight loss, frequent thirst, hunger, urination and craving sugar, or none at all. This explains why 73% of patients are left undiagnosed and could have been living with this disease for many years already. If you feel any of these symptoms, it’s best to check in with a doctor to diagnose whether or not you are prediabetic to create a medical plan."
+    },
+    {
+      "type": "paragraph",
+      "text": "The only way to find out is by taking a blood test called the Hemoglobin A1C test."
+    },
+    {
+      "type": "paragraph",
+      "text": "According to research Gunther, section 2; UW Medicine), blood sugar levels residing between 100 milligrams/deciliter (mg/dL) and 125 mg/dL means that someone is prediabetic and may face future complications with type 2 diabetes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Compared to the later stages, this condition is reversible and if people become more aware about their lifestyle, they can become non-prediabetic. However, once you no longer show a high blood sugar level, you should maintain that level, because if you were prediabetic, there is a higher chance that you can become one again."
+    },
+    {
+      "type": "paragraph",
+      "text": "Type 2 Diabetes: As a person enters the earlier stages of type 2 diabetes, these symptoms get more noticeable, as their blood sugar levels rise above 126 mg/dL."
+    },
+    {
+      "type": "paragraph",
+      "text": "Adding on to the symptoms listed in prediabetes, you may also start experiencing tingling or numbness in the feet or hands and wounds that take a long time to heal."
+    },
+    {
+      "type": "paragraph",
+      "text": "Now, the pancreas is exhausted due to insulin resistance and starts to produce less and less insulin."
+    },
+    {
+      "type": "paragraph",
+      "text": "Type 2 Diabetes with Complications: However, when this disease progresses to the later stages, it is too late. You have had type 2 diabetes for many years now and you still haven’t got it treated. Based on Govindarajan Venguidesvarane et al., section 1, this situation accounts for over 80% of the population in a Rural Health Center and most of them got diagnosed at this stage, This condition is responsible for many complications, like blindness, since the blood vessels in the eyes start to swell up due to the excess glucose. This damages the vessel walls and leaks fluid and blood into the eye."
+    },
+    {
+      "type": "paragraph",
+      "text": "The most common complications are heart attacks or strokes: when the excess glucose mixes with fat and cholesterol in the blood and forms plaques. This blocks the blood from flowing freely and eventually stops the circulation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nevertheless, the most rare but probable, is when the body is no longer able to fight infection due to the damage done to white blood cells. This causes people to have to amputate their wounds in order to prevent life-threatening infection from spreading."
+    },
+    {
+      "type": "paragraph",
+      "text": "Note: Symptoms vary widely between individuals; readers should not self-diagnose based on this list. If someone suspects they have this condition, they should consult a healthcare provider."
+    },
+    {
+      "type": "heading",
+      "text": "Diagnosis"
+    },
+    {
+      "type": "paragraph",
+      "text": "Diagnosis is your lifesaver. Type 2 diabetes is known as a “silent killer,” which is why you have to get tested with a Hemoglobin A1C test every few months at the clinic."
+    },
+    {
+      "type": "paragraph",
+      "text": "Listed below are the ranges of normal, prediabetic and diabetic blood sugar concentration."
+    },
+    {
+      "type": "paragraph",
+      "text": "- Normal = less or equal to 100 mg/dL - Prediabetic = 100 mg/dL 125 mg/dL - Diabetic = more or equal to 126 mg/dL This could also be done daily using a glucometer at home, a portable medical device to measure blood sugar level. First, you would insert the test strip into the glucometer."
+    },
+    {
+      "type": "paragraph",
+      "text": "Next, use the lancet, or tiny blade, to prick the side of your finger and collect a droplet of blood onto the tip of the strip. Read the number on the glucometer and assess your blood sugar concentration."
+    },
+    {
+      "type": "paragraph",
+      "text": "Other tests also exist to identify type 2 diabetes, such as the diabetic foot examination."
+    },
+    {
+      "type": "paragraph",
+      "text": "When a person has type 2 diabetes, they often lose the ability to feel the endings of their nerves. An expert will first use a plastic thread and put pressure to different parts of your foot to make sure that the nerve endings are still functioning. Then, they will put a 128 Hertz Hz tuning fork, a medical tool, onto the corner of both feet to confirm that you can feel the vibration."
+    },
+    {
+      "type": "paragraph",
+      "text": "Before being diagnosed with type 2 diabetes, doctors might assess the patient’s medical history to bring out an accurate diagnosis and make sure that the context fits in. They also consider their family history, the symptoms being experienced and any physical abnormalities, like obesity, hypertension and eye hemorrages. Their immunization history might as well be taken into account to analyze the level of strength of the patient’s immune system, as diabetes highly compromizes it."
+    },
+    {
+      "type": "heading",
+      "text": "Treatment"
+    },
+    {
+      "type": "paragraph",
+      "text": "If a person is diagnosed with type 2 diabetes, doctors might offer different treatment options to avoid future complications. Depending on certain stages, there will be specific procedures to take. However, regardless of the stage, a person should try to treat the following conditions if experienced: Hypertension: According to research Orrange, section 3, hypertension could be treated with a daily intake of prescription medications. One type of medication includes the angiotensin-converting enzyme inhibitor or ACE inhibitor. Its function is to prevent the formation of angiotensin II, a hormone that increases blood pressure."
+    },
+    {
+      "type": "paragraph",
+      "text": "Based on research NIH, section 2; Orrange), modifying your diet can also be very helpful, such as following the DASH diet, consisting of plenty of vegetables, fruits, whole grains, low-fat dairy, vegetable oils and lean meats. Limiting alcoholic beverages, sugary drinks and red meats is recommended."
+    },
+    {
+      "type": "paragraph",
+      "text": "Plaque Buildup: According to research Harvard Health Publishing, section 3, doctors often prescribe statins, medications that block the liver enzyme from producing cholesterol. Cholesterol is the one that if consumed excessively, builds up in the inner side of the arteries to create plaques. As a result, you may experience shortness of breath or chest pain."
+    },
+    {
+      "type": "paragraph",
+      "text": "In addition, there is a possibility that the plaque could rupture, causing a heart attack."
+    },
+    {
+      "type": "paragraph",
+      "text": "When a plaque ruptures, the substance filled with cholesterol, calcium and white blood cells seeps into the bloodstream and the body starts to create blood clots. This cuts off the circulation to vital organs, like the heart, brain and lungs."
+    },
+    {
+      "type": "paragraph",
+      "text": "Emphasize: Treatment plans are highly individualized; readers should always consult their personal physician before starting or modifying treatment."
+    },
+    {
+      "type": "heading",
+      "text": "Management"
+    },
+    {
+      "type": "paragraph",
+      "text": "For individuals with insulin resistance or that are prediabetic, there are a few steps that can control their blood sugar level and prevent the occurrence of this condition."
+    },
+    {
+      "type": "paragraph",
+      "text": "As mentioned before, these include maintaining a healthy body weight, since it minimizes the blockage of the “lock” of the cell, allowing glucose to enter the cell for storage."
+    },
+    {
+      "type": "paragraph",
+      "text": "Maintaining a healthy diet was also very important. Minimizing foods high in sugar, cholesterol and saturated/trans fats as well as processed foods can lower the chance for cardiovascular and neurological conditions."
+    },
+    {
+      "type": "paragraph",
+      "text": "And most importantly, adapting lifestyle factors and increasing physical activity. This will lower blood sugar levels with the help of proper digestion of glucose and its efficient conversion to energy."
+    },
+    {
+      "type": "heading",
+      "text": "Richard’s Story"
+    },
+    {
+      "type": "paragraph",
+      "text": "“I’m Richard King and I’ve lived comfortably with type 2 diabetes for over 20 years,”"
+    },
+    {
+      "type": "paragraph",
+      "text": "King states, according to NKC Health)."
+    },
+    {
+      "type": "paragraph",
+      "text": "When he was first diagnosed with type 2 diabetes, his mind immediately went through all the possible risks and dangers that he could encounter. The main dangers being heart attack or stroke, kidney failure and nerve damage. From then on, he decided that he wasn’t going to let diabetes determine his fate and went on to adapt his lifestyle and diet. After increasing physical activity and drastically changing eating habits nearly every day, he lost 30 pounds the next time he visited his physician, Dr. Dunbar."
+    },
+    {
+      "type": "paragraph",
+      "text": "King wanted to be a healthy individual, despite his condition of type 2 diabetes and he sends a message to inspire those experiencing any stage of diabetes: if you don’t feel well, don’t ignore these indications and go to the doctor. King consulting with Dr."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dunbar as one of the best decisions that he has ever made during this journey. She stepped in King’s shoes and understood his health concerns and gave in her thoughts of how to manage his condition for the future."
+    },
+    {
+      "type": "paragraph",
+      "text": "One piece of advice that he gave to himself was to always have a clear ruler in his head telling you to constantly change your diet and lifestyle factors. No matter how strong the urge to experience what you had before is, the urge to become a healthier individual should be stronger."
+    },
+    {
+      "type": "paragraph",
+      "text": "This led him to his final message which was to maintain your blood sugar level on a regular basis by checking with a glucometer. This will allow you to understand your current stage and figure out your next steps onwards."
+    },
+    {
+      "type": "heading",
+      "text": "Now What?"
+    },
+    {
+      "type": "paragraph",
+      "text": "In the current world, we are able to understand type 2 diabetes, diagnose this condition, as well as treat it, and maintain a healthy condition afterwards. According to research Shomali, section 1, in future years, scientists are looking at an increase of type 2 diabetes cases as people become more inactive through the convenience of technology. Even though physicians and experts continuously remind patients to maintain a healthy lifestyle, patients never seem to follow their instructions until they experience the consequences. This means that diabetes will slowly become part of our lives and the research that is being conducted is essential for the future."
+    },
+    {
+      "type": "paragraph",
+      "text": "“Having diabetes might not be your choice, but managing it is,” Advocators). Type 2 diabetes is a treatable and manageable disease that is empowered by your own hands."
+    },
+    {
+      "type": "paragraph",
+      "text": "This disease is one that you inevitably live with your entire life and it is totally up to you whether you want to change that. Becoming a healthier person and adapting your lifestyle is a hard decision, but it is one that your later self will thank your current self for. Be that person: see a doctor, diagnose your disease and get treatment. Remember, “diabetes may be tough, but you are tougher,” Advocators)."
+    },
+    {
+      "type": "heading",
+      "text": "References"
+    },
+    {
+      "type": "reference",
+      "text": "Your References:"
+    },
+    {
+      "type": "reference",
+      "text": "1. American Diabetes Association. « Understanding Diabetes Diagnosis ». American Diabetes Association, American Diabetes Association, 2023, https://diabetes.org/about-diabetes/diagnosis."
+    },
+    {
+      "type": "reference",
+      "text": "2. Areosa Sastre, Almudena, et al. « Effect of the Treatment of Type 2 Diabetes Mellitus on the Development of Cognitive Impairment and Dementia ». Cochrane Database of Systematic Reviews, 15 juin 2017, https://www.cochrane.org/CD003804/DEMENTIA_effect-treatment-type-2-diabetes-mellitus-develop"
+    },
+    {
+      "type": "reference",
+      "text": "ment-cognitive-impairment-and-dementia, 10.1002/14651858.cd003804.pub2."
+    },
+    {
+      "type": "reference",
+      "text": "3. CDC. « Vision Loss and Diabetes ». Diabetes, 13 mai 2024, https://www.cdc.gov/diabetes/diabetes-complications/diabetes-and-vision-loss.html. Consulté le 21 août 2026."
+    },
+    {
+      "type": "reference",
+      "text": "4. Cleveland Clinic. « Insulin ». 17 janv. 2024."
+    },
+    {
+      "type": "reference",
+      "text": "5. Dendup, Tashi, et al. « Environmental Risk Factors for Developing Type 2 Diabetes Mellitus: A Systematic Review ». International Journal of Environmental Research and Public Health, vol. 15, n o 1, 2018, p. 78. PubMed Central, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5800177/,"
+    },
+    {
+      "type": "reference",
+      "text": "10.3390/ijerph15010078. Consulté le 31 juill. 2026."
+    },
+    {
+      "type": "reference",
+      "text": "6. Galicia-Garcia, Unai, et al. « Pathophysiology of Type 2 Diabetes Mellitus ». International Journal of Molecular Sciences, vol. 21, n o 17, 30 août 2020, p. 1‑34, https://pmc.ncbi.nlm.nih.gov/articles/PMC7503727/."
+    },
+    {
+      "type": "reference",
+      "text": "7. Government of Canada. « Diabetes: Prevention and Risk Factors - Canada.Ca ». 2025."
+    },
+    {
+      "type": "reference",
+      "text": "8. Govindarajan Venguidesvarane, Akila, et al. « Prevalence of Vascular Complications Among Type 2 Diabetic Patients in a Rural Health Center in South India ». Journal of Primary Care & Community Health, vol. 11, janv. 2020, p. 215013272095996, 10.1177/2150132720959962."
+    },
+    {
+      "type": "reference",
+      "text": "9. GP Evidence. « Type 2 Diabetes MellitusGP Evidence ». GP Evidence, 2023, https://gpevidence.org/conditions/test/."
+    },
+    {
+      "type": "reference",
+      "text": "10. Gunther, Anna. « What Is the Normal Range for Blood Sugar? ». 2024."
+    },
+    {
+      "type": "reference",
+      "text": "11. Harvard Health Publishing. « Can We Reduce Vascular Plaque Buildup? - Harvard Health ». Harvard Health, 3 mai 2019."
+    },
+    {
+      "type": "reference",
+      "text": "12. Henning, Robert J. « Type-2 Diabetes Mellitus and Cardiovascular Disease ». Future Cardiology, vol. 14, no 6, nov. 2018, p. 491‑509, 10.2217/fca-2018-0045."
+    },
+    {
+      "type": "reference",
+      "text": "13. Integris Health. « Food Choices That Impact Your Risk of Type 2 Diabetes ». 6 janv. 2023."
+    },
+    {
+      "type": "reference",
+      "text": "14. Mayo Clinic. « Type 2 Diabetes ». 2025."
+    },
+    {
+      "type": "reference",
+      "text": "15. NIH. « DASH Diet to Lower High Blood Pressure: MedlinePlus Medical Encyclopedia ». 2013."
+    },
+    {
+      "type": "reference",
+      "text": "16. NKC Health. Live the Sweet Life With Type 2 Diabetes | Patient Story | NKC Health. YouTube, 5 sept. 2018."
+    },
+    {
+      "type": "reference",
+      "text": "17. Orrange, Sharon. « Choosing Blood Pressure Medication: Which Is Best for You? ». GoodRx, 31 janv. 2017, https://www.goodrx.com/conditions/hypertension/choosing-your-blood-pressure-medication-what-type"
+    },
+    {
+      "type": "reference",
+      "text": "-is-best?srsltid=AfmBOoqcpocrXXHZYxcAH0toAyYSp7RmKwzLknO7dvnxOWoqymtJG-3I. Consulté le 31 juill. 2026."
+    },
+    {
+      "type": "reference",
+      "text": "18. Romesh Khardori, MD, PhD, FACP. « Type 2 Diabetes Mellitus Clinical Presentation: History, Physical Examination ». Medscape.Com, Medscape, 23 déc. 2024, https://emedicine.medscape.com/article/117853-clinical#showall."
+    },
+    {
+      "type": "reference",
+      "text": "19. Shomali, Mansur. « Diabetes Treatment in 2025: Can Scientific Advances Keep Pace With Prevalence? ». Therapeutic Advances in Endocrinology and Metabolism, vol. 3, no 5, oct. 2012, p. 163‑173, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3498849/, 10.1177/2042018812465639. Consulté le 31 juill. 2026."
+    },
+    {
+      "type": "reference",
+      "text": "20. The Lancet Diabetes & Endocrinology. « Aligning Diabetes Surveillance with Clinical Reality ». The Lancet Diabetes & Endocrinology, vol. 14, n o 2, févr. 2026, p. 93, 10.1016/s2213-8587(25)00404-8. Consulté le 9 mars 2026."
+    },
+    {
+      "type": "reference",
+      "text": "21. UW Medicine. « 1 In 3 U.S. Adults Has Prediabetes, Many Unknowingly | Department of Medicine News ». Uw.Edu, 2023, https://mednews.uw.edu/news/prediabetes. Consulté le 21 août 2026."
+    },
+    {
+      "type": "reference",
+      "text": "22. Williams, Angela. « How Sleep and Stress Affect Blood Sugar | University Health | University Health ». 2025."
+    },
+    {
+      "type": "reference",
+      "text": "23. World Health Organization. « Diabetes ». World Health Organization, 14 nov. 2024, https://www.who.int/news-room/fact-sheets/detail/diabetes. Consulté le 21 août 2026."
+    }
+  ],
+  "sophia-bhatti": [
+    {
+      "type": "heading",
+      "text": "Abstract"
+    },
+    {
+      "type": "paragraph",
+      "text": "Endometriosis is a chronic inflammatory disorder affecting up to 10% of women worldwide, which is heavily under researched. This condition consists of tissue resembling the cells lining the uterus migrating to other parts of the body, forming lesions and scarring much like cancer. These lesions inflame, and can cause a myriad of symptoms, all depending on the patient. This condition can affect any area of life, from fertility to mental health, and hasn't received the attention it deserves despite its potentially detrimental impacts. For decades, the medical community has dismissed the disorder and overlooked women's health. In this article, not only are the physical symptoms discussed, but the barriers women with endometriosis face today, the mental toll it takes, and what exactly has stopped us from finding a cure."
+    },
+    {
+      "type": "heading",
+      "text": "Introduction"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you follow any biomedical engineers or healthcare professionals on social media, you have no doubt seen outrage expressed towards the lack of resources going towards women’s health and research, particularly chronic conditions. One of these conditions is endometriosis, a chronic inflammatory ailment, caused by the migration of cells resembling endometrial tissue outside of the uterus and leading to detrimental and multilateral side effects. From sexual function to mental health, endometriosis has a negative effect on many domains of life which leaves many feeling powerless and at the mercy of their disorder. This condition affects up to 10% of women worldwide, often going undiagnosed or mistreated due to systemic barriers and biases in healthcare Chauhan et al., 2022."
+    },
+    {
+      "type": "paragraph",
+      "text": "Endometriosis is not just a phenomenon seen in medical textbooks: it causes intense pain and suffering for many women worldwide. Nevertheless, this disorder has been consistently dismissed by medical researchers and denied grants. It eventually leads you to ask one question: ‘Why is this happening?’ The main explanation is that the medical system today still holds the ideals of yesterday, forcing marginalized groups to pay the price for medical negligence. The only way to combat the real-life barriers in healthcare we see today, is to take action. Whether it be raising awareness, or learning more about the condition to advocate for yourself, you can make a difference."
+    },
+    {
+      "type": "heading",
+      "text": "Signs and Symptoms"
+    },
+    {
+      "type": "paragraph",
+      "text": "Endometriosis is unique in the symptoms it causes, both due to the disorder’s variability and of its unclear causes. A symptom that is common for many women living with endometriosis is dysmenorrhea, or painful periods Chauhan et al., 2022. When menstruation causes a high level of pain, it can usually be attributed to an overproduction of hormones, leading to lower back pain, heavy bleeding, longer menstrual phases and pelvic pain. Another key symptom is dyspareunia, which is pain during sex. There are two main types of dyspareunia, deep and superficial. Superficial dyspareunia is pain limited to the vaginal opening and the vulva. Deep dyspareunia, however, causes pain to radiate to the lower pelvis Chauhan et al., 2022. Other symptoms like infertility, chronic pain, impaired sexual function, internal bleeding and impaired function of certain systems (i.e. metabolic) are also integral parts of the disease."
+    },
+    {
+      "type": "paragraph",
+      "text": "This list of symptoms doesn’t apply to everyone, in fact, many women experience different symptoms based on the location of their endometrial lesions. For example, if a lesion is located in your digestive tract, you may have bloody stool during your menstrual cycle Yin et al., 2023. This is due to the endometrial cells in your gut shedding its lining, just like during your period. Nevertheless, patients may also be asymptomatic, or only display a limited amount of symptoms. Combined with the lack of knowledge concerning causes for symptoms, and the migration of tissue into many parts of the body, endometriosis is difficult for medical professionals to spot without imaging, analyzing saliva or invasive surgery with the training and technology at their disposal today."
+    },
+    {
+      "type": "paragraph",
+      "text": "Note: Symptoms vary widely between individuals; readers should not self-diagnose based on this list. If someone suspects they have this condition, they should consult a healthcare provider."
+    },
+    {
+      "type": "heading",
+      "text": "Causes and Risk Factors"
+    },
+    {
+      "type": "paragraph",
+      "text": "Despite the overlooking of endometriosis in research, scientists have managed to narrow down causes and risk factors for the disorder in recent years. Many recent studies have successfully hypothesized some probable causes for endometriosis, with the main identified cause being something called retrograde menstruation Chauhan et al., 2022. Retrograde menstruation consists of cells from the uterine lining travelling up the fallopian tubes during the menstrual phase. Due to the fallopian tube not being physically attached to the ovaries, the tissue migrates to other parts of the abdominal cavity. This phenomenon also plays a role in ectopic pregnancies, meaning pregnancies where the fertilized egg migrates and grows in other parts of the abdominal cavity. Retrograde menstruation can happen to almost anyone with a cycle, and already happens to 76-90% of women with patent fallopian tubes, a term used to designate healthy tubes that allow ovum to travel through Chauhan et al., 2022. In recent years, researchers have succeeded in identifying risk factors with both loose and strong correlations. Firstly, there is an element of genetic predisposition. Recent research has shown that endometriosis tends to be observed in families, and therefore inherited Hansen & Eyster, 2010. Moreover, certain variables such as diet have been loosely correlated with endometriosis, demonstrating the potential link between trans fat and red meat consumption Arab et al., 2022."
+    },
+    {
+      "type": "paragraph",
+      "text": "Notwithstanding some research being done on this theorized link, it remains unproved as little research has been done. Furthermore, previous surgery in the lower abdominal area can increase the likelihood of endometrial cells spreading, causing something called ‘scar endometriosis’. For example, patients may be at risk after cesarean sections due to the possibility of tissue breaking away from the main incision and migrating to other parts of the body Chauhan et al., 2022. The large advancements in our knowledge about endometriosis is absolutely a cause for celebration. However, due to the newness of most recent research, certain domains have been underexplored and there is still much work to be done to fully understand this complex gynecological pathology."
+    },
+    {
+      "type": "heading",
+      "text": "Diagnosis"
+    },
+    {
+      "type": "paragraph",
+      "text": "In the past, the only way women with endometriosis could obtain a diagnosis was through invasive procedures like exploratory surgery, or large surgeries where lesions were spontaneously discovered. Today, many advancements have been made in diagnosing patients with endometriosis that are more cost effective, less invasive and more efficient."
+    },
+    {
+      "type": "paragraph",
+      "text": "First and foremost, imaging is the most commonly used procedure to detect endometriosis. MRIs, ultrasounds, and other forms of medical imaging help greatly in identifying the locations and number of lesions, allowing for more targeted treatment and a personalized plan moving forward Mayo Clinic, 2024. Additionally, laparoscopy is another commonly used way to determine whether a patient has endometriosis. Through minimally invasive surgery assisted with a flexible camera, surgeons can perform operations in the abdominal and pelvic region with ease Mayo Clinic, 2024. This allows for lesions to be removed immediately, and is done after imaging has been performed to either eliminate the excess endometrial tissue or to further explore the cavity. Finally, new research has discovered that endometriosis can be detected through saliva analysis, looking for a microRNA (or miRNA marker that indicates the presence of endometrial lesions Nigdelis et al., 2024. Despite this treatment being revolutionary, it is still new and needs to be further explored before widespread implementation Nigdelis et al., 2024. This does not negate the huge importance of more minimally invasive avenues of diagnosis, particularly for adolescents or individuals who would be at risk or uncomfortable during invasive procedures."
+    },
+    {
+      "type": "paragraph",
+      "text": "Finding avenues of detecting endometriosis medically isn’t the greatest barrier for those possessing the disorder; it's the huge gap in time between experiencing symptoms and formal diagnosis. For many women, this means months of being referred between specialists just to be told the same thing from every one. Combined with the time it takes naturally for symptoms to be concerning, this wait time becomes painful and insufferable. Instead of walking into an appointment without knowing what you need to do to be screened, seek to learn more about what’s to come and what screenings you need to exhaust the possibility of endometriosis. There are many services which help clients to prepare questions for appointments, for example when a certain disease is to be the suspected cause of your symptoms. Advocating for yourself and your health is one of the most significant factors contributing to getting you the diagnosis to access the care you need, especially in a system where women’s reproductive health has only recently been made a priority."
+    },
+    {
+      "type": "heading",
+      "text": "Treatment"
+    },
+    {
+      "type": "paragraph",
+      "text": "As of now, there has not been a discovered cure for endometriosis. But, the disorder is highly treatable through various methods such as surgery and hormonal treatments. These treatments often range depending on the stage of endometriosis, and where lesions are located. Like cancer, there are four stages of endometriosis, with Stage IV being considered the most severe Chauhan et al., 2022, depending on the amount of lesions and adhesions present. Stage I consists of small lesions (active tissue that is responsive to hormones) with no lesions (scar tissue that has become unresponsive to hormones). Stage II consists of lesions covering the surface of the ovaries, and some very mild adhesions, whilst Stage III entails the deepening of lesions on the ovaries and the potential spread of adhesions to the fallopian tubes and ovaries. Stage IV is the most severe stage, with dense adhesions and lesions all over the ovaries, fallopian tubes and endometriomas in the ovaries. Endometriomas are large ovarian cysts, filled with menstrual blood accumulated over time Chauhan et al., 2022. It is important to note that a specific stage doesn’t necessarily align with a set of symptoms, it only specifies the progression and appearance of the lesions, adhesions and endometrioma. These Stages are the basis for treatment, along with the patient’s goals pertaining to fertility."
+    },
+    {
+      "type": "paragraph",
+      "text": "For most cases of endometriosis, medical professionals opt for drug-based treatment plans before moving on to surgery if the case progresses Mayo Clinic, 2024. The main types of medicine administered to patients with endometriosis are painkillers, hormone-based treatments and fertility treatments. All of the following medications and treatments aim to balance or decrease the amount of hormones in your bloodstream, which tricks the lesions in the body into minimizing how much they inflame during flare-ups. Some aim to eliminate the menstrual cycle by simulating menopause, whereas others may also possess the ability to shrink endometrial lesions. Many treatments can also be administered at once, depending on dosage, the progression of the illness and what works best for each individual. If hormonal treatment fails, only then will your doctor suggest surgery to remove the lesions and/or endometrioma Chauhan et al., 2022."
+    },
+    {
+      "type": "paragraph",
+      "text": "The main options that a patient will be provided will most likely be laparoscopy or hysterectomy, depending on progression Stage I, II, III or IV and the fertility goals of the patient. Laproscopy, explained in a previous section, is a minimally invasive, camera assisted surgery where the abdominal cavity is lightly inflated and long tools are used to explore the site. This form of surgery aims to conserve the structures underneath it, and is usually offered to patients with mid stage endometriosis or patients who want children in the future. If removing the lesions and endometrioma laparoscopically is not possible, or the adhesions are too deep for a good turnout, the patient is usually offered the choice to attempt laparoscopic surgery or to undergo a hysterectomy. There are multiple types of hysterectomies depending on the size of the affected area, including an oophorectomy which is when the ovaries are completely removed Mayo Clinic, 2024. Depending on how the disorder has spread and your desired outcome, your medical professional will recommend the procedure that’s best for you. Remember that your needs come first, and that they should be reflected in the care that you are provided. If you are not given the care you request, do not be afraid to advocate for yourself. Whether it's bringing in someone else to your appointments to help push for opportunities you want to explore, or receiving a referral to another specialist, do what you must to receive the guidance, respect and care you deserve. Emphasize: Treatment plans are highly individualized; readers should always consult their personal physician before starting or modifying treatment."
+    },
+    {
+      "type": "heading",
+      "text": "Living with Endometriosis"
+    },
+    {
+      "type": "paragraph",
+      "text": "Most of this text has discussed the overall symptoms, risk factors and physical tolls that endometriosis takes on those who have it, but living with this disorder is a different topic entirely. Symptoms have a much broader effect than just physical symptoms, they have a large impact on the daily life and the mental health of those who possess them. It deeply affects overall quality of life, social fulfillment and interactions with others. It may even negatively affect individuals financially, as endometriosis can make it difficult to even get out of bed. It can even complicate romantic relationships, due to impaired sexual function caused by the condition. In a study assessing the overall mental health of women with endometriosis before and after treatment, it was found that before treatment, “scores of patients with endometriosis were significantly diminished in comparison to controls, especially in general health, vitality, mental health, and emotional role functioning domains” Rempert et al., 2024. Moreover, 43.1% of women with endometriosis suffer from moderate to severe depression Rempert et al., 2024. This indicates an obvious disparity between those with and without endometriosis, and the profound effect chronic pain disorders can have on all areas of life. Luckily, after treatment, the same study saw that “surgical, pharmaceutical (estrogen-progestin), or combined intervention led to a significant increase in overall QoL scoring (p < 0.03, particularly in the domains of bodily pain, general health, and social functioning” Rempert et al., 2024."
+    },
+    {
+      "type": "paragraph",
+      "text": "You must be thinking that this is amazing, and that women only have to get treatment to see an improvement in mental health, especially after those promising results. However, the reality of this diagnosis isn’t as straightforward as you may think. Due to biases and limited research into the disorder, diagnoses are extremely difficult to receive, and requires extensive appointments with medical professionals. For many women, this is difficult to accomplish because of extensive referrals and long wait times in the public system. Combine this with infrastructure that has historically denied and dismissed the pain of women, and obtaining a diagnosis seems completely out of reach for most women. And for this reason, many women cannot access the care they need to help alleviate their debilitating symptoms."
+    },
+    {
+      "type": "heading",
+      "text": "Conclusion"
+    },
+    {
+      "type": "paragraph",
+      "text": "After reading the bulk of this article, try imagining what life could be like for the 5-10% of women that have this disease. The chronic pain, the heavy periods, the crippling symptoms and the inaccessibility of a diagnosis. Working, eating and even sleeping are affected, with many endometriosis patients having negatively impacted sleep quality Rempert et al., 2024. Now, let’s come back to reality, where you’re back in your own body. Whether you’re part of that 5-10% or not, there is so much you can do to help those who are. You might not have endometriosis, but my hope is that you understand how it can take over the lives of millions without warning. Talking about it, supporting those who have it and advocating for better care can change their lives for the better. Advocacy is the catalyst for positive change, and that can only happen by joining and amplifying the discourse that exists today and one day, you might be part of the reason that something happens to help that 5-10% of women. Because in the end, endometriosis cannot simply be reduced to a pathology, because it has so much more gravity to those who live through it every day."
+    },
+    {
+      "type": "heading",
+      "text": "References"
+    },
+    {
+      "type": "reference",
+      "text": "Arab, A., Karimi, E., Vingrys, K., Kelishadi, M. R., Mehrabani, S., & Askari, G. 2022. Food groups and nutrients consumption and risk of endometriosis: A systematic review and meta-analysis of observational studies. Nutrition Journal, 21-1. https://doi.org/10.1186/s12937-022-00812-x"
+    },
+    {
+      "type": "reference",
+      "text": "Chauhan, S., More, A., Chauhan, V., & Kathane, A. 2022. Endometriosis: A review of clinical diagnosis, treatment, and Pathogenesis. Cureus, 14-9. https://doi.org/10.7759/cureus.28864"
+    },
+    {
+      "type": "reference",
+      "text": "Hansen, K. A., & Eyster, K. M. 2010. Genetics and Genomics of Endometriosis. Clinical Obstetrics and Gynecology, 53-2, 403-412. https://doi.org/10.1097/grf.0b013e3181db7ca1"
+    },
+    {
+      "type": "reference",
+      "text": "Mayo Clinic. 2024. Endometriosis. In Mayo Clinic. https://www.mayoclinic.org/diseases-conditions/endometriosis/symptoms-cau"
+    },
+    {
+      "type": "reference",
+      "text": "ses/syc-20354656 Nigdelis, M. P., Doerk, M., Burghaus, S., Sillem, M., Hamoud, B. H., Erich-Franz Solomayer, & Gregor Leonhard Olmes. 2024. Limitations and perspectives of the novel salivary test for endometriosis: An open web-based survey study of German gynecologic healthcare providers. Archives of Gynecology and Obstetrics, 311. https://doi.org/10.1007/s00404-024-07601-3"
+    },
+    {
+      "type": "reference",
+      "text": "Rempert, A. N., Rempert, T. H., Liu, A., Hernández, A., Blanck, J., Segars, J., & Singh, B. 2024. A systematic review of the psychosocial impact of endometriosis before and after treatment. Reproductive Sciences Thousand Oaks, Calif.), 31, 1828-1860. https://doi.org/10.1007/s43032-024-01515-w"
+    },
+    {
+      "type": "reference",
+      "text": "Wei, J.J., William, J., & Bulun, S. 2011. Endometriosis and ovarian cancer. International Journal of Gynecological Pathology, 30-6, 553-568. https://doi.org/10.1097/pgp.0b013e31821f4b85"
+    },
+    {
+      "type": "reference",
+      "text": "World Health Organization. 2023. Endometriosis. In World Health Organization. World Health Organization. https://www.who.int/news-room/fact-sheets/detail/endometriosis"
+    },
+    {
+      "type": "reference",
+      "text": "Yin, W., Li, X., Liu, P., Li, Y., Liu, J., Yu, S., & Tai, S. 2023. Digestive system deep infiltrating endometriosis: What do we know. Journal of Cellular and Molecular Medicine, 27-23. https://doi.org/10.1111/jcmm.17921"
+    }
+  ],
+  "stefan-szeto": [
+    {
+      "type": "heading",
+      "text": "Abstract"
+    },
+    {
+      "type": "paragraph",
+      "text": "With more than 70% of high school students not getting the recommended 8-10 hours of sleep on school night, millions of teenagers are at risk for sleep deprivation (Uccella et al.). This article explores how daily habits, especially late night-screen use, can disrupt sleep and how insufficient sleep can affect concentration, emotional regulation and academic performance. By explaining how sleep deprivation is recognized and managed, this article gives teenagers practical knowledge to make informed choices about their sleep and protect their health and academic success."
+    },
+    {
+      "type": "heading",
+      "text": "Introduction"
+    },
+    {
+      "type": "paragraph",
+      "text": "At 6-30 AM, the alarm clock blares, but the exhausted 16 year-old cannot move from their bed. After a night of scrolling and messaging, they managed to get only five hours of sleep. While this habit may seem harmless, this lack of sleep and screen use destroys adolescent health. Today, more than 70% of high school students do not get the recommended 8-10 hours of sleep on school nights, putting them at risk for sleep deprivation (Uccella et al.). But what exactly does this mean for their health?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sleep deprivation occurs when you consistently fail to get the proper amount and quality of sleep needed for your body. Although common among teenagers, sleep deprivation can negatively affect not only energy levels, but also classroom concentration, academic learning, and school performance."
+    },
+    {
+      "type": "heading",
+      "text": "Why are Teens Losing Sleep?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Teenagers (individuals between the age of 13 and 19 are especially susceptible to sleep deprivation due to homework, extracurriculars, stress, part-time jobs, and early school start times. Since their daily schedules often clash with their need to sleep, many teens do not get their necessary 8-10 hours of sleep per night. At the same time, adolescence is a period when the body’s internal clock, also known as the circadian rhythm, naturally shifts later, which means that many teenagers feel tired later in the night, compared to younger children (Ja and Weiss). Together, this delayed “sleep drive” and their busy schedules can make it difficult for teens to get their proper rest on school nights."
+    },
+    {
+      "type": "paragraph",
+      "text": "One of the most prominent factors leading to sleep deprivation in teens is late-night screen use. Many students tend to use phones, tablets, or computers before bed to scroll through social media, message friends, play games, watch videos, or complete homework. In fact, roughly 60% of American children report regular use of devices during the hour before bedtime (Hale et al.). Although this habit may seem harmless or counterproductive, the blue light emitted by screens suppresses melatonin, the hormone responsible for the regulation of your circadian rhythm. When the production of melatonin is delayed, it is harder to fall asleep at a healthy time."
+    },
+    {
+      "type": "paragraph",
+      "text": "Furthermore, a recent literature review found that about 90% of included studies reported an association between screen use and delayed bedtime and/or decreased sleep time (Hale et al.). Screen use can significantly affect sleep by keeping the brain more stimulated when it should be winding down. Regularly receiving notifications or checking your phone in bed disrupts your body’s internal clock, making it much harder to fall asleep. As a result, late-night screen use often reduces both the duration and quality of sleep for teenagers (Hale et al.)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Although screen use is not the only cause of sleep deprivation, it is one of the most prevalent reasons for teenagers because it is built into daily life, often used when the mind should be shutting down. Understanding this connection is important because even small changes in your nighttime screen habits can improve sleep quality, helping teens concentrate better in class, strengthen their memory and support their overall academic performance."
+    },
+    {
+      "type": "paragraph",
+      "text": "What Happens When You Don’t Get Enough Sleep?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sleep deprivation can affect much more than just a person’s energy levels. Although tiredness is the most obvious symptom, there are many more changes in teenagers’ daily performance, thinking, and emotions."
+    },
+    {
+      "type": "paragraph",
+      "text": "One of the most common signs of sleep deprivation is excessive daytime sleepiness: meaning that a person feels unusually tired during the day. This leads to a more difficult time concentrating during class, staying focused while studying, and participating in extracurricular activities. Research consistently shows that sleep loss causes the front part of the brain, the prefrontal cortex, to become sluggish and less active, severely reducing attention and hindering executive functioning, management skills handling memory, thinking, and impulse control (Killgore). During sleep, this area also actively replays the day’s events, strengthening important memories while removing unnecessary information in a process called memory consolidation (Seoane et al.). It allows students to retain what they learned during the day, but without enough quality sleep, the brain cannot effectively process or retain new information. Consequently, students may suffer from a slower reaction time, making more mistakes for tasks that require concentration and facing impaired decision-making. This combination of weak focus and poor memory consolidation ultimately forces students to spend more time studying while retaining less."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sleep deprivation can also affect emotional well-being by reducing the brain’s ability to regulate emotions. This means that teenagers may experience heightened irritability, frustration, and a severely reduced tolerance to stress, causing them to overreact to everyday challenges. Research also shows that insufficient sleep may contribute to elevated anxiety levels and an increased vulnerability to stress and depressive symptoms (Shah et al.). Without 8-10 hours of sleep, students will react more strongly to negative events, making them more prone to anxiety or depression while also reducing motivation at school (McEwen and Karatsoreos). These emotional changes can affect relationships with family, friends, and teachers. Because several of these symptoms overlap with everyday stress, sleep deprivation can sometimes go unnoticed even when having a significant impact on life."
+    },
+    {
+      "type": "paragraph",
+      "text": "Although many of the effects of sleep deprivation, such as fatigue, difficulty concentrating, and bad moods, can appear after just a few nights of inadequate sleep, persistent sleep deprivation may also have long-lasting consequences on health."
+    },
+    {
+      "type": "paragraph",
+      "text": "Research has linked constant sleep deprivation to an increased risk of obesity, cardiovascular disease, cognitive decline, and poor mental health in life (Shah et al.). This suggests that sleep deprivation is more than just a short-term convenience; it has lasting effects on both physical and mental health."
+    },
+    {
+      "type": "paragraph",
+      "text": "Note: Symptoms vary widely between individuals; readers should not self-diagnose based on this list. If someone suspects they have this condition, they should consult a healthcare provider."
+    },
+    {
+      "type": "heading",
+      "text": "How is Sleep Deprivation Identified?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Although many medical conditions are diagnosed using a blood test or medical scan, there is no single test used to diagnose sleep deprivation. Instead, healthcare providers may use a combination of methods, including questions about a person’s sleep habits, symptoms, medical history, and daily routines. They may also use sleep diaries, questionnaires, or monitoring tools to assess sleep over time. If another sleep disorder or medical condition is suspected, additional testing, such as a sleep study, may be recommended."
+    },
+    {
+      "type": "paragraph",
+      "text": "The first steps in diagnosing sleep deprivation are discussing a person’s sleep schedule. Healthcare professionals begin by asking about a patient’s sleep schedule as everyday habits often reveal the underlying cause of sleep deprivation. Questions about bedtime, wake-up time, nighttime awakenings, and daytime fatigue help identify patterns that may not be obvious to the patients themselves. They may also recommend using a sleep diary, which is a daily record of sleep patterns, bedtime routines and daytime symptoms. By tracking sleep over several weeks instead of relying on memory, healthcare providers can identify recurring habits such as late night screen use or inconsistent bedtimes that contribute to poor sleep."
+    },
+    {
+      "type": "paragraph",
+      "text": "In certain cases, healthcare providers may recommend additional testing if they suspect another sleep disorder is the underlying cause. This may include one common test which is a polysomnography, also known as a sleep study, which monitors your brain waves, blood oxygen levels, breathing patterns, and eye movement while a person sleeps. Another tool is actigraphy, which involves wearing a small device similar to a wristwatch that tracks movement and sleep patterns over the course of several days or weeks. Unlike a single night in a sleep laboratory, actigraphy allows healthcare providers to accurately observe how a person’s sleep changes in their normal daily routine. Together, these tools give a precise diagnosis and help determine whether symptoms are caused by sleep deprivation or another underlying condition. Receiving a proper diagnosis is important because it gives healthcare providers the opportunity to provide the most appropriate treatments. Early diagnosis for sleep deprivation can also improve concentration, mood and daily functioning."
+    },
+    {
+      "type": "paragraph",
+      "text": "How Can You Get Your Sleep Back on Track?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Even if you are told by a doctor that you are not getting enough rest, the good news is that the condition can often be improved through healthy lifestyle changes. Because screen use is one of the most common contributors for teens, reducing screen use before bed is an effective first step since it allows melatonin levels to rise naturally and reduces the brain stimulation caused by social media. According to the American Academy of Pediatrics AAP, healthcare experts recommend that devices should not be allowed in children’s bedrooms and turned off 30 to 60 minutes before bedtime (Hale et al.). This gives a chance for the body to produce the sleep hormone, making it easier to fall asleep naturally."
+    },
+    {
+      "type": "paragraph",
+      "text": "Having a consistent nightly routine can also significantly improve both the quality and duration of sleep. Going to bed and waking up at the same time everyday, including weekends, trains your body’s circadian rhythm to expect sleep at consistent hours. As this routine becomes established, many teenagers experience a faster time falling asleep, deeper rest and better mood regulation. Other healthy habits include limiting caffeine later in the day, spending time outdoors, and keeping the bedroom cool 15-20°C ), comfortable, dark, and quiet (Hale et al.). Regular physical activity also supports better sleep by increasing the body’s natural drive to sleep after being awake throughout the day."
+    },
+    {
+      "type": "paragraph",
+      "text": "If sleep problems continue despite healthy habits, healthcare providers may prescribe medication such as sleeping pills. In some cases, persistent sleep deprivation may be a sign of an underlying sleep disorder such as insomnia or sleep apnea, which often require medical evaluation and treatment. Receiving appropriate care early can help prevent long-term effects on learning, mental health and physical well-being."
+    },
+    {
+      "type": "paragraph",
+      "text": "Emphasize: Treatment plans are highly individualized; readers should always consult their personal physician before starting or modifying treatment."
+    },
+    {
+      "type": "paragraph",
+      "text": "What It’s Like to Live on Too Little Sleep Living with persistent sleep deprivation can make everyday tasks more difficult than many teenagers realize. Tasks that once felt simple, such as paying attention in class, completing homework, and remembering information for a test, may require much more effort and energy to complete. Research has shown that academic performance correlated significantly to sleep quality (Seoane et al.). Constant fatigue can also make group projects, sport practices, music rehearsals, and afterschool jobs feel much more demanding. Even hobbies that teenagers normally enjoy may become exhausting, causing many students to lose motivation and confidence."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sleep can also have important implications for long-term health. For example, findings suggest a 6 to 15% increased risk of death from any cause among individuals with insufficient sleep compared to those with adequate sleep (Shah et al.). Sleep deprivation causes severe physical consequences, including a weakened immune system, hormonal imbalance that trigger weight gain and increased inflammation. Over time, it significantly affects your cardiovascular system, drastically elevating risks for high blood pressure, heart disease, stroke and type 2 diabetes (Shah et al.)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fortunately, sleep deprivation is often manageable once its causes are recognized. Small changes such as reducing nighttime screen use, following a regular sleep schedule, and creating healthier nightly habits, can improve sleep quality over time. For teenagers balancing school, activities, friendships, and responsibilities, prioritizing sleep is not a sign of laziness, but an investment in having the energy and focus to make the most of their day."
+    },
+    {
+      "type": "heading",
+      "text": "Sleep Isn’t Time Wasted"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sleep deprivation is more than simply feeling tired; it can affect a teenager’s ability to pick up new information, control your emotions and do well inside and outside the classroom. In other words, sleep is not just a time of rest, but it is essential to overall health. Fortunately, many of the most common causes of sleep deprivation, including late night screen use, are within a teenager’s control. By improving their sleep through small changes to bedtime habits, teenagers can protect their sleep. Getting enough sleep is not wasted time; it is one of the most important investments a teenager can make in their health, learning and future."
+    },
+    {
+      "type": "heading",
+      "text": "References"
+    },
+    {
+      "type": "reference",
+      "text": "1. Chokroverty, S. 2010. Overview of Sleep & Sleep Disorders. The Indian Journal of Medical Research, 131, 126-140. https://pubmed.ncbi.nlm.nih.gov/20308738/"
+    },
+    {
+      "type": "reference",
+      "text": "2. Hale, L., Kirschen, G. W., LeBourgeois, M. K., Gradisar, M., Garrison, M. M., Montgomery-Downs, H., Kirschen, H., McHale, S. M., Chang, A.M., & Buxton, O. M. 2018. Youth Screen Media Habits and Sleep. Child and Adolescent Psychiatric Clinics of North America, 27-2, 229-245. https://doi.org/10.1016/j.chc.2017.11.014"
+    },
+    {
+      "type": "reference",
+      "text": "3. Ja, O., & Weiss, M. R. 2017. Insufficient sleep in adolescents: Causes and consequences. In Minerva pediatrica. https://pubmed.ncbi.nlm.nih.gov/28211649/"
+    },
+    {
+      "type": "reference",
+      "text": "4. Killgore, W. 2010. Effects of Sleep Deprivation on Cognition. In Progress in brain research. https://pubmed.ncbi.nlm.nih.gov/21075236/"
+    },
+    {
+      "type": "reference",
+      "text": "5. McEwen, B. S., & Karatsoreos, I. N. 2015. Sleep deprivation and circadian disruption. Sleep Medicine Clinics, 10-1, 1-10. https://doi.org/10.1016/j.jsmc.2014.11.007"
+    },
+    {
+      "type": "reference",
+      "text": "6. Priftis, N., & Panagiotakos, D. 2023. Screen time and its health consequences in children and adolescents. Children Basel, 10-10, 1665-1665. https://doi.org/10.3390/children10101665"
+    },
+    {
+      "type": "reference",
+      "text": "7. Seoane, H. A., Moschetto, L., Orliacq, F., Orliacq, J., Serrano, E., Cazenave, M. I., Vigo, D. E., & Perez-Lloret, S. 2020. Sleep disruption in medicine students and its relationship with impaired academic performance: A systematic review and meta-analysis. Sleep Medicine Reviews, 53-1, 101333. https://doi.org/10.1016/j.smrv.2020.101333"
+    },
+    {
+      "type": "reference",
+      "text": "8. Shah, A. S., Pant, M. R., Bommasamudram, T., Nayak, K. R., Roberts, S. S. H., Gallagher, C., Vaishali, K., Edwards, B. J., Tod, D., Davis, F., & Pullinger, S. A."
+    },
+    {
+      "type": "reference",
+      "text": "2025. Effects of sleep deprivation on physical and mental health outcomes: An umbrella review. American Journal of Lifestyle Medicine. https://doi.org/10.1177/15598276251346752"
+    },
+    {
+      "type": "reference",
+      "text": "9. Uccella, S., Cordani, R., Salfi, F., Gorgoni, M., Scarpelli, S., Gemignani, A., Geoffroy, P. A., De Gennaro, L., Palagini, L., Ferrara, M., & Nobili, L. 2023. Sleep deprivation and insomnia in adolescence: Implications for mental health. Brain Sciences, 13-4, 569. https://doi.org/10.3390/brainsci13040569"
+    }
+  ]
+}
