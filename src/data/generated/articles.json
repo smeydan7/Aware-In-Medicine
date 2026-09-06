@@ -1,0 +1,112 @@
+[
+  {
+    "slug": "andrew-li",
+    "title": "Hiding in Plain Sight: Taking Control of Hypertension",
+    "subtitle": "Learning how to lower your risk of the “silent killer” that is reshaping millions of lives",
+    "author": "Andrew Li",
+    "date": "2026-09-01",
+    "readingTime": "8 min",
+    "category": "Other",
+    "excerpt": "Nearly ¼ Canadian adults suffer from hypertension, but it’s often dismissed as “not serious” simply because there’s no symptoms until it triggers something worse.",
+    "pdf": "/articles/andrew-li.pdf"
+  },
+  {
+    "slug": "bernardo-costa",
+    "title": "A Guide to Understanding Mast Cell Activation Syndrome (MCAS)",
+    "subtitle": "When Your Body's Alarm System Won't Stop Ringing",
+    "author": "Bernardo Werneck da Costa",
+    "date": "2026-09-01",
+    "readingTime": "8 min",
+    "category": "Other",
+    "excerpt": "Mast Cell Activation Syndrome MCAS is an immune condition in which mast cells release excessive chemical mediators in response to ordinary, non-threatening stimuli, producing allergy-like symptoms across multiple organ systems.",
+    "pdf": "/articles/bernardo-costa.pdf"
+  },
+  {
+    "slug": "elia-ma",
+    "title": "What is Ebola Disease?",
+    "subtitle": "Although Ebola is one of the world’s deadliest infectious diseases, current advances in medicine have helped greatly improve the odds of survival and prevention with improved outbreak responses.",
+    "author": "Elia Ma",
+    "date": "2026-09-01",
+    "readingTime": "7 min",
+    "category": "Other",
+    "excerpt": "Ebola can begin with symptoms that look like a common illness, a fever, headache and tiredness, but it can quickly become a serious medical emergency.",
+    "pdf": "/articles/elia-ma.pdf"
+  },
+  {
+    "slug": "gerald-szeto",
+    "title": "Antibiotic Resistance: The Threat to Modern Medicine",
+    "subtitle": "How bacteria are evolving to outsmart our medicines and what we can do to keep antibiotics working.",
+    "author": "Gerald Szeto",
+    "date": "2026-09-01",
+    "readingTime": "6 min",
+    "category": "Other",
+    "excerpt": "Antibiotic resistance could make once-treatable infections significantly more difficult to treat, threatening millions of lives and modern medicine procedures.",
+    "pdf": "/articles/gerald-szeto.pdf"
+  },
+  {
+    "slug": "isabella-wang",
+    "title": "Breaking the Stigma of Epilepsy",
+    "subtitle": "A story that is more than just a seizure",
+    "author": "Isabella Wang",
+    "date": "2026-09-01",
+    "readingTime": "10 min",
+    "category": "Other",
+    "excerpt": "When will the next seizure occur? How will it happen? Fear, anxiety, depression. Three factors that surround epilepsy patients every day.",
+    "pdf": "/articles/isabella-wang.pdf"
+  },
+  {
+    "slug": "matthias-seuntjens",
+    "title": "Multiple Myeloma, in a way you can understand!",
+    "subtitle": "When a health diagnosis turns your world upside down, simple and clear information is the first step to getting better!",
+    "author": "Matthias Seuntjens",
+    "date": "2026-09-01",
+    "readingTime": "6 min",
+    "category": "Other",
+    "excerpt": "Receiving an unexpected diagnosis involving defective blood cells infiltrating the bone marrow can feel intimidating. This summary describes multiple myeloma in clear, accessible terms.",
+    "pdf": "/articles/matthias-seuntjens.pdf"
+  },
+  {
+    "slug": "maxine-krylov",
+    "title": "Beyond the surface: Breaking Down the Physical and Psychological Impacts of Acne Vulgaris",
+    "subtitle": "How Genetics, Hormones and Daily Habits influence Our Skin and What it Means for Our Mental Wellbeing",
+    "author": "Maxine Krylov",
+    "date": "2026-09-01",
+    "readingTime": "8 min",
+    "category": "Other",
+    "excerpt": "Acne vulgaris is a skin condition that affects 85% of adolescents aged between 12-24 years old. Acne is not only a physical skin condition, but it can also build into psychological distress.",
+    "pdf": "/articles/maxine-krylov.pdf"
+  },
+  {
+    "slug": "olivia-wang",
+    "title": "Never Too Late: A Guide To Reverse Type 2 Diabetes",
+    "subtitle": "Frequent thirst. Hunger. Urination. Craving sugar. If your body is trying to talk to you, it’s time to listen.",
+    "author": "Olivia Wang",
+    "date": "2026-09-01",
+    "readingTime": "13 min",
+    "category": "Other",
+    "excerpt": "Most people view diabetes as “eating too much sugar” or “always taking insulin injections,” but it is much more than that.",
+    "pdf": "/articles/olivia-wang.pdf"
+  },
+  {
+    "slug": "sophia-bhatti",
+    "title": "Endometriosis: Living as the Overlooked 10%",
+    "subtitle": "Discussing the workings of endometriosis and the system that refuses to",
+    "author": "Sophia Bhatti",
+    "date": "2026-09-01",
+    "readingTime": "13 min",
+    "category": "Other",
+    "excerpt": "Endometriosis is a chronic inflammatory disorder affecting up to 10% of women worldwide, which is heavily under researched.",
+    "pdf": "/articles/sophia-bhatti.pdf"
+  },
+  {
+    "slug": "stefan-szeto",
+    "title": "Scrolling Past Bedtime",
+    "subtitle": "How Late-Night Screen Use Affects Sleep, Learning, and Teen Health",
+    "author": "Stefan Szeto",
+    "date": "2026-09-01",
+    "readingTime": "10 min",
+    "category": "Other",
+    "excerpt": "With more than 70% of high school students not getting the recommended 8-10 hours of sleep on school night, millions of teenagers are at risk for sleep deprivation (Uccella et al.).",
+    "pdf": "/articles/stefan-szeto.pdf"
+  }
+]

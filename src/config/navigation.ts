@@ -21,6 +21,11 @@ export const primaryNav: NavItem[] = [
     description: 'Browse every condition we cover',
   },
   {
+    label: 'Articles',
+    href: '/articles',
+    description: 'In-depth reads from our editorial fellows',
+  },
+  {
     label: 'Weekly Updates',
     href: '/weekly-updates',
     description: 'Timeline of featured conditions',
