@@ -33,6 +33,17 @@
     "pdf": "/articles/elia-ma.pdf"
   },
   {
+    "slug": "faaris-adek",
+    "title": "What Is High Blood Pressure? A Simple Guide to Hypertension",
+    "subtitle": "Understanding the Causes, Risks, and Prevention of Hypertension",
+    "author": "Faaris Sadek",
+    "date": "2026-09-01",
+    "readingTime": "5 min",
+    "category": "Other",
+    "excerpt": "High blood pressure is a very common health problem, but a lot of people don't even know they have it because it usually doesn't cause any obvious symptoms.",
+    "pdf": "/articles/faaris-adek.pdf"
+  },
+  {
     "slug": "gerald-szeto",
     "title": "Antibiotic Resistance: The Threat to Modern Medicine",
     "subtitle": "How bacteria are evolving to outsmart our medicines and what we can do to keep antibiotics working.",
